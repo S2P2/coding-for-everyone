@@ -9,27 +9,29 @@ It's like connecting two train cars to make a longer train. In many languages, y
 <!-- langtabs-start -->
 
 ```py
-first_name = "Ada"
-last_name = "Lovelace"
+first_part = "Pen Pineapple"
+second_part = "Apple Pen"
 
 # Concatenate the strings with a space in between
-full_name = first_name + " " + last_name
+combined = first_part + " " + second_part
 
-print(full_name) # Displays "Ada Lovelace"
+print(combined) # Displays "Pen Pineapple Apple Pen"
 ```
 
 ```js
-let firstName = "Ada";
-let lastName = "Lovelace";
+let firstPart = "Pen Pineapple";
+let secondPart = "Apple Pen";
 
 // Concatenate the strings with a space in between
-let fullName = firstName + " " + lastName;
+let combined = firstPart + " " + secondPart;
 
-console.log(fullName); // Displays "Ada Lovelace"
+console.log(combined); // Displays "Pen Pineapple Apple Pen"
 ```
 
 <!-- langtabs-end -->
 
-Notice that we had to add a space `" "` in the middle. The computer is extremely literal; it only combines *exactly* what you give it. Without that space, the result would have been `"AdaLovelace"`.
+You got [Pen Pineapple Apple Pen](https://www.youtube.com/watch?v=NfuiB52K7X8)!
 
-This is a fundamental building block. You'll use it to create dynamic greetings (`"Hello, " + userName`), generate reports, or display any kind of organized text to a user.
+Notice that we had to add a space `" "` in the middle. The computer is extremely literal; it only combines *exactly* what you give it. Without that space, the result would have been `"Pen PineappleApple Pen"`.
+
+This is a fundamental building block. You'll use it to create dynamic text (`"Order: " + orderItem`), generate reports, or display any kind of organized text to a user.
