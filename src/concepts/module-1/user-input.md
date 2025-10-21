@@ -26,6 +26,13 @@ console.log("Hello, " + userName + "! It's great to have you in the kitchen.");
 
 <!-- langtabs-end -->
 
+example output:
+
+```
+Welcome! What is your name? John
+Hello, John ! It's great to have you in the kitchen.
+```
+
 ```admonish info title="Limitation of the playground"
 Due to [limitation of the playground](https://mr-addict.github.io/mdbook-repl/limitations.html), we cannot run code with input on this site yet
 
