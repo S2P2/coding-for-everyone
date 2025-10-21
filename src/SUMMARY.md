@@ -17,7 +17,7 @@
 - [Prepping Your Ingredients (Data and Operations)](concepts/module-2/README.md)
   - [The Food Groups (Data Types)](concepts/module-2/data-types.md)
   - [The Kitchen Scale (Simple Math)](concepts/module-2/simple-math.md)
-  - [Chopping Strings (Working with Text)](concepts/module-2/working-with-text.md)
+  - [Chopping and Combining (Working with Text)](concepts/module-2/working-with-text.md)
 - [Following the Recipe (Logic & Flow)](concepts/module-3/README.md)
   - [Checking if it's Done (Comparisons)](concepts/module-3/comparisons.md)
   - [Taste and Adjust (If/Else Decisions)](concepts/module-3/if-else.md)

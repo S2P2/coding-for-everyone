@@ -1,4 +1,4 @@
-# Chopping Strings (Working with Text)
+# Chopping and Combining (Working with Text)
 
 Working with numbers is about calculation, but working with text—or **strings**—is about communication. The most common task you'll perform with strings is combining them to create new, more meaningful messages.
 
