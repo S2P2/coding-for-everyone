@@ -39,6 +39,3 @@ User input is almost always received as a string (text)
 If you ask for a number and want to do math with it, you'll need to convert it first!
 
 We'll see how to do that in our final project.
-```
-
-Now your programs can be interactive, creating a two-way conversation with your user!
