@@ -1,0 +1,46 @@
+[book]
+authors = ["s2p2"]
+language = "en"
+src = "src"
+title = "Coding for Everyone"
+
+[output.html]
+site-url = "/coding-for-everyone/"
+additional-css = ["langtabs.css", "./mdbook-admonish.css"]
+additional-js = ["langtabs.js", "mermaid.min.js", "mermaid-init.js"]
+git-repository-url = "https://github.com/S2P2/coding-for-everyone"
+edit-url-template = "https://github.com/S2P2/coding-for-everyone/edit/main/{path}"
+
+[output.html.fold]
+enable = true
+
+[output.html.playground]
+editable = true
+
+[preprocessor.langtabs]
+command = "mdbook-langtabs"
+
+[preprocessor.repl]
+# iframe url, default is https://mr-addict.github.io/mdbook-repl/embed/
+# src = "https://mr-addict.github.io/mdbook-repl/embed/"
+
+# python is disabled by default and loading is lazy
+python.enable = true
+# iframe url, default is https://mr-addict.github.io/mdbook-repl/embed/
+# src = "https://mr-addict.github.io/mdbook-repl/embed/"
+
+# python is disabled by default and loading is lazy
+python.loading = "lazy"
+
+# javascript is disabled by default and loading is lazy
+javascript.enable = true
+
+# javascript is disabled by default and loading is lazy
+javascript.loading = "lazy"
+
+[preprocessor.mermaid]
+command = "mdbook-mermaid"
+
+[preprocessor.admonish]
+command = "mdbook-admonish"
+assets_version = "3.1.0" # do not edit: managed by `mdbook-admonish install`
