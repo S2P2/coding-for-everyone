@@ -14,16 +14,16 @@ Anytime you see text wrapped in quotation marks (`"` or `'` ), you're looking at
 
 ```py
 # A variable holding a string
-greeting = "Hello, friend!"
+todays_special_menu = "Chef's Special Burger"
 
-print(greeting)
+print(todays_special_menu)
 ```
 
 ```js
 // A variable holding a string
-let greeting = "Hello, friend!";
+todays_special_menu = "Chef's Special Burger"
 
-console.log(greeting);
+console.log(todays_special_menu);
 ```
 
 <!-- langtabs-end -->
@@ -73,16 +73,16 @@ You won't often write `true` or `false` directly. Instead, they are typically th
 
 ```py
 # A boolean
-is_ready = True
+is_oven_preheated = True
 
-print(is_ready)
+print(is_oven_preheated)
 ```
 
 ```js
 // A boolean
-let isReady = true;
+let isOvenPreheated = true;
 
-console.log(isReady);
+console.log(isOvenPreheated);
 ```
 
 <!-- langtabs-end -->
