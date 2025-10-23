@@ -24,6 +24,7 @@
 - [Cooking in Batches (Collections & Loops)](concepts/module-4/README.md)
   - [The Pantry (Arrays & Lists)](concepts/module-4/arrays-and-lists.md)
   - [Stir Until Combined (For Loops)](concepts/module-4/for-loops.md)
+  - [Wait for the Water to Boil (While Loops)]()
   - [Grocery List (Dictionaries / Name-Value Pairs)]()
 - [Organizing Your Kitchen (Functions & Imports)](concepts/module-5/README.md)
   - [Kitchen Stations (Functions)](concepts/module-5/functions.md)
