@@ -9,40 +9,40 @@ Think of it as creating a master recipe for a common task, like "prepare the kit
 1. **Defining the function** is like writing down the recipe on a card and giving it a name. The code inside doesn't run yet. You're just saving it for later.
 2. **Calling the function** is like saying, "Okay, time to follow the 'prepare the kitchen' recipe." The program jumps to the function, runs all the code inside it, and then comes back to where it left off.
 
-Let's see this in action. We'll define a function to handle a standard greeting.
+Let's see this in action. We'll define a function to prepare the kitchen.
 
 <!-- langtabs-start -->
 ```py
-# 1. DEFINE the function and give it a name.
-# This code is now saved under the name 'show_welcome_message'.
-def show_welcome_message():
-  print("Welcome to the kitchen!")
-  print("Let's get cooking.")
+# 1. DEFINE the function for a repeatable task.
+def prepare_station():
+  print("Wash hands and put on an apron.")
+  print("Gather all ingredients and tools.")
+  print("Clear the countertop.")
 
-# 2. CALL the function to execute the code inside it.
-# The program will now print the two lines from above.
-show_welcome_message()
+# 2. CALL the function whenever you start cooking.
+print("Preparing to bake bread...")
+prepare_station()
 
-# The best part? You can call it as many times as you want!
 print("---")
-show_welcome_message()
+print("Preparing to make a salad...")
+prepare_station()
 ```
 
 ```js
-// 1. DEFINE the function and give it a name.
-// This code is now saved under the name 'showWelcomeMessage'.
-function showWelcomeMessage() {
-  console.log("Welcome to the kitchen!");
-  console.log("Let's get cooking.");
+// 1. DEFINE the function for a repeatable task.
+function prepareStation() {
+  console.log("Wash hands and put on an apron.");
+  console.log("Gather all ingredients and tools.");
+  console.log("Clear the countertop.");
 }
 
-// 2. CALL the function to execute the code inside it.
-// The program will now log the two lines from above.
-showWelcomeMessage();
+// 2. CALL the function whenever you start cooking.
+console.log("Preparing to bake bread...");
+prepareStation();
 
-// The best part? You can call it as many times as you want!
-console.log("---");
-showWelcomeMessage();
+console.log("---")
+console.log("Preparing to make a salad...");
+prepareStation();
 ```
 
 <!-- langtabs-end -->

@@ -1,6 +1,6 @@
 # Passing Ingredients (Function Parameters)
 
-Our last function, show\_welcome\_message(), is useful, but it's like a recipe that never changes. It does the exact same thing every single time. What if we want our function to be more flexible? What if we want to welcome a specific person by name?
+Our last function, `prepare_station()`, is useful, but it's like a recipe that never changes. It does the exact same thing every single time. What if we want our function to be more flexible? What if we want to welcome a specific person by name?
 
 This is where **parameters** come in. Parameters are placeholders in a function's definition that allow you to pass data *into* the function when you call it.
 
@@ -13,36 +13,34 @@ Let's update our greeting function to accept a name.
 
 <!-- langtabs-start -->
 ```py
-# 'name' is a PARAMETER - a placeholder for the data we will pass in.
-def greet_person(name):
-  print("Hello,", name, "!")
-  print("Welcome to the kitchen.")
+# 'ingredient' is a PARAMETER - a placeholder for the data we will pass in.
+def add_ingredient(ingredient):
+  print("Adding", ingredient, "to the bowl.")
 
 # Now when we call the function, we must provide an ARGUMENT.
-# "Ada" is the argument that will fill the 'name' placeholder.
-greet_person("Ada")
+# "flour" is the argument that will fill the 'ingredient' placeholder.
+add_ingredient("flour")
 
 print("---")
 
 # We can call it again with a different argument for a different result.
-greet_person("Grace")
+add_ingredient("sugar")
 ```
 
 ```js
-// 'name' is a PARAMETER - a placeholder for the data we will pass in.
-function greetPerson(name) {
-  console.log("Hello, " + name + "!");
-  console.log("Welcome to the kitchen.");
+// 'ingredient' is a PARAMETER - a placeholder for the data we will pass in.
+function addIngredient(ingredient) {
+  console.log("Adding " + ingredient + " to the bowl.");
 }
 
 // Now when we call the function, we must provide an ARGUMENT.
-// "Ada" is the argument that will fill the 'name' placeholder.
-greetPerson("Ada");
+// "flour" is the argument that will fill the 'ingredient' placeholder.
+addIngredient("flour");
 
 console.log("---");
 
 // We can call it again with a different argument for a different result.
-greetPerson("Grace");
+addIngredient("sugar");
 ```
 
 <!-- langtabs-end -->

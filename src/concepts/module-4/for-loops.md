@@ -8,10 +8,10 @@ The logic is just like cooking: "**For** each `step` on my `recipe` card, I will
 
 The loop will automatically:
 
-1. Start with the first item.
-2. Perform the action you specify.
-3. Move to the next item.
-4. Repeat until there are no items left.
+1. Start with the first `step`.
+2. Perform the `action` specified for that step.
+3. Move to the next `step`.
+4. Repeat until all `steps` are complete.
 
 Let's use a `for` loop to print every step in our recipe list from the last lesson.
 
@@ -25,7 +25,7 @@ recipe = [
   "Bake for 25 minutes"
 ]
 
-# For each item in the 'recipe' list...
+# For each 'step' in the 'recipe' list...
 # ...put it in a temporary variable called 'step' and run the code below.
 for step in recipe:
   print(step)
@@ -41,7 +41,7 @@ let recipe = [
   "Bake for 25 minutes"
 ];
 
-// For each item in the 'recipe' array...
+// For each 'step' in the 'recipe' array...
 // ...put it in a temporary variable called 'step' and run the code below.
 for (let step of recipe) {
   console.log(step);
@@ -52,7 +52,7 @@ for (let step of recipe) {
 
 <!-- langtabs-end -->
 
-The combination of lists (to store data) and loops (to process data) is one of the most powerful pairings in all of programming. You'll use it constantly to work with collections of users, products, articles, or any other data you can imagine.
+The combination of lists (to store your `ingredients` and `steps`) and loops (to process them) is one of the most powerful pairings in all of programming. You'll use it constantly to work with collections of `ingredients`, `menu items`, `orders`, or any other data you can imagine.
 
 ---
 

@@ -109,7 +109,7 @@ Let's look at how the code works, section by section.
 Just like in cooking, we first prepare our ingredients. In coding, this means setting up our initial **variables**.
 
 -   `optimal_temperature`: We use a special function to get a random number. This is our goal.
--   `number_of_attempts`: We store `5` in a variable so it's easy to change later if we want.
+-   `number_of_attempts`: We store `7` in a variable so it's easy to change later if we want.
 -   We then print some welcome messages to set the scene for the player.
 
 ### 2. The Baking Loop
