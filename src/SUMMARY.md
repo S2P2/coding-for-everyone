@@ -36,13 +36,14 @@
 
 - [The Secret Ingredient Challenge (Number Guesser)](project/number-guesser.md)
 - [The Secret Recipe (Solution)](project/solution.md)
-- [You've Mastered the Basics! What's Next?]()
+- [You've Mastered the Basics! What's Next?](project/whats-next.md)
 
-# Language Reference
+# Language Guide
 
 - [Python]()
 - [JavaScript]()
 - [Go]()
+- [C#]()
 - [Rust]()
 
 # Resources
