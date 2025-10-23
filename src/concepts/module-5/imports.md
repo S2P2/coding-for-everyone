@@ -1,4 +1,4 @@
-# Kitchen Gadgets (Using External Code)
+# Kitchen Gadgets (Imports)
 
 A great chef doesn't make every single tool from scratch. They use pre-made kitchen gadgets—like a stand mixer or a food processor—to do complex jobs easily.
 
@@ -64,34 +64,39 @@ duration = timedelta(days=7)
 # 3. Add the duration to today's date to get the future date.
 expiration_date = today + duration
 
-# 4. Format the date into a readable string (e.g., "Oct 28, 2025").
+# 4. Format both dates into a readable string (e.g., "Oct 28, 2025").
 # The codes %b, %d, %Y are formatting codes for Month, Day, Year.
+formatted_today = today.strftime("%b %d, %Y")
 formatted_date = expiration_date.strftime("%b %d, %Y")
 
-print("Today's date is:", today)
+print("Today's date is:", formatted_today)
 print("The milk will expire on:", formatted_date)
 ```
 
 ```javascript
-// JavaScript's built-in Date object is clunky, so we will import a very
-// popular and powerful library called Moment.js to make it easy.
+// JavaScript's built-in Date object can handle this, though it can be
+// a bit more verbose than using a dedicated library.
 
-// We import it from a CDN (like cdnjs) that prepares packages for browser imports.
-// !! Due to limitation of this playground, this import is not works
-import { format, addDays } from 'https://cdn.skypack.dev/date-fns';
+// No import is needed for this, but if we were using a library like
+// date-fns, it would look like this:
+// import { format, addDays } from 'date-fns';
 
 // 1. Get today's date.
 const today = new Date();
 
-// 2. Use the 'addDays' function we imported to get the date 7 days from now.
-const expirationDate = addDays(today, 7);
+// 2. Create a "time duration" of 7 days.
+const duration = 7 * 24 * 60 * 60 * 1000; // 7 days in milliseconds
 
-// 3. Use the 'format' function to make it readable.
-// The string 'MMM dd, yyyy' tells the function how we want it to look.
-const formattedDate = format(expirationDate, 'MMM dd, yyyy');
+// 3. Add the duration to today's date to get the future date.
+const expirationDate = new Date(today.getTime() + duration);
 
-console.log("Today's date is:", format(today, 'MMM dd, yyyy'));
-console.log("The milk will expire on:", formattedDate);
+// 4. Format both dates into a readable string (e.g., "Oct 28, 2025").
+const options = { month: 'short', day: 'numeric', year: 'numeric' };
+const formattedToday = today.toLocaleDateString('en-US', options);
+const formattedDate = expirationDate.toLocaleDateString('en-US', options);
+
+console.log("Today's date is: " + formattedToday);
+console.log("The milk will expire on: " + formattedDate);
 ```
 
 <!-- langtabs-end -->
