@@ -5,7 +5,7 @@
 # Getting Started
 
 - [What is Programming?](getting-started/what-is-programming.md)
-- [Choosing Your Focus Language](getting-started/choosing-a-language.md)
+- [Choosing Your Kitchen: A Guide to Programming Languages](getting-started/choosing-a-language.md)
 
 # Core Concepts
 
@@ -24,6 +24,7 @@
 - [Cooking in Batches (Collections & Loops)](concepts/module-4/README.md)
   - [The Pantry (Arrays & Lists)](concepts/module-4/arrays-and-lists.md)
   - [Stir Until Combined (For Loops)](concepts/module-4/for-loops.md)
+  - [Wait for the Water to Boil (While Loops)]()
   - [Grocery List (Dictionaries / Name-Value Pairs)]()
 - [Organizing Your Kitchen (Functions & Imports)](concepts/module-5/README.md)
   - [Kitchen Stations (Functions)](concepts/module-5/functions.md)
@@ -35,13 +36,14 @@
 
 - [The Secret Ingredient Challenge (Number Guesser)](project/number-guesser.md)
 - [The Secret Recipe (Solution)](project/solution.md)
-- [You've Mastered the Basics! What's Next?]()
+- [You've Mastered the Basics! What's Next?](project/whats-next.md)
 
-# Language Reference
+# Language Guide
 
 - [Python]()
 - [JavaScript]()
 - [Go]()
+- [C#]()
 - [Rust]()
 
 # Resources
