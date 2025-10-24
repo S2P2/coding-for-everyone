@@ -22,6 +22,10 @@ Python is incredibly versatile and is a top choice in several major fields:
 *   **Massive Community:** A large and active community means that if you ever get stuck, an answer is likely just a quick search away.
 *   **Highly in Demand:** It is one of the most popular and widely used programming languages in the world.
 
+## Keep in Mind
+
+Because Python is dynamically typed, some errors might not be caught until your program is running, which requires diligent testing.
+
 ## A Taste of Python Syntax
 
 Here’s a taste of what Python code looks like. As you can see, it's clean and straight to the point.

@@ -40,6 +40,7 @@
 
 # Language Guide
 
+- [Who is this language for?](language-guide/language-table.md)
 - [Python](language-guide/python.md)
 - [JavaScript](language-guide/javascript.md)
 - [Go](language-guide/go.md)

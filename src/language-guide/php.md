@@ -23,6 +23,10 @@ PHP is a dominant force on the web. Its primary uses include:
 *   **Massive Ecosystem:** Because it has been around for a long time, there is a vast amount of documentation, tutorials, and libraries available.
 *   **Easy to Deploy:** Most web hosting providers support PHP out of the box, making it simple to get your project online.
 
+## Keep in Mind
+
+While modern PHP is robust, it has a legacy of older code and tutorials online, so it's important to ensure you're learning the latest best practices.
+
 ## A Taste of PHP Syntax
 
 Here’s a taste of what PHP code looks like. It's often mixed directly with HTML, like a recipe card with instructions written right on it.
