@@ -25,7 +25,7 @@
   - [The Pantry (Arrays & Lists)](concepts/module-4/arrays-and-lists.md)
   - [Stir Until Combined (For Loops)](concepts/module-4/for-loops.md)
   - [Wait for the Water to Boil (While Loops)](concepts/module-4/while-loops.md)
-  - [Grocery List (Dictionaries / Name-Value Pairs)]()
+  - [The Recipe Card (Name-Value Pairs)](concepts/module-4/key-values.md)
 - [Organizing Your Kitchen (Functions & Imports)](concepts/module-5/README.md)
   - [Kitchen Stations (Functions)](concepts/module-5/functions.md)
   - [Passing Ingredients (Function Parameters)](concepts/module-5/function-parameters.md)
