@@ -33,52 +33,76 @@ Here’s a taste of what PHP code looks like. It's often mixed directly with HTM
 
 ```php
 <?php
-// --- "Hello, World!" ---
- echo "Hello, PHP Kitchen!";
+// === PHP: A Day at The Coder's Cafe ===
 
+// --- Module 1: Greeting the Customer ---
+echo "Welcome to The Coder's Cafe!\n";
+// Taking an order is like getting user input.
+$customer_name = "Rasmus"; // This is a note for the chef (a comment)
 
-// --- Variables and Data Types ---
-// A string (text)
-$recipe_name = "Classic Chocolate Cake";
-// An integer (whole number)
-$prep_time = 15;
-// A float (decimal number)
-$flour_cups = 2.5;
-// A boolean (true/false)
-$is_delicious = true;
+// --- Module 2: Prepping the Ingredients (Data) ---
+$dish_name = "PHP Hypertext Pancakes";   // String
+$quantity = 3;                           // Integer
+$price_per_dish = 8.50;                  // Float
+$is_order_ready = false;                 // Boolean
+$order_summary = "{$quantity}x {$dish_name}"; // String Interpolation
 
-// --- Basic Operations ---
-$cakes = 2;
-$slices_per_cake = 8;
-$total_slices = $cakes * $slices_per_cake;
-// String concatenation is done with a dot (.).
- echo "We have " . $total_slices . " slices of cake.";
-
-
-// --- Conditional Logic ---
-if ($prep_time < 20) {
-    echo "This is a quick recipe!";
-} elseif ($prep_time > 60) {
-    echo "This recipe requires some patience.";
+// --- Module 3: In the Kitchen (Logic) ---
+if (str_contains($dish_name, "Pancakes")) {
+    echo "Cooking {$order_summary} on the griddle.\n";
 } else {
-    echo "This is a standard recipe.";
+    echo "Cooking {$order_summary} on the stove.\n";
 }
 
-
-// --- Loops ---
-$ingredients = ["flour", "sugar", "eggs"];
-foreach ($ingredients as $ingredient) {
-    echo "Adding " . $ingredient . " to the bowl.\n";
+// --- Module 4: Handling the Full Order (Collections & Loops) ---
+// A customer's complete order (Array)
+$customer_order_list = ["PHP Hypertext Pancakes", "Server-Side Smoothie"];
+echo "Processing full order:\n";
+foreach ($customer_order_list as $item) {
+    echo "- Adding {$item} to the ticket.\n";
 }
 
+// A process that repeats until a condition is met (While Loop)
+$soup_temp = 80;
+while ($soup_temp < 100) {
+    echo "Heating soup... now at {$soup_temp}°C\n";
+    $soup_temp += 10;
+}
+echo "Soup is ready!\n";
 
-// --- Functions ---
-function greet($name) {
-    return "Hello, " . $name . "!";
+// --- Module 5: The Final Bill & A Special Offer (Functions & Imports) ---
+// The rand() function is built-in, no import needed.
+
+// A standard procedure (Function)
+function calculate_bill($customer, $items, $total_price) {
+    echo "\n--- Bill for {$customer} ---\n";
+    foreach ($items as $item) {
+        echo "  - {$item}\n";
+    }
+
+    // Let's add a random promotional discount!
+    $discount = rand(5, 20); // 5% to 20% off
+    echo "Applying a special {$discount}% discount!\n";
+    $final_price = $total_price * (1 - $discount / 100);
+    return $final_price; // Return the calculated value
 }
 
- echo greet("Chef");
+// A bill represented as an Associative Array (Key-Value pairs)
+$order_bill = [
+    "customer" => $customer_name,
+    "items" => $customer_order_list,
+    "total" => $price_per_dish * $quantity
+];
 
+// Call the function to get the final result
+$final_amount = calculate_bill(
+    $order_bill["customer"],
+    $order_bill["items"],
+    $order_bill["total"]
+);
+
+echo "Your final bill is $" . number_format($final_amount, 2) . ".\n";
+echo "Thank you for dining with us, {$customer_name}!\n";
 ?>
 ```
 

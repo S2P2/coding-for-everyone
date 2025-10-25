@@ -31,47 +31,68 @@ Because Python is dynamically typed, some errors might not be caught until your 
 Here’s a taste of what Python code looks like. As you can see, it's clean and straight to the point.
 
 ```python
-# --- "Hello, World!" ---
-print("Hello, Python!")
+# === Python: A Day at The Coder's Cafe ===
 
+# --- Module 1: Greeting the Customer (The Basics) ---
+print("Welcome to The Coder's Cafe!")
+# Taking an order is like getting user input.
+customer_name = "Ada"  # In a real app: input("May I have your name? ")
+# This is a note for the chef (a comment)
 
-# --- Variables and Data Types ---
-# A string (text)
-message = "Welcome to the kitchen"
-# An integer (whole number)
-temperature = 72
-# A float (decimal number)
-pi = 3.14
-# A boolean (true/false)
-is_learning = True
+# --- Module 2: Prepping the Ingredients (Data) ---
+dish_name = "Pixel Perfect Pizza"    # String
+quantity = 2                         # Integer
+price_per_dish = 15.50               # Float
+is_order_ready = False               # Boolean
+order_summary = f"{quantity}x {dish_name}" # String Formatting
 
-# --- Basic Operations ---
-pizzas = 2
-slices_per_pizza = 8
-total_slices = pizzas * slices_per_pizza
-print(f"We have {total_slices} slices of pizza.")
-
-
-# --- Conditional Logic ---
-if temperature > 80:
-    print("It's a hot day!")
-elif temperature < 60:
-    print("It's a bit chilly.")
+# --- Module 3: In the Kitchen (Logic & Flow) ---
+if "Pizza" in dish_name:
+    print(f"Cooking {order_summary} in the brick oven.")
 else:
-    print("The weather is perfect.")
+    print(f"Cooking {order_summary} on the stove.")
 
+# --- Module 4: Handling the Full Order (Collections & Loops) ---
+# A customer's complete order (List)
+customer_order_list = ["Pixel Perfect Pizza", "Data-driven Drink"]
+print("Processing full order:")
+for item in customer_order_list:
+    print(f"- Adding {item} to the ticket.")
 
-# --- Loops ---
-ingredients = ["flour", "sugar", "eggs"]
-for ingredient in ingredients:
-    print(f"Adding {ingredient} to the bowl.")
+# A process that repeats until a condition is met (While Loop)
+soup_temp = 80
+while soup_temp < 100:
+    print(f"Heating soup... now at {soup_temp}°C")
+    soup_temp += 10 # Increase temperature by 10
+print("Soup is ready!")
 
+# --- Module 5: The Final Bill & A Special Offer (Functions & Imports) ---
+import random # For our special promotion
 
-# --- Functions ---
-def greet(name):
-    return f"Hello, {name}!"
+# A standard procedure (Function)
+def calculate_bill(customer, items, total_price):
+    print(f"\n--- Bill for {customer} ---")
+    for item in items:
+        print(f"  - {item}")
 
-print(greet("Chef"))
+    # Let's add a random promotional discount!
+    discount = random.randint(5, 20) # 5% to 20% off
+    print(f"Applying a special {discount}% discount!")
+    final_price = total_price * (1 - discount / 100)
+    return final_price # Return the calculated value
+
+# A bill represented as a Dictionary (Key-Value pairs)
+order_bill = {
+    "customer": customer_name,
+    "items": customer_order_list,
+    "total": price_per_dish * quantity
+}
+
+# Call the function to get the final result
+final_amount = calculate_bill(order_bill["customer"], order_bill["items"], order_bill["total"])
+
+print(f"Your final bill is ${final_amount:.2f}.")
+print(f"Thank you for dining with us, {customer_name}!")
 ```
 
 ## Start Coding in Python

@@ -32,51 +32,87 @@ The 'borrow checker,' which ensures memory safety, has a steep learning curve bu
 Here’s a taste of what Rust code looks like. It's explicit and structured for safety and performance.
 
 ```rust
+extern crate rand; // This line is required for Rust playground
+
+use rand::Rng;
+
+// --- Struct Definition ---
+// We define this "template" for our bill.
+struct Bill<'a> {
+    customer: &'a str,
+    items: &'a [&'a str],
+    total_price: f64,
+}
+
+// --- Module 5: Part 1 - A Standard Procedure (Function) ---
+// The function now takes one argument: a reference to our Bill struct
+fn calculate_bill(bill: &Bill) -> f64 {
+    println!("\n--- Bill for {} ---", bill.customer);
+    for item in bill.items { // Access items via bill.items
+        println!("  - {}", item);
+    }
+
+    // Let's add a random promotional discount!
+    let mut rng = rand::rng();
+    let discount = rng.random_range(5..=20);
+    println!("Applying a special {}% discount!", discount);
+
+    // Access total_price via bill.total_price
+    let final_price = bill.total_price * (1.0 - (discount as f64 / 100.0));
+    final_price // Return the calculated value
+}
+
 fn main() {
-    // --- "Hello, World!" ---
-    println!("Hello, Rust!");
+    // --- Module 1: Greeting the Customer ---
+        println!("Welcome to The Coder's Cafe!");
+        // This is a note for the chef (a comment)
+        let customer_name = "Graydon";
 
-    // --- Variables and Data Types ---
-    // A string slice (a reference to text)
-    let message: &str = "Welcome to the forge";
-    // An integer (whole number)
-    let temperature: i32 = 1500;
-    // A float (decimal number)
-    let pi: f64 = 3.14159;
-    // A boolean (true/false)
-    let is_forging: bool = true;
+        // --- Module 2: Prepping the Ingredients (Data) ---
+        let dish_name: &str = "Borrow-Checked Bagel"; // string slice
+        let quantity: i32 = 1;                       // 32-bit integer
+        let price_per_dish: f64 = 9.99;              // 64-bit float
+        let mut is_order_ready: bool = false;        // boolean (mutable)
+        let order_summary = format!("{}x {}", quantity, dish_name);
 
-    // --- Basic Operations ---
-    let iron_ingots = 4;
-    let swords_per_ingot = 2;
-    let total_swords = iron_ingots * swords_per_ingot;
-    println!("We can forge {} swords.", total_swords);
+        // --- Module 3: In the Kitchen (Logic) ---
+        if dish_name.contains("Bagel") {
+            println!("Cooking {} in the conveyor toaster.", order_summary);
+        } else {
+            println!("Cooking {} on the stove.", order_summary);
+        }
+        is_order_ready = true; // Update the order status
 
+        // --- Module 4: Handling the Full Order (Collections & Loops) ---
+        // A customer's complete order (Vector)
+        let customer_order_list = vec!["Borrow-Checked Bagel", "Ownership Orange Juice"];
+        println!("Processing full order:");
+        for item in &customer_order_list {
+            println!("- Adding {} to the ticket.", item);
+        }
 
-    // --- Conditional Logic ---
-    if temperature > 2500 {
-        println!("It's too hot! The metal will be ruined.");
-    } else if temperature < 1500 {
-        println!("The forge isn't hot enough.");
-    } else {
-        println!("The temperature is perfect for forging.");
-    }
+        // A process that repeats until a condition is met (While Loop)
+        let mut soup_temp = 80;
+        while soup_temp < 100 {
+            println!("Heating soup... now at {}°C", soup_temp);
+            soup_temp += 10;
+        }
+        println!("Soup is ready!");
 
+    // --- Module 5: Part 2 - The Final Bill & A Special Offer ---
+    let total = price_per_dish * quantity as f64;
 
-    // --- Loops ---
-    let materials = ["iron", "coal", "flux"];
-    for material in materials.iter() {
-        println!("Adding {} to the crucible.", material);
-    }
+    let customer_bill = Bill {
+        customer: customer_name,
+        items: &customer_order_list,
+        total_price: total,
+    };
 
+    // Call the function and pass the single struct instance
+    let final_amount = calculate_bill(&customer_bill);
 
-    // --- Functions ---
-    fn greet(name: &str) -> String {
-        return format!("Hello, {}!", name);
-    }
-
-    let greeting = greet("Smith");
-    println!("{}", greeting);
+    println!("Your final bill is ${:.2}.", final_amount);
+    println!("Thank you for dining with us, {}!", customer_bill.customer);
 }
 ```
 
