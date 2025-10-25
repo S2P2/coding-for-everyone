@@ -1,0 +1,5690 @@
+
+msgid ""
+msgstr ""
+"Project-Id-Version: Coding for Everyone\n"
+"POT-Creation-Date: 2025-10-25T19:17:34+07:00\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: src\SUMMARY.md:1
+msgid "Summary"
+msgstr ""
+
+#: src\SUMMARY.md:3 src\index.md:22
+msgid "Welcome to the Journey"
+msgstr ""
+
+#: src\SUMMARY.md:5
+msgid "Getting Started"
+msgstr ""
+
+#: src\SUMMARY.md:7 src\getting-started/what-is-programming.md:1
+msgid "What is Programming?"
+msgstr ""
+
+#: src\SUMMARY.md:8 src\getting-started/choosing-a-language.md:1
+msgid "Choosing Your Kitchen: A Guide to Programming Languages"
+msgstr ""
+
+#: src\SUMMARY.md:10
+msgid "Core Concepts"
+msgstr ""
+
+#: src\SUMMARY.md:12 src\concepts/module-1\index.md:1
+msgid "Mise en Place (The Basics)"
+msgstr ""
+
+#: src\SUMMARY.md:13 src\concepts/module-1/hello-world.md:22
+msgid "The Microwave 'Ding!' (Displaying Output)"
+msgstr ""
+
+#: src\SUMMARY.md:14 src\concepts/module-1/user-input.md:22
+msgid "Taking an Order (User Input)"
+msgstr ""
+
+#: src\SUMMARY.md:15 src\concepts/module-1/variables.md:22
+msgid "Prep Bowls (Variables)"
+msgstr ""
+
+#: src\SUMMARY.md:16 src\concepts/module-1/comments.md:22
+msgid "Notes in the Margin (Comments)"
+msgstr ""
+
+#: src\SUMMARY.md:17
+msgid "Prepping Your Ingredients (Data and Operations)"
+msgstr ""
+
+#: src\SUMMARY.md:18 src\concepts/module-2/data-types.md:22
+msgid "The Food Groups (Data Types)"
+msgstr ""
+
+#: src\SUMMARY.md:19 src\concepts/module-2/simple-math.md:22
+msgid "The Kitchen Scale (Simple Math)"
+msgstr ""
+
+#: src\SUMMARY.md:20 src\concepts/module-2/working-with-text.md:22
+msgid "Chopping and Combining (Working with Text)"
+msgstr ""
+
+#: src\SUMMARY.md:21 src\concepts/module-3\index.md:1
+msgid "Following the Recipe (Logic & Flow)"
+msgstr ""
+
+#: src\SUMMARY.md:22 src\concepts/module-3/comparisons.md:22
+msgid "Checking if it's Done (Comparisons)"
+msgstr ""
+
+#: src\SUMMARY.md:23 src\concepts/module-3/if-else.md:22
+msgid "Taste and Adjust (If/Else Decisions)"
+msgstr ""
+
+#: src\SUMMARY.md:24 src\concepts/module-4\index.md:1
+msgid "Cooking in Batches (Collections & Loops)"
+msgstr ""
+
+#: src\SUMMARY.md:25 src\concepts/module-4/arrays-and-lists.md:22
+msgid "The Pantry (Arrays & Lists)"
+msgstr ""
+
+#: src\SUMMARY.md:26 src\concepts/module-4/for-loops.md:22
+msgid "Stir Until Combined (For Loops)"
+msgstr ""
+
+#: src\SUMMARY.md:27
+msgid "Wait for the Water to Boil (While Loops)"
+msgstr ""
+
+#: src\SUMMARY.md:28
+msgid "Grocery List (Dictionaries / Name-Value Pairs)"
+msgstr ""
+
+#: src\SUMMARY.md:29 src\concepts/module-5\index.md:1
+msgid "Organizing Your Kitchen (Functions & Imports)"
+msgstr ""
+
+#: src\SUMMARY.md:30 src\concepts/module-5/functions.md:22
+msgid "Kitchen Stations (Functions)"
+msgstr ""
+
+#: src\SUMMARY.md:31 src\concepts/module-5/function-parameters.md:22
+msgid "Passing Ingredients (Function Parameters)"
+msgstr ""
+
+#: src\SUMMARY.md:32 src\concepts/module-5/function-returns.md:22
+msgid "Returning the Dish (Function Returns)"
+msgstr ""
+
+#: src\SUMMARY.md:33
+msgid "Kitchen Gadgets (Using External Code)"
+msgstr ""
+
+#: src\SUMMARY.md:35
+msgid "First Project"
+msgstr ""
+
+#: src\SUMMARY.md:37 src\project/number-guesser.md:1
+msgid "The Secret Ingredient Challenge (Number Guesser)"
+msgstr ""
+
+#: src\SUMMARY.md:38 src\project/solution.md:22
+msgid "The Secret Recipe (Solution)"
+msgstr ""
+
+#: src\SUMMARY.md:39 src\project/whats-next.md:1
+msgid "You've Mastered the Basics! What's Next?"
+msgstr ""
+
+#: src\SUMMARY.md:41
+msgid "Language Guide"
+msgstr ""
+
+#: src\SUMMARY.md:43 src\language-guide/language-table.md:1
+msgid "Who is this language for?"
+msgstr ""
+
+#: src\SUMMARY.md:44
+msgid "Python"
+msgstr ""
+
+#: src\SUMMARY.md:45
+msgid "JavaScript"
+msgstr ""
+
+#: src\SUMMARY.md:46
+msgid "Go"
+msgstr ""
+
+#: src\SUMMARY.md:47
+msgid "C#"
+msgstr ""
+
+#: src\SUMMARY.md:48
+msgid "PHP"
+msgstr ""
+
+#: src\SUMMARY.md:49
+msgid "Rust"
+msgstr ""
+
+#: src\SUMMARY.md:51
+msgid "Resources"
+msgstr ""
+
+#: src\SUMMARY.md:53
+msgid "Glossary of Terms"
+msgstr ""
+
+#: src\SUMMARY.md:54
+msgid "Recommended Tools"
+msgstr ""
+
+#: src\SUMMARY.md:58 src\misc/about.md:1
+msgid "About This Project"
+msgstr ""
+
+#: src\index.md:24
+msgid ""
+"You're here because you're curious about how to speak the language of "
+"computers. It's a great time to learn."
+msgstr ""
+
+#: src\index.md:26
+msgid ""
+"You’ve probably seen how powerful modern AI tools are. You can write a "
+"simple sentence and get an article, an image, or even a complete block of "
+"code. The barrier to creating things has never been lower."
+msgstr ""
+
+#: src\index.md:28
+msgid "So if an AI can write code for you, why should you bother learning it?"
+msgstr ""
+
+#: src\index.md:30
+msgid "It's About Precision"
+msgstr ""
+
+#: src\index.md:32
+msgid "The answer comes down to one word: **precision**."
+msgstr ""
+
+#: src\index.md:34
+msgid ""
+"When you ask an AI for an article, you get something creative and "
+"flexible—it's a suggestion. But when you ask for code, you get a blueprint. "
+"Every single line has a precise job to do."
+msgstr ""
+
+#: src\index.md:36
+msgid ""
+"Code is the universal medium the computer understands perfectly. You can run "
+"it, test it, and see exactly what it does. To feel confident in what you're "
+"building, you need to be able to read the blueprint."
+msgstr ""
+
+#: src\index.md:38
+msgid "How This Guide Works: One Concept, Many Languages"
+msgstr ""
+
+#: src\index.md:40
+msgid ""
+"The most important secret to learning to code is that the fundamental ideas "
+"are the same in almost every language. This guide is built around that "
+"principle. Instead of just teaching you one language, we teach you the core "
+"concepts that you can apply anywhere."
+msgstr ""
+
+#: src\index.md:42
+msgid "Here's our approach:"
+msgstr ""
+
+#: src\index.md:44
+msgid ""
+"**We focus on the \"why\" before the \"how.\"** You’ll learn the big ideas "
+"behind the code using simple, relatable language. No prior experience is "
+"needed—we start from scratch."
+msgstr ""
+
+#: src\index.md:45
+msgid ""
+"**You learn by doing, right on the page.** Every concept is paired with a "
+"live code example. You don't need to install anything to get started. You "
+"can run the code, change it, and see what happens instantly."
+msgstr ""
+
+#: src\index.md:47
+msgid ""
+"For example, you can switch between languages in the code block below and "
+"run it to see the same instruction in Python, JavaScript, and more. Try "
+"changing the text inside the quotes!"
+msgstr ""
+
+#: src\index.md:62 src\index.md:77
+msgid "\"Hello, World!\""
+msgstr ""
+
+#: src\index.md:83
+msgid "The Goal is to Be Code-Literate"
+msgstr ""
+
+#: src\index.md:85
+msgid ""
+"Our aim is to help you read and understand basic code, no matter who wrote "
+"it."
+msgstr ""
+
+#: src\index.md:87
+msgid ""
+"You'll learn to read code and know what it’s doing, whether an AI wrote it "
+"or you did. From there, you can start using code to improve your own work "
+"and life, one small project at a time."
+msgstr ""
+
+#: src\index.md:89
+msgid "That quiet confidence is the real skill."
+msgstr ""
+
+#: src\index.md:91
+msgid "Ready to get started?"
+msgstr ""
+
+#: src\getting-started/what-is-programming.md:3
+msgid ""
+"Programming is the process of giving a computer a set of instructions to "
+"perform a specific task. Think of it like writing a recipe for a computer to "
+"follow."
+msgstr ""
+
+#: src\getting-started/what-is-programming.md:5
+msgid ""
+"At its core, programming is about problem-solving. You take a problem, break "
+"it down into smaller, more manageable steps, and then write instructions "
+"(code) for each of those small steps. The computer then executes these "
+"instructions in sequence to achieve the desired outcome."
+msgstr ""
+
+#: src\getting-started/what-is-programming.md:7
+msgid ""
+"```mermaid\n"
+"graph TD\n"
+"    A[Problem: I need to greet a user] --> B[\"Break it Down: Recipe "
+"Steps\"];\n"
+"    B --> C[Write Instructions: Code];\n"
+"    C --> D[Computer Executes];\n"
+"    D --> E[Result: Hello, user!];\n"
+"```"
+msgstr ""
+
+#: src\getting-started/what-is-programming.md:15
+msgid ""
+"These instructions are written in a special language that the computer can "
+"understand, called a **programming language**. There are many different "
+"programming language, each with its own strengths and weaknesses, but they "
+"all serve the same fundamental purpose: to bridge the communication gap "
+"between humans and computers."
+msgstr ""
+
+#: src\getting-started/what-is-programming.md:17
+msgid ""
+"The people who write these instructions are called **programmers** or "
+"**developers**. They use their creativity and logical thinking to build all "
+"sorts of amazing things, from websites and mobile apps to video games and "
+"artificial intelligence."
+msgstr ""
+
+#: src\getting-started/what-is-programming.md:19
+msgid "Coding vs. Programming"
+msgstr ""
+
+#: src\getting-started/what-is-programming.md:21
+msgid ""
+"While often used interchangeably, \"coding\" and \"programming\" have "
+"slightly different meanings."
+msgstr ""
+
+#: src\getting-started/what-is-programming.md:23
+msgid ""
+"**Coding** is the act of translating logic into a language a computer "
+"understands. It's the part where you write the actual lines of code."
+msgstr ""
+
+#: src\getting-started/what-is-programming.md:24
+msgid ""
+"**Programming** is a broader process that includes coding, but also involves "
+"planning, designing, debugging, and testing a complete program."
+msgstr ""
+
+#: src\getting-started/what-is-programming.md:26
+msgid "In simple terms, coding is a part of programming."
+msgstr ""
+
+#: src\getting-started/what-is-programming.md:28
+msgid "You Don't Have to Be a Professional Developer to Code"
+msgstr ""
+
+#: src\getting-started/what-is-programming.md:30
+msgid ""
+"In the past, creating software was almost exclusively the domain of "
+"professional programmers and developers. However, the rise of Artificial "
+"Intelligence (AI) is changing that. Nowadays, AI tools can help you write "
+"code, debug it, and even learn programming concepts."
+msgstr ""
+
+#: src\getting-started/what-is-programming.md:32
+msgid ""
+"Think of modern AI as your personal coding assistant. It can help you find "
+"mistakes or translate a plain-English idea into code, but you are still the "
+"chef. This guide will teach you how to read the recipe and guide your "
+"assistant effectively."
+msgstr ""
+
+#: src\getting-started/choosing-a-language.md:3
+msgid ""
+"You're about to learn the universal rules of cooking—the core concepts like "
+"variables, logic, and loops that are the same no matter what kitchen you're "
+"in."
+msgstr ""
+
+#: src\getting-started/choosing-a-language.md:5
+msgid "But before you start, you need to pick your primary kitchen."
+msgstr ""
+
+#: src\getting-started/choosing-a-language.md:7
+msgid ""
+"Think of programming languages as specialized kitchens. A bakery is "
+"optimized for making bread, while a sushi bar is designed for preparing "
+"fish. You can probably make a sandwich in both, but each one is built to "
+"excel at a specific kind of task."
+msgstr ""
+
+#: src\getting-started/choosing-a-language.md:9
+msgid ""
+"This guide will help you understand the different _types_ of kitchens so you "
+"can choose a focus for the interactive examples that follow."
+msgstr ""
+
+#: src\getting-started/choosing-a-language.md:11
+msgid ""
+"**The most important advice:** Your first choice is not a final commitment. "
+"Learning your first language is like learning to use a chef's knife. Once "
+"you master that fundamental skill, picking up a different knife—or moving to "
+"a different kitchen—is much, much easier."
+msgstr ""
+
+#: src\getting-started/choosing-a-language.md:13
+msgid "Kitchens Grouped by Purpose"
+msgstr ""
+
+#: src\getting-started/choosing-a-language.md:15
+msgid ""
+"**The Web Development Kitchen (What the Customer Sees):** This is the world "
+"of **JavaScript**, used to build the interactive websites you use every day."
+msgstr ""
+
+#: src\getting-started/choosing-a-language.md:16
+msgid ""
+"**The Backend & Cloud Kitchen (The Engine Room):** This is the "
+"\"behind-the-scenes\" work that powers everything. Top choices here include "
+"**Go** (for speed), **Python** (for versatility), **C#** (for enterprise "
+"applications), and **PHP** (a classic workhorse of the web)."
+msgstr ""
+
+#: src\getting-started/choosing-a-language.md:17
+msgid ""
+"**The Systems & Infrastructure Kitchen (The Forge):** This is where the "
+"kitchen equipment itself is built. **Rust** is the modern choice for "
+"building ultra-fast and safe foundational software like game engines and "
+"operating systems."
+msgstr ""
+
+#: src\getting-started/choosing-a-language.md:19
+msgid "Your First Choice: Just Start Cooking"
+msgstr ""
+
+#: src\getting-started/choosing-a-language.md:21
+msgid ""
+"You now have a map of the different kitchens available. For this tutorial, "
+"the interactive examples will work best with Python and JavaScript, but the "
+"concepts apply to all of them."
+msgstr ""
+
+#: src\getting-started/choosing-a-language.md:23
+msgid "To avoid getting stuck, here is our simple recommendation:"
+msgstr ""
+
+#: src\getting-started/choosing-a-language.md:25
+msgid ""
+"**If you are a complete beginner and not sure what to build, start with "
+"Python.** Its clean syntax and gentle learning curve make it the best "
+"all-around language for learning the fundamentals."
+msgstr ""
+
+#: src\getting-started/choosing-a-language.md:26
+msgid ""
+"**If you know you want to build websites, start with JavaScript.** You can "
+"see your results come to life in the browser instantly."
+msgstr ""
+
+#: src\getting-started/choosing-a-language.md:28
+msgid ""
+"Pick one that seems interesting. The most important thing you can do right "
+"now is to **just start.** You can always explore other kitchens later."
+msgstr ""
+
+#: src\getting-started/choosing-a-language.md:30
+msgid ""
+"```admonish info title=\"Want to go deeper? Learn about the different types "
+"of kitchens.\" collapsible=true\n"
+"Here is a more detailed breakdown of what makes these languages different. "
+"This is extra information for the curious—you don't need to memorize it to "
+"continue with the tutorial!\n"
+"\n"
+"### Three Key Characteristics to Consider\n"
+"\n"
+"Beyond their main purpose, languages also have different \"personalities.\"\n"
+"\n"
+"#### 1. How is the recipe followed? (Interpreted vs. Compiled)\n"
+"*   **Interpreted (A Chef Translating as They Go):** An interpreter reads "
+"your code one line at a time and runs it immediately. It’s great for "
+"learning and getting instant feedback. (e.g., Python, JavaScript)\n"
+"*   **Compiled (Translating the Whole Cookbook First):** A compiler "
+"translates your entire recipe into a super-optimized format before it's run. "
+"This means incredible performance and the ability to catch many errors "
+"upfront. (e.g., Rust, Go, C#)\n"
+"\n"
+"#### 2. How much help do I want from the kitchen inspector? (Type Safety)\n"
+"*   **Strict Inspectors (Statically Typed):** These languages check all your "
+"\"ingredients\" before you start cooking, preventing many common errors. "
+"(e.g., Rust, Go, C#)\n"
+"*   **Relaxed Inspectors (Dynamically Typed):** These languages trust you to "
+"use the right ingredients and only check for errors as the code is running. "
+"(e.g., Python, JavaScript)\n"
+"\n"
+"#### 3. How close to the stove's wiring do I want to get? (Level of "
+"Abstraction)\n"
+"*   **High-Level (Simple Buttons):** These languages hide the complex "
+"details and give you simple commands to get work done. (e.g., Python, "
+"JavaScript)\n"
+"*   **Low-Level (Wiring and Coils):** These languages give you fine-grained "
+"control over the computer's resources for maximum performance. (e.g., Rust)\n"
+"\n"
+"```"
+msgstr ""
+
+#: src\getting-started/choosing-a-language.md:51
+msgid ""
+"This structure is the best of all worlds. It's clean, concise, and perfectly "
+"tailored to the needs of different learners using the same page."
+msgstr ""
+
+#: src\concepts/module-1\index.md:3
+msgid ""
+"Welcome to your first module! Think of this as learning your way around a "
+"new kitchen. We'll cover the three most essential concepts you need before "
+"you can start cooking up code."
+msgstr ""
+
+#: src\concepts/module-1\index.md:5
+msgid ""
+"**Hello, World! (Displaying Output)**: This is how your program "
+"communicates, like the \"ding!\" of a microwave. It's the simplest way to "
+"confirm your kitchen is set up and working."
+msgstr ""
+
+#: src\concepts/module-1\index.md:6
+msgid ""
+"**Comments (Leaving Notes)**: These are notes for yourself or others, like "
+"scribbling \"use less salt\" in a cookbook's margin. The computer ignores "
+"them completely."
+msgstr ""
+
+#: src\concepts/module-1\index.md:7
+msgid ""
+"**Variables (Storing Information)**: These are your labeled prep bowls for "
+"ingredients (data), keeping everything organized and easy to find when your "
+"recipe calls for it."
+msgstr ""
+
+#: src\concepts/module-1\index.md:9
+msgid "Let's get started."
+msgstr ""
+
+#: src\concepts/module-1/hello-world.md:24
+msgid "A simple way to display output from the computer to the screen."
+msgstr ""
+
+#: src\concepts/module-1/hello-world.md:26
+msgid ""
+"Think of this as the \"ding!\" from your microwave. It's the simplest way "
+"for your program to tell you that it's on and working."
+msgstr ""
+
+#: src\concepts/module-1/hello-world.md:41
+#: src\concepts/module-1/hello-world.md:56
+msgid "\"Ding!\""
+msgstr ""
+
+#: src\concepts/module-1/hello-world.md:62
+msgid ""
+"Try changing the message inside the quotation marks and running the code. "
+"You've just served your first \"dish\"!"
+msgstr ""
+
+#: src\concepts/module-1/user-input.md:24
+msgid ""
+"So far, our program can talk, but it can't listen. We've used `print()` to "
+"display messages, but what if we want to ask the user a question and use "
+"their answer?"
+msgstr ""
+
+#: src\concepts/module-1/user-input.md:26
+msgid ""
+"Getting information from the user is called **user input**. Think of it as "
+"your program taking a customer's order. It asks a question, waits for an "
+"answer, and then stores that answer in a variable to use later."
+msgstr ""
+
+#: src\concepts/module-1/user-input.md:41
+msgid ""
+"# The input() function displays a prompt and waits for the user to type "
+"something.\n"
+"# Whatever the user types is stored in the 'user_name' variable.\n"
+msgstr ""
+
+#: src\concepts/module-1/user-input.md:43
+#: src\concepts/module-1/user-input.md:63
+msgid "\"Welcome to our cafe! What would you like to order? \""
+msgstr ""
+
+#: src\concepts/module-1/user-input.md:44
+msgid "# Now we can use that variable to confirm the order.\n"
+msgstr ""
+
+#: src\concepts/module-1/user-input.md:46
+msgid "\"Great choice! So you'd like to order\""
+msgstr ""
+
+#: src\concepts/module-1/user-input.md:46
+#: src\concepts/module-1/user-input.md:66
+msgid "\". Coming right up!\""
+msgstr ""
+
+#: src\concepts/module-1/user-input.md:61
+msgid ""
+"// The prompt() function displays a pop-up box with a message (if run using "
+"browser).\n"
+"// Whatever the user types is stored in the 'userName' variable.\n"
+msgstr ""
+
+#: src\concepts/module-1/user-input.md:64
+msgid "// Now we can use that variable to confirm the order.\n"
+msgstr ""
+
+#: src\concepts/module-1/user-input.md:66
+msgid "\"Great choice! So you'd like to order \""
+msgstr ""
+
+#: src\concepts/module-1/user-input.md:72
+msgid "example output:"
+msgstr ""
+
+#: src\concepts/module-1/user-input.md:79
+msgid ""
+"```admonish info title=\"Limitation of the playground\"\n"
+"Due to [limitation of the "
+"playground](https://mr-addict.github.io/mdbook-repl/limitations.html), we "
+"cannot run code with input on this site yet\n"
+"\n"
+"Try copy code to run on your computer.\n"
+"For online playground:\n"
+"- Python: [Programiz Python Online "
+"Compiler](https://www.programiz.com/online-compiler/3BWDQzDElFCOR)\n"
+"- JavaScript: [Programiz JavaScript Online "
+"Compiler](https://www.programiz.com/online-compiler/45rvitLN1VQj2), or your "
+"browser (press F12 for most browser, paste the code and run)\n"
+"```"
+msgstr ""
+
+#: src\concepts/module-1/user-input.md:88
+msgid ""
+"User input is almost always received as a string (text) If you ask for a "
+"number and want to do math with it, you'll need to convert it first!"
+msgstr ""
+
+#: src\concepts/module-1/user-input.md:91
+msgid "We'll see how to do that in our final project."
+msgstr ""
+
+#: src\concepts/module-1/variables.md:24
+msgid ""
+"A variable is a labeled container for a piece of information, like using a "
+"labeled bowl for an ingredient. This practice, known in cooking as _mise en "
+"place_, keeps your code organized and easy to read."
+msgstr ""
+
+#: src\concepts/module-1/variables.md:26
+msgid ""
+"The equals sign (`=`) is the **assignment operator**. It's an action, not a "
+"question. It means: \"Put the value on the right into the container on the "
+"left.\""
+msgstr ""
+
+#: src\concepts/module-1/variables.md:41
+msgid "# Create a variable 'number_of_eggs' and assign the value 3 to it.\n"
+msgstr ""
+
+#: src\concepts/module-1/variables.md:43
+msgid ""
+"# Now we can use the variable's name to get its value.\n"
+"# This will display the number 3.\n"
+msgstr ""
+
+#: src\concepts/module-1/variables.md:61
+msgid "// Create a variable 'number_of_eggs' and assign the value 3 to it.\n"
+msgstr ""
+
+#: src\concepts/module-1/variables.md:63
+msgid ""
+"// Now we can use the variable's name to get its value.\n"
+"// This will display the number 3.\n"
+msgstr ""
+
+#: src\concepts/module-1/variables.md:72
+msgid ""
+"By using variables, you can store information and refer to it by name "
+"anywhere in your program."
+msgstr ""
+
+#: src\concepts/module-1/comments.md:24
+msgid ""
+"Comments are notes for humans. The computer that **runs** your program will "
+"completely ignore them, much like a note you'd write in the margin of a "
+"recipe. Their purpose is to make the code easier for people to understand."
+msgstr ""
+
+#: src\concepts/module-1/comments.md:26
+msgid ""
+"It's important to note that while the program ignores comments during "
+"execution, other tools like AI assistants can read them to understand the "
+"code's purpose and context."
+msgstr ""
+
+#: src\concepts/module-1/comments.md:28
+msgid "A good comment explains the **why**, not just the _what_."
+msgstr ""
+
+#: src\concepts/module-1/comments.md:30
+msgid "Bad Comment 👎"
+msgstr ""
+
+#: src\concepts/module-1/comments.md:31
+msgid ""
+"This comment is redundant because it only states what the code is already "
+"doing."
+msgstr ""
+
+#: src\concepts/module-1/comments.md:34
+msgid "# Sets the oven temperature to 400.\n"
+msgstr ""
+
+#: src\concepts/module-1/comments.md:38
+msgid "Good Comment 👍"
+msgstr ""
+
+#: src\concepts/module-1/comments.md:39
+msgid ""
+"This comment is helpful because it explains the reasoning why the "
+"temperature is set so high, which isn't obvious from the code itself."
+msgstr ""
+
+#: src\concepts/module-1/comments.md:42
+msgid "# Set oven to a high temperature to get a good char on the vegetables.\n"
+msgstr ""
+
+#: src\concepts/module-2\index.md:1
+msgid "Prepping Your Ingredients: Data and Operations"
+msgstr ""
+
+#: src\concepts/module-2\index.md:3
+msgid ""
+"Now that you know how to set up your kitchen with variables, it's time to "
+"learn about your ingredients. In programming, your \"ingredients\" are the "
+"different types of data you'll work with."
+msgstr ""
+
+#: src\concepts/module-2\index.md:5
+msgid "This module introduces you to the basic food groups of programming."
+msgstr ""
+
+#: src\concepts/module-2\index.md:7
+msgid ""
+"**The Food Groups (Data Types)**: You'll learn to distinguish between "
+"different kinds of information, like text, whole numbers, and simple `true` "
+"or `false` values. Just as you wouldn't bake a cake with salt instead of "
+"sugar, using the right data type is crucial for a successful recipe."
+msgstr ""
+
+#: src\concepts/module-2\index.md:8
+msgid ""
+"**The Kitchen Scale (Simple Math)**: Computers are excellent calculators. "
+"We'll see how to perform basic arithmetic, turning your code into a powerful "
+"tool for measuring and combining numerical ingredients."
+msgstr ""
+
+#: src\concepts/module-2\index.md:9
+msgid ""
+"**Chopping and Combining (Working with Text)**: You'll learn fundamental "
+"ways to slice and combine pieces of text, an essential skill for creating "
+"messages, labels, or any text that people will read."
+msgstr ""
+
+#: src\concepts/module-2\index.md:11
+msgid "Let's start prepping our ingredients."
+msgstr ""
+
+#: src\concepts/module-2/data-types.md:24
+msgid ""
+"In the last module, we used variables to store information in labeled "
+"containers. But the computer needs to know _what kind_ of information it's "
+"storing. Is it a number you can do math with? Or is it text for display?"
+msgstr ""
+
+#: src\concepts/module-2/data-types.md:26
+msgid ""
+"These different kinds of information are called **data types**. Think of "
+"them like categories of ingredients: you have liquids (water, oil), solids "
+"(vegetables, meat), and powders (flour, sugar). Each type has different "
+"properties and uses."
+msgstr ""
+
+#: src\concepts/module-2/data-types.md:28
+msgid "Let's look at the three most common data types."
+msgstr ""
+
+#: src\concepts/module-2/data-types.md:30
+msgid "Strings (Text)"
+msgstr ""
+
+#: src\concepts/module-2/data-types.md:32
+msgid ""
+"Anytime you see text wrapped in quotation marks (`\"` or `'` ), you're "
+"looking at a **string**. It's the data type for storing words, sentences, or "
+"any sequence of characters."
+msgstr ""
+
+#: src\concepts/module-2/data-types.md:47
+msgid "# A variable holding a string\n"
+msgstr ""
+
+#: src\concepts/module-2/data-types.md:48
+#: src\concepts/module-2/data-types.md:66
+msgid "\"Chef's Special Burger\""
+msgstr ""
+
+#: src\concepts/module-2/data-types.md:65
+msgid "// A variable holding a string\n"
+msgstr ""
+
+#: src\concepts/module-2/data-types.md:74
+msgid "Numbers (Integers and Floats)"
+msgstr ""
+
+#: src\concepts/module-2/data-types.md:76
+msgid ""
+"Numbers are for... well, numbers! You use them for counting, calculations, "
+"and measurements. Unlike strings, you don't wrap them in quotes."
+msgstr ""
+
+#: src\concepts/module-2/data-types.md:78
+msgid "Most languages have two main types of numbers:"
+msgstr ""
+
+#: src\concepts/module-2/data-types.md:80
+msgid "**Integers**: Whole numbers, like `1`, `42`, or `-10`."
+msgstr ""
+
+#: src\concepts/module-2/data-types.md:81
+msgid ""
+"**Floats** (or \"floating-point numbers\"): Numbers with a decimal point, "
+"like `3.14`, `99.9`, or `-0.5`."
+msgstr ""
+
+#: src\concepts/module-2/data-types.md:96
+msgid "# An integer\n"
+msgstr ""
+
+#: src\concepts/module-2/data-types.md:98
+msgid "# A float\n"
+msgstr ""
+
+#: src\concepts/module-2/data-types.md:118
+msgid "// An integer\n"
+msgstr ""
+
+#: src\concepts/module-2/data-types.md:120
+msgid "// A float\n"
+msgstr ""
+
+#: src\concepts/module-2/data-types.md:131
+msgid "Booleans (True or False)"
+msgstr ""
+
+#: src\concepts/module-2/data-types.md:133
+msgid ""
+"A **boolean** is the simplest data type. It can only have one of two values: "
+"`true` or `false`. Think of it as a light switch—it's either on or off. "
+"There's no in-between."
+msgstr ""
+
+#: src\concepts/module-2/data-types.md:135
+msgid ""
+"You won't often write `true` or `false` directly. Instead, they are "
+"typically the answer to a question your code asks, like \"is the oven "
+"temperature over 400 degrees?\" We'll explore this more in the next module "
+"on logic."
+msgstr ""
+
+#: src\concepts/module-2/data-types.md:150
+msgid "# A boolean\n"
+msgstr ""
+
+#: src\concepts/module-2/data-types.md:168
+msgid "// A boolean\n"
+msgstr ""
+
+#: src\concepts/module-2/simple-math.md:24
+msgid ""
+"Simple Math (Code as a Calculator) One of the most powerful and "
+"straightforward things you can do with code is math. At its core, a computer "
+"is just a very, very fast calculator. You can use standard arithmetic "
+"operators right in your code to add, subtract, multiply, and divide."
+msgstr ""
+
+#: src\concepts/module-2/simple-math.md:26
+msgid "The most common operators are:"
+msgstr ""
+
+#: src\concepts/module-2/simple-math.md:28
+msgid "`+` (Addition)"
+msgstr ""
+
+#: src\concepts/module-2/simple-math.md:29
+msgid "`-` (Subtraction)"
+msgstr ""
+
+#: src\concepts/module-2/simple-math.md:30
+msgid "`*` (Multiplication)"
+msgstr ""
+
+#: src\concepts/module-2/simple-math.md:31
+msgid "`/` (Division)"
+msgstr ""
+
+#: src\concepts/module-2/simple-math.md:33
+msgid "You can perform calculations directly or use variables that hold numbers."
+msgstr ""
+
+#: src\concepts/module-2/simple-math.md:48
+msgid "# You can do math with numbers...\n"
+msgstr ""
+
+#: src\concepts/module-2/simple-math.md:53
+msgid "# This will display 24\n"
+msgstr ""
+
+#: src\concepts/module-2/simple-math.md:54
+msgid "# ...and with other variables\n"
+msgstr ""
+
+#: src\concepts/module-2/simple-math.md:59
+msgid "# This will display 19\n"
+msgstr ""
+
+#: src\concepts/module-2/simple-math.md:74
+msgid "// You can do math with numbers...\n"
+msgstr ""
+
+#: src\concepts/module-2/simple-math.md:79
+msgid "// This will display 24\n"
+msgstr ""
+
+#: src\concepts/module-2/simple-math.md:80
+msgid "// ...and with other variables\n"
+msgstr ""
+
+#: src\concepts/module-2/simple-math.md:85
+msgid "// This will display 19\n"
+msgstr ""
+
+#: src\concepts/module-2/simple-math.md:91
+msgid ""
+"Just like in school, programming languages follow an **order of operations** "
+"(like PEMDAS/BODMAS), so multiplication and division happen before addition "
+"and subtraction."
+msgstr ""
+
+#: src\concepts/module-2/working-with-text.md:24
+msgid ""
+"Working with numbers is about calculation, but working with text—or "
+"**strings**—is about communication. The most common task you'll perform with "
+"strings is combining them to create new, more meaningful messages."
+msgstr ""
+
+#: src\concepts/module-2/working-with-text.md:26
+msgid "This process of joining strings together is called **concatenation**. 🔗"
+msgstr ""
+
+#: src\concepts/module-2/working-with-text.md:28
+msgid ""
+"It's like connecting two train cars to make a longer train. In many "
+"languages, you can use the same `+` symbol you used for addition to "
+"concatenate strings."
+msgstr ""
+
+#: src\concepts/module-2/working-with-text.md:43
+#: src\concepts/module-2/working-with-text.md:64
+msgid "\"Pen Pineapple\""
+msgstr ""
+
+#: src\concepts/module-2/working-with-text.md:44
+#: src\concepts/module-2/working-with-text.md:65
+msgid "\"Apple Pen\""
+msgstr ""
+
+#: src\concepts/module-2/working-with-text.md:45
+msgid "# Concatenate the strings with a space in between\n"
+msgstr ""
+
+#: src\concepts/module-2/working-with-text.md:47
+#: src\concepts/module-2/working-with-text.md:68
+#: src\concepts/module-5/function-returns.md:68
+#: src\concepts/module-5/function-returns.md:106
+msgid "\" \""
+msgstr ""
+
+#: src\concepts/module-2/working-with-text.md:49
+msgid "# Displays \"Pen Pineapple Apple Pen\"\n"
+msgstr ""
+
+#: src\concepts/module-2/working-with-text.md:66
+msgid "// Concatenate the strings with a space in between\n"
+msgstr ""
+
+#: src\concepts/module-2/working-with-text.md:70
+msgid "// Displays \"Pen Pineapple Apple Pen\"\n"
+msgstr ""
+
+#: src\concepts/module-2/working-with-text.md:76
+msgid ""
+"You got [Pen Pineapple Apple "
+"Pen](https://www.youtube.com/watch?v=NfuiB52K7X8)!"
+msgstr ""
+
+#: src\concepts/module-2/working-with-text.md:78
+msgid ""
+"Notice that we had to add a space `\" \"` in the middle. The computer is "
+"extremely literal; it only combines _exactly_ what you give it. Without that "
+"space, the result would have been `\"Pen PineappleApple Pen\"`."
+msgstr ""
+
+#: src\concepts/module-2/working-with-text.md:80
+msgid ""
+"This is a fundamental building block. You'll use it to create dynamic text "
+"(`\"Order: \" + orderItem`), generate reports, or display any kind of "
+"organized text to a user."
+msgstr ""
+
+#: src\concepts/module-3\index.md:3
+msgid ""
+"In the last module, we learned about our ingredients (data types). Now, it's "
+"time to learn how to follow a recipe. A recipe isn't just a list of "
+"ingredients; it has instructions that tell you _when_ and _why_ to do "
+"things. \"If the water is boiling, add pasta.\" \"Wait until the oven is "
+"preheated.\""
+msgstr ""
+
+#: src\concepts/module-3\index.md:5
+msgid ""
+"This is the core of **logic** and **control flow**. You're telling the "
+"computer not just _what_ to do, but how to make decisions along the way."
+msgstr ""
+
+#: src\concepts/module-3\index.md:7
+msgid ""
+"**Checking if it's Done (Comparisons)**: This is how you check the state of "
+"your kitchen. Is the oven hot enough? Do we have enough eggs? Your code asks "
+"a question, and the answer is always a simple `true` or `false`."
+msgstr ""
+
+#: src\concepts/module-3\index.md:8
+msgid ""
+"**Taste and Adjust (If/Else Decisions)**: After you follow a step, you often "
+"taste the soup. **If** it needs more salt, you add some. **Else** "
+"(otherwise), you move on to the next step. This is your code making a choice "
+"based on a condition."
+msgstr ""
+
+#: src\concepts/module-3\index.md:10
+msgid ""
+"Now, let's learn how to give our program the precise instructions and rules "
+"it needs to follow."
+msgstr ""
+
+#: src\concepts/module-3/comparisons.md:24
+msgid ""
+"How does a chef know if the oven is at the right temperature, or if a dish "
+"has cooked long enough? They ask a question by **comparing** two values."
+msgstr ""
+
+#: src\concepts/module-3/comparisons.md:26
+msgid ""
+"In Module 2, you learned about the **boolean** data type, which can only be "
+"`true` or `false`. You'll rarely type `true` or `false` directly. Instead, "
+"they are the answers your program gets from asking a question."
+msgstr ""
+
+#: src\concepts/module-3/comparisons.md:28
+msgid ""
+"Think of a comparison operator as the question itself. For example, to ask "
+"\"is the oven temperature greater than 400 degrees Fahrenheit?\", you use "
+"the `>` operator. The computer will evaluate this question and answer with "
+"either `true` or `false`."
+msgstr ""
+
+#: src\concepts/module-3/comparisons.md:30
+msgid "Here are the most common operators:"
+msgstr ""
+
+#: src\concepts/module-3/comparisons.md:32
+msgid "Operator"
+msgstr ""
+
+#: src\concepts/module-3/comparisons.md:32
+msgid "Meaning"
+msgstr ""
+
+#: src\concepts/module-3/comparisons.md:32
+msgid "Example"
+msgstr ""
+
+#: src\concepts/module-3/comparisons.md:32
+msgid "Result"
+msgstr ""
+
+#: src\concepts/module-3/comparisons.md:34
+msgid "=="
+msgstr ""
+
+#: src\concepts/module-3/comparisons.md:34
+msgid "Is equal to?"
+msgstr ""
+
+#: src\concepts/module-3/comparisons.md:34
+msgid "5 == 5"
+msgstr ""
+
+#: src\concepts/module-3/comparisons.md:34
+#: src\concepts/module-3/comparisons.md:35
+#: src\concepts/module-3/comparisons.md:36
+#: src\concepts/module-3/comparisons.md:38
+msgid "TRUE"
+msgstr ""
+
+#: src\concepts/module-3/comparisons.md:35
+msgid "!="
+msgstr ""
+
+#: src\concepts/module-3/comparisons.md:35
+msgid "Is not equal to?"
+msgstr ""
+
+#: src\concepts/module-3/comparisons.md:35
+msgid "5 != 6"
+msgstr ""
+
+#: src\concepts/module-3/comparisons.md:36
+msgid "\\>"
+msgstr ""
+
+#: src\concepts/module-3/comparisons.md:36
+msgid "Is greater than?"
+msgstr ""
+
+#: src\concepts/module-3/comparisons.md:36
+msgid "5 \\> 4"
+msgstr ""
+
+#: src\concepts/module-3/comparisons.md:37
+msgid "\\<"
+msgstr ""
+
+#: src\concepts/module-3/comparisons.md:37
+msgid "Is less than?"
+msgstr ""
+
+#: src\concepts/module-3/comparisons.md:37
+msgid "5 \\< 4"
+msgstr ""
+
+#: src\concepts/module-3/comparisons.md:37
+#: src\concepts/module-3/comparisons.md:39
+msgid "FALSE"
+msgstr ""
+
+#: src\concepts/module-3/comparisons.md:38
+msgid "\\>="
+msgstr ""
+
+#: src\concepts/module-3/comparisons.md:38
+msgid "Is greater than or equal to?"
+msgstr ""
+
+#: src\concepts/module-3/comparisons.md:38
+msgid "5 \\>= 5"
+msgstr ""
+
+#: src\concepts/module-3/comparisons.md:39
+msgid "\\<="
+msgstr ""
+
+#: src\concepts/module-3/comparisons.md:39
+msgid "Is less than or equal to?"
+msgstr ""
+
+#: src\concepts/module-3/comparisons.md:39
+msgid "5 \\<= 4"
+msgstr ""
+
+#: src\concepts/module-3/comparisons.md:41
+msgid ""
+"```admonish note title='\\\"==\\\" not \\\"=\\\"'\n"
+"A very common mistake is using a single equals sign `=` (which assigns a "
+"value) instead of a double `==` (which asks if values are equal).\n"
+"```"
+msgstr ""
+
+#: src\concepts/module-3/comparisons.md:45
+msgid ""
+"Let's see it in action. The code below doesn't just print the number `375`; "
+"it prints the _answer_ to the question \"is the `oven_temperature` variable "
+"greater than or equal to `350`?\""
+msgstr ""
+
+#: src\concepts/module-3/comparisons.md:61
+msgid ""
+"# The computer evaluates the comparison (375 >= 350) and gets `True`.\n"
+"# Then it prints that result.\n"
+msgstr ""
+
+#: src\concepts/module-3/comparisons.md:80
+msgid ""
+"// The computer evaluates the comparison (375 >= 350) and gets `true`.\n"
+"// Then it logs that result.\n"
+msgstr ""
+
+#: src\concepts/module-3/comparisons.md:89
+msgid ""
+"Try changing the value of `oven_temperature` and see how the output changes "
+"from `true` to `false`."
+msgstr ""
+
+#: src\concepts/module-3/if-else.md:24
+msgid ""
+"Once your program can ask a question with a comparison operator, you need a "
+"way to act on the `true` or `false` answer. That's what `if/else` statements "
+"are for. They are the fundamental decision-making tool in programming."
+msgstr ""
+
+#: src\concepts/module-3/if-else.md:26
+msgid "The structure is just like a sentence you'd use in real life:"
+msgstr ""
+
+#: src\concepts/module-3/if-else.md:28
+msgid ""
+"\"**If** _the oven temperature is too high_, then turn it down. **Else**, "
+"keep it as is.\""
+msgstr ""
+
+#: src\concepts/module-3/if-else.md:30
+msgid ""
+"It’s like a fork in the road for your code, guiding it to the right action. "
+"The condition you check must evaluate to either `true` or `false`."
+msgstr ""
+
+#: src\concepts/module-3/if-else.md:32
+msgid ""
+"The code inside the **`if`** block only runs when the condition is `true`."
+msgstr ""
+
+#: src\concepts/module-3/if-else.md:33
+msgid ""
+"The code inside the **`else`** block only runs when the condition is `false`."
+msgstr ""
+
+#: src\concepts/module-3/if-else.md:35
+msgid ""
+"Let's build on the example from the last section. Instead of just printing "
+"`true` or `false`, we can print a more helpful message."
+msgstr ""
+
+#: src\concepts/module-3/if-else.md:53 src\concepts/module-3/if-else.md:73
+msgid "\"The dish is perfectly cooked! Ready to serve.\""
+msgstr ""
+
+#: src\concepts/module-3/if-else.md:55 src\concepts/module-3/if-else.md:75
+msgid "\"The dish needs more time to cook. Keep cooking!\""
+msgstr ""
+
+#: src\concepts/module-3/if-else.md:82
+msgid ""
+"Now, try changing the `internal_temp` (or `internalTemp`) to something less "
+"than `165`, like `150`, and run the code again. You'll see the program take "
+"the other path and execute the code inside the `else` block instead. This is "
+"how you make your programs dynamic and responsive, just like a chef "
+"adjusting their cooking based on observations!"
+msgstr ""
+
+#: src\concepts/module-4\index.md:3
+msgid ""
+"So far, we've handled our ingredients one at a time. But a real recipe isn't "
+"about a single ingredient; it's about a list of ingredients and a sequence "
+"of steps. To cook for real, you need to work with items in batches and "
+"perform repetitive actions."
+msgstr ""
+
+#: src\concepts/module-4\index.md:5
+msgid ""
+"This module is where our simple kitchen prep scales up to a full-blown "
+"cooking session. We'll learn how to handle groups of data and how to perform "
+"actions on every item in the group without writing the same code over and "
+"over."
+msgstr ""
+
+#: src\concepts/module-4\index.md:7
+msgid ""
+"**The Pantry (Arrays & Lists)**: This is where you store all your "
+"ingredients. Instead of handling them one by one, you organize them into "
+"groups, like all your spices in one jar or all your vegetables in a basket."
+msgstr ""
+
+#: src\concepts/module-4\index.md:8
+msgid ""
+"**Stir Until Combined (For Loops)**: This is like repeatedly stirring a "
+"mixture until it's perfectly smooth. You perform the same action (stirring) "
+"on different parts of your ingredients, or multiple times, to achieve a "
+"desired state, automating repetitive tasks."
+msgstr ""
+
+#: src\concepts/module-4\index.md:10
+msgid "Let's start cooking for real."
+msgstr ""
+
+#: src\concepts/module-4/arrays-and-lists.md:24
+msgid ""
+"In a real kitchen, you don't handle each ingredient individually; you gather "
+"them, organize them, and work with them in groups, much like items in your "
+"pantry. Similarly, in programming, when you have many related pieces of "
+"information, such as a list of ingredients or a sequence of recipe steps, "
+"creating a separate variable for each one—like `ingredient1`, `ingredient2`, "
+"`step1`, `step2`—would quickly become unmanageable."
+msgstr ""
+
+#: src\concepts/module-4/arrays-and-lists.md:26
+msgid ""
+"There's a much better way: a **list** (or **array**, the name varies by "
+"language, but the concept is the same). It's a single variable that acts as "
+"a container for multiple items in an ordered sequence."
+msgstr ""
+
+#: src\concepts/module-4/arrays-and-lists.md:28
+msgid ""
+"Think of it as a **recipe card**. The card itself is the list, and each line "
+"of instruction is an item on that list."
+msgstr ""
+
+#: src\concepts/module-4/arrays-and-lists.md:30
+msgid ""
+"The most important thing to know is that these lists are **zero-indexed**. "
+"This means the first item is at position `0`, the second is at position `1`, "
+"and so on."
+msgstr ""
+
+#: src\concepts/module-4/arrays-and-lists.md:32
+msgid ""
+"```admonish note title=\"Why zero-indexed?\" collapsible=true\n"
+"While it might seem counter-intuitive at first, computers typically begin "
+"counting from zero.\n"
+"\n"
+"This approach is fundamental to how memory is accessed efficiently. By "
+"treating the first item's position as 'offset 0', computers can quickly "
+"calculate the memory location of any other item in a list through a direct "
+"mathematical operation.\n"
+"\n"
+"This efficiency has made zero-based indexing a ubiquitous standard in "
+"programming languages.\n"
+"```"
+msgstr ""
+
+#: src\concepts/module-4/arrays-and-lists.md:40
+msgid "Let's create a list of recipe steps."
+msgstr ""
+
+#: src\concepts/module-4/arrays-and-lists.md:55
+msgid "# A list of strings, held in a single variable called 'recipe'.\n"
+msgstr ""
+
+#: src\concepts/module-4/arrays-and-lists.md:57
+#: src\concepts/module-4/arrays-and-lists.md:88
+#: src\concepts/module-4/for-loops.md:53 src\concepts/module-4/for-loops.md:80
+msgid "\"Preheat oven to 400°F\""
+msgstr ""
+
+#: src\concepts/module-4/arrays-and-lists.md:58
+#: src\concepts/module-4/arrays-and-lists.md:89
+#: src\concepts/module-4/for-loops.md:54 src\concepts/module-4/for-loops.md:81
+msgid "\"Mix all ingredients in a bowl\""
+msgstr ""
+
+#: src\concepts/module-4/arrays-and-lists.md:59
+#: src\concepts/module-4/arrays-and-lists.md:90
+#: src\concepts/module-4/for-loops.md:55 src\concepts/module-4/for-loops.md:82
+msgid "\"Pour into baking dish\""
+msgstr ""
+
+#: src\concepts/module-4/arrays-and-lists.md:60
+#: src\concepts/module-4/arrays-and-lists.md:91
+#: src\concepts/module-4/for-loops.md:56 src\concepts/module-4/for-loops.md:83
+msgid "\"Bake for 25 minutes\""
+msgstr ""
+
+#: src\concepts/module-4/arrays-and-lists.md:62
+msgid "# Access the FIRST item at index 0\n"
+msgstr ""
+
+#: src\concepts/module-4/arrays-and-lists.md:66
+msgid "# Displays \"Preheat oven to 400°F\"\n"
+msgstr ""
+
+#: src\concepts/module-4/arrays-and-lists.md:67
+msgid "# Access the THIRD item at index 2\n"
+msgstr ""
+
+#: src\concepts/module-4/arrays-and-lists.md:71
+msgid "# Displays \"Pour into baking dish\"\n"
+msgstr ""
+
+#: src\concepts/module-4/arrays-and-lists.md:86
+msgid "// An array of strings, held in a single variable called 'recipe'.\n"
+msgstr ""
+
+#: src\concepts/module-4/arrays-and-lists.md:93
+msgid "// Access the FIRST item at index 0\n"
+msgstr ""
+
+#: src\concepts/module-4/arrays-and-lists.md:97
+msgid "// Displays \"Preheat oven to 400°F\"\n"
+msgstr ""
+
+#: src\concepts/module-4/arrays-and-lists.md:98
+msgid "// Access the THIRD item at index 2\n"
+msgstr ""
+
+#: src\concepts/module-4/arrays-and-lists.md:102
+msgid "// Displays \"Pour into baking dish\"\n"
+msgstr ""
+
+#: src\concepts/module-4/arrays-and-lists.md:109
+msgid ""
+"By using a list, we can keep all our related data organized in a single, "
+"ordered container. Now, how do we work with every item on this list without "
+"calling them one by one? That's where loops come in."
+msgstr ""
+
+#: src\concepts/module-4/for-loops.md:24
+msgid ""
+"In the last section, we created our recipe card—a list containing all the "
+"steps. Now, how do we follow the instructions? You wouldn't just read the "
+"first step; you'd read and perform _every_ step, one after another, until "
+"the recipe is complete."
+msgstr ""
+
+#: src\concepts/module-4/for-loops.md:26
+msgid ""
+"A **`for` loop** is how you tell the computer to do this. It automates "
+"repetition. Instead of writing code to print `recipe[0]`, then `recipe[1]`, "
+"then `recipe[2]`, you can create a simple loop to do it for you."
+msgstr ""
+
+#: src\concepts/module-4/for-loops.md:28
+msgid ""
+"The logic is just like cooking: \"**For** each `step` on my `recipe` card, I "
+"will **perform** that `step`.\""
+msgstr ""
+
+#: src\concepts/module-4/for-loops.md:30
+msgid "The loop will automatically:"
+msgstr ""
+
+#: src\concepts/module-4/for-loops.md:32
+msgid "Start with the first `step`."
+msgstr ""
+
+#: src\concepts/module-4/for-loops.md:33
+msgid "Perform the `action` specified for that step."
+msgstr ""
+
+#: src\concepts/module-4/for-loops.md:34
+msgid "Move to the next `step`."
+msgstr ""
+
+#: src\concepts/module-4/for-loops.md:35
+msgid "Repeat until all `steps` are complete."
+msgstr ""
+
+#: src\concepts/module-4/for-loops.md:37
+msgid ""
+"Let's use a `for` loop to print every step in our recipe list from the last "
+"lesson."
+msgstr ""
+
+#: src\concepts/module-4/for-loops.md:58
+msgid ""
+"# For each 'step' in the 'recipe' list...\n"
+"# ...put it in a temporary variable called 'step' and run the code below.\n"
+msgstr ""
+
+#: src\concepts/module-4/for-loops.md:63
+msgid "# The output will be all four steps, printed one by one.\n"
+msgstr ""
+
+#: src\concepts/module-4/for-loops.md:85
+msgid ""
+"// For each 'step' in the 'recipe' array...\n"
+"// ...put it in a temporary variable called 'step' and run the code below.\n"
+msgstr ""
+
+#: src\concepts/module-4/for-loops.md:91
+msgid "// The output will be all four steps, printed one by one.\n"
+msgstr ""
+
+#: src\concepts/module-4/for-loops.md:98
+msgid ""
+"The combination of lists (to store your `ingredients` and `steps`) and loops "
+"(to process them) is one of the most powerful pairings in all of "
+"programming. You'll use it constantly to work with collections of "
+"`ingredients`, `menu items`, `orders`, or any other data you can imagine."
+msgstr ""
+
+#: src\concepts/module-4/for-loops.md:102
+msgid "Beyond Printing: Using Loops to Calculate"
+msgstr ""
+
+#: src\concepts/module-4/for-loops.md:104
+msgid ""
+"The real power of loops comes from doing calculations. Imagine your recipe "
+"has multiple stages, each with a different duration. A loop can act as a "
+"calculator to find the total time."
+msgstr ""
+
+#: src\concepts/module-4/for-loops.md:106
+msgid ""
+"Let's say we have a list of cooking times in minutes (e.g., for prepping, "
+"baking, and resting). We can loop through them to calculate the sum. To do "
+"this, we'll create a \"running total\" variable that starts at 0 and adds "
+"the time from each step."
+msgstr ""
+
+#: src\concepts/module-4/for-loops.md:121
+msgid "# A list of durations for each stage of cooking\n"
+msgstr ""
+
+#: src\concepts/module-4/for-loops.md:122
+msgid "# prep, bake, rest\n"
+msgstr ""
+
+#: src\concepts/module-4/for-loops.md:123
+msgid "# Start our running total at 0\n"
+msgstr ""
+
+#: src\concepts/module-4/for-loops.md:126
+msgid "# For each number in our list...\n"
+msgstr ""
+
+#: src\concepts/module-4/for-loops.md:129
+msgid "# ...add it to our running total\n"
+msgstr ""
+
+#: src\concepts/module-4/for-loops.md:131
+msgid ""
+"# After the first loop, total_time is 15\n"
+"  # After the second loop, total_time is 15 + 30 = 45\n"
+"  # After the third loop, total_time is 45 + 10 = 55\n"
+msgstr ""
+
+#: src\concepts/module-4/for-loops.md:134
+msgid "# After the loop is finished, print the final result\n"
+msgstr ""
+
+#: src\concepts/module-4/for-loops.md:136
+msgid "\"Total cooking time:\""
+msgstr ""
+
+#: src\concepts/module-4/for-loops.md:136
+msgid "\"minutes\""
+msgstr ""
+
+#: src\concepts/module-4/for-loops.md:151
+msgid "// An array of durations for each stage of cooking\n"
+msgstr ""
+
+#: src\concepts/module-4/for-loops.md:152
+msgid "// prep, bake, rest\n"
+msgstr ""
+
+#: src\concepts/module-4/for-loops.md:153
+msgid "// Start our running total at 0\n"
+msgstr ""
+
+#: src\concepts/module-4/for-loops.md:156
+msgid "// For each number in our array...\n"
+msgstr ""
+
+#: src\concepts/module-4/for-loops.md:159
+msgid "// ...add it to our running total\n"
+msgstr ""
+
+#: src\concepts/module-4/for-loops.md:161
+msgid ""
+"// After the first loop, totalTime is 15\n"
+"  // After the second loop, totalTime is 15 + 30 = 45\n"
+"  // After the third loop, totalTime is 45 + 10 = 55\n"
+msgstr ""
+
+#: src\concepts/module-4/for-loops.md:165
+msgid "// After the loop is finished, log the final result\n"
+msgstr ""
+
+#: src\concepts/module-4/for-loops.md:167
+msgid "\"Total cooking time: \""
+msgstr ""
+
+#: src\concepts/module-4/for-loops.md:167
+msgid "\" minutes\""
+msgstr ""
+
+#: src\concepts/module-4/for-loops.md:173
+msgid ""
+"That's it. We didn't just read the list; we used a loop to process it and "
+"produce a single, meaningful result. This technique of aggregating data is "
+"fundamental. You'll use it to sum up sales, count users, or calculate "
+"averages—all by combining a list and a `for` loop."
+msgstr ""
+
+#: src\concepts/module-5\index.md:3
+msgid ""
+"As you write more code, your programs can start to look like a messy kitchen "
+"during a holiday dinner. Ingredients are scattered, steps are repeated, and "
+"finding the right utensil becomes a huge chore. A great chef isn't just "
+"someone who can cook—it's someone who keeps their kitchen organized so they "
+"can create amazing dishes efficiently."
+msgstr ""
+
+#: src\concepts/module-5\index.md:5
+msgid ""
+"This module is all about turning our code into a well-organized cookbook. "
+"We'll learn how to create reusable sets of instructions, make them flexible, "
+"get useful results back from them, and stock our kitchen with powerful "
+"pre-made tools."
+msgstr ""
+
+#: src\concepts/module-5\index.md:7
+msgid ""
+"**Setting Up Your Kitchen Stations (Functions)**: Every great recipe "
+"involves repeating the same setup steps. Instead of rewriting these "
+"instructions every time, you'll learn how to define a named procedure (a "
+"function) once, and then **call** it whenever you need it, just like setting "
+"up your cooking station before you start a new dish."
+msgstr ""
+
+#: src\concepts/module-5\index.md:9
+msgid ""
+"**Passing in Your Ingredients (Function Parameters)**: A recipe for \"bake\" "
+"is more useful if you can specify _what_ you're baking and at _what "
+"temperature_. We'll explore how to add placeholders (**parameters**) to our "
+"functions, allowing us to pass in different \"ingredients\" (**arguments**) "
+"each time we call them, making our recipes flexible and powerful."
+msgstr ""
+
+#: src\concepts/module-5\index.md:11
+msgid ""
+"**Returning the Finished Dish (Function Returns)**: Some recipes don't just "
+"perform an action; they produce a result you can use—like a sauce you can "
+"add to pasta. You'll learn how functions can **return** a finished product, "
+"allowing you to store it, combine it with other results, and build more "
+"complex programs from these modular building blocks."
+msgstr ""
+
+#: src\concepts/module-5\index.md:13
+msgid ""
+"**Stocking Your Kitchen with Gadgets (Imports)**: A chef doesn't build their "
+"own stand mixer. They use powerful, pre-made tools to get the job done "
+"faster. We'll show you how to **import** external libraries—your programming "
+"\"kitchen gadgets\"—to add sophisticated features to your programs without "
+"having to build them from scratch."
+msgstr ""
+
+#: src\concepts/module-5\index.md:15
+msgid "Let's learn how to code like a head chef."
+msgstr ""
+
+#: src\concepts/module-5/functions.md:24
+msgid ""
+"Imagine you're writing a program and find yourself typing the same three "
+"lines of code in multiple places. It works, but it's repetitive and "
+"inefficient. If you need to make a change, you have to find and update every "
+"single copy."
+msgstr ""
+
+#: src\concepts/module-5/functions.md:26
+msgid ""
+"A **function** solves this problem. A function is a named block of code that "
+"performs a specific task. You **define** it once, and then you can **call** "
+"it by name whenever you need it."
+msgstr ""
+
+#: src\concepts/module-5/functions.md:28
+msgid ""
+"Think of it as creating a master recipe for a common task, like \"prepare "
+"the kitchen.\" The recipe has a set of steps."
+msgstr ""
+
+#: src\concepts/module-5/functions.md:30
+msgid ""
+"**Defining the function** is like writing down the recipe on a card and "
+"giving it a name. The code inside doesn't run yet. You're just saving it for "
+"later."
+msgstr ""
+
+#: src\concepts/module-5/functions.md:31
+msgid ""
+"**Calling the function** is like saying, \"Okay, time to follow the 'prepare "
+"the kitchen' recipe.\" The program jumps to the function, runs all the code "
+"inside it, and then comes back to where it left off."
+msgstr ""
+
+#: src\concepts/module-5/functions.md:33
+msgid "Let's see this in action. We'll define a function to prepare the kitchen."
+msgstr ""
+
+#: src\concepts/module-5/functions.md:47
+msgid "# 1. DEFINE the function for a repeatable task.\n"
+msgstr ""
+
+#: src\concepts/module-5/functions.md:49 src\concepts/module-5/functions.md:76
+msgid "\"Wash hands and put on an apron.\""
+msgstr ""
+
+#: src\concepts/module-5/functions.md:50 src\concepts/module-5/functions.md:77
+msgid "\"Gather all ingredients and tools.\""
+msgstr ""
+
+#: src\concepts/module-5/functions.md:51 src\concepts/module-5/functions.md:78
+msgid "\"Clear the countertop.\""
+msgstr ""
+
+#: src\concepts/module-5/functions.md:52
+msgid "# 2. CALL the function whenever you start cooking.\n"
+msgstr ""
+
+#: src\concepts/module-5/functions.md:54 src\concepts/module-5/functions.md:82
+msgid "\"Preparing to bake bread...\""
+msgstr ""
+
+#: src\concepts/module-5/functions.md:57 src\concepts/module-5/functions.md:85
+#: src\concepts/module-5/function-parameters.md:55
+#: src\concepts/module-5/function-parameters.md:82
+msgid "\"---\""
+msgstr ""
+
+#: src\concepts/module-5/functions.md:58 src\concepts/module-5/functions.md:86
+msgid "\"Preparing to make a salad...\""
+msgstr ""
+
+#: src\concepts/module-5/functions.md:74
+msgid "// 1. DEFINE the function for a repeatable task.\n"
+msgstr ""
+
+#: src\concepts/module-5/functions.md:80
+msgid "// 2. CALL the function whenever you start cooking.\n"
+msgstr ""
+
+#: src\concepts/module-5/functions.md:93
+msgid ""
+"Functions are the most important organizational tool in programming. They "
+"let you write code once and use it everywhere, making your programs cleaner, "
+"shorter, and much easier to manage."
+msgstr ""
+
+#: src\concepts/module-5/function-parameters.md:24
+msgid ""
+"Our last function, `prepare_station()`, is useful, but it's like a recipe "
+"that never changes. It does the exact same thing every single time. What if "
+"we want our function to be more flexible? What if we want to welcome a "
+"specific person by name?"
+msgstr ""
+
+#: src\concepts/module-5/function-parameters.md:26
+msgid ""
+"This is where **parameters** come in. Parameters are placeholders in a "
+"function's definition that allow you to pass data _into_ the function when "
+"you call it."
+msgstr ""
+
+#: src\concepts/module-5/function-parameters.md:28
+msgid "Think of it like making a recipe flexible:"
+msgstr ""
+
+#: src\concepts/module-5/function-parameters.md:30
+msgid ""
+"A **parameter** is a placeholder ingredient on the recipe card, like "
+"(type\\_of\\_flour)."
+msgstr ""
+
+#: src\concepts/module-5/function-parameters.md:31
+msgid ""
+"An **argument** is the actual ingredient you use when you cook, like \"whole "
+"wheat\"."
+msgstr ""
+
+#: src\concepts/module-5/function-parameters.md:33
+msgid "Let's update our greeting function to accept a name."
+msgstr ""
+
+#: src\concepts/module-5/function-parameters.md:47
+msgid ""
+"# 'ingredient' is a PARAMETER - a placeholder for the data we will pass in.\n"
+msgstr ""
+
+#: src\concepts/module-5/function-parameters.md:49
+msgid "\"Adding\""
+msgstr ""
+
+#: src\concepts/module-5/function-parameters.md:49
+msgid "\"to the bowl.\""
+msgstr ""
+
+#: src\concepts/module-5/function-parameters.md:50
+msgid ""
+"# Now when we call the function, we must provide an ARGUMENT.\n"
+"# \"flour\" is the argument that will fill the 'ingredient' placeholder.\n"
+msgstr ""
+
+#: src\concepts/module-5/function-parameters.md:53
+#: src\concepts/module-5/function-parameters.md:80
+msgid "\"flour\""
+msgstr ""
+
+#: src\concepts/module-5/function-parameters.md:56
+msgid ""
+"# We can call it again with a different argument for a different result.\n"
+msgstr ""
+
+#: src\concepts/module-5/function-parameters.md:58
+#: src\concepts/module-5/function-parameters.md:85
+msgid "\"sugar\""
+msgstr ""
+
+#: src\concepts/module-5/function-parameters.md:73
+msgid ""
+"// 'ingredient' is a PARAMETER - a placeholder for the data we will pass "
+"in.\n"
+msgstr ""
+
+#: src\concepts/module-5/function-parameters.md:75
+msgid "\"Adding \""
+msgstr ""
+
+#: src\concepts/module-5/function-parameters.md:75
+msgid "\" to the bowl.\""
+msgstr ""
+
+#: src\concepts/module-5/function-parameters.md:77
+msgid ""
+"// Now when we call the function, we must provide an ARGUMENT.\n"
+"// \"flour\" is the argument that will fill the 'ingredient' placeholder.\n"
+msgstr ""
+
+#: src\concepts/module-5/function-parameters.md:83
+msgid ""
+"// We can call it again with a different argument for a different result.\n"
+msgstr ""
+
+#: src\concepts/module-5/function-parameters.md:91
+msgid ""
+"You can have multiple parameters. Let's make a flexible `bake` function that "
+"can handle different foods and temperatures."
+msgstr ""
+
+#: src\concepts/module-5/function-parameters.md:106
+msgid "# This function takes two parameters.\n"
+msgstr ""
+
+#: src\concepts/module-5/function-parameters.md:108
+msgid "\"Baking\""
+msgstr ""
+
+#: src\concepts/module-5/function-parameters.md:108
+msgid "\"at\""
+msgstr ""
+
+#: src\concepts/module-5/function-parameters.md:108
+msgid "\"degrees.\""
+msgstr ""
+
+#: src\concepts/module-5/function-parameters.md:109
+msgid "# We must provide two arguments, in the correct order.\n"
+msgstr ""
+
+#: src\concepts/module-5/function-parameters.md:111
+#: src\concepts/module-5/function-parameters.md:134
+msgid "\"bread\""
+msgstr ""
+
+#: src\concepts/module-5/function-parameters.md:112
+#: src\concepts/module-5/function-parameters.md:135
+msgid "\"cookies\""
+msgstr ""
+
+#: src\concepts/module-5/function-parameters.md:113
+#: src\concepts/module-5/function-parameters.md:136
+msgid "\"pizza\""
+msgstr ""
+
+#: src\concepts/module-5/function-parameters.md:128
+msgid "// This function takes two parameters.\n"
+msgstr ""
+
+#: src\concepts/module-5/function-parameters.md:130
+msgid "\"Baking \""
+msgstr ""
+
+#: src\concepts/module-5/function-parameters.md:130
+msgid "\" at \""
+msgstr ""
+
+#: src\concepts/module-5/function-parameters.md:130
+msgid "\" degrees.\""
+msgstr ""
+
+#: src\concepts/module-5/function-parameters.md:132
+msgid "// We must provide two arguments, in the correct order.\n"
+msgstr ""
+
+#: src\concepts/module-5/function-parameters.md:142
+msgid ""
+"By using parameters, your functions transform from simple, repeatable "
+"scripts into powerful, reusable tools that can adapt to different "
+"situations. This is the key to writing efficient and intelligent code."
+msgstr ""
+
+#: src\concepts/module-5/function-returns.md:24
+msgid ""
+"So far, our functions have acted like recipes that you follow to perform an "
+"action, like printing a greeting to the screen. But what if you need a "
+"recipe that _produces_ something you can use later?"
+msgstr ""
+
+#: src\concepts/module-5/function-returns.md:26
+msgid ""
+"For example, you don't just \"make a sauce\"; you make a sauce that you can "
+"then add to a pizza. The sauce is the **result** of the recipe."
+msgstr ""
+
+#: src\concepts/module-5/function-returns.md:28
+msgid ""
+"In programming, this is called a **return value**. A function can perform a "
+"calculation or a task and then \"hand back\" the result to the part of the "
+"code that called it. This is incredibly powerful because it allows you to "
+"build programs from small, productive building blocks."
+msgstr ""
+
+#: src\concepts/module-5/function-returns.md:30
+msgid "The `return` keyword is used to send a value back."
+msgstr ""
+
+#: src\concepts/module-5/function-returns.md:32
+msgid ""
+"Let's create a function that assembles a sushi roll. It will take an "
+"ingredient and a quantity, and it will return a string representing the "
+"finished roll."
+msgstr ""
+
+#: src\concepts/module-5/function-returns.md:47
+msgid ""
+"# This function takes an ingredient and a number,\n"
+"# then returns a new string.\n"
+msgstr ""
+
+#: src\concepts/module-5/function-returns.md:50
+msgid "# In Python, you can multiply a string to repeat it.\n"
+msgstr ""
+
+#: src\concepts/module-5/function-returns.md:53
+msgid ""
+"# 1. Call the function and store its result in a variable.\n"
+"#    The function returns \"🍣🍣🍣\", which gets saved in 'tuna_roll'.\n"
+msgstr ""
+
+#: src\concepts/module-5/function-returns.md:56
+#: src\concepts/module-5/function-returns.md:94
+msgid "\"🍣\""
+msgstr ""
+
+#: src\concepts/module-5/function-returns.md:57
+msgid ""
+"# 2. Call it again to make a different roll.\n"
+"#    This time, it returns \"🥒🥒🥒🥒🥒\", saved in 'cucumber_roll'.\n"
+msgstr ""
+
+#: src\concepts/module-5/function-returns.md:60
+#: src\concepts/module-5/function-returns.md:98
+msgid "\"🥒\""
+msgstr ""
+
+#: src\concepts/module-5/function-returns.md:61
+msgid "# 3. Now we can use our returned values!\n"
+msgstr ""
+
+#: src\concepts/module-5/function-returns.md:63
+msgid "\"Here is your tuna roll:\""
+msgstr ""
+
+#: src\concepts/module-5/function-returns.md:64
+msgid "\"And your cucumber roll:\""
+msgstr ""
+
+#: src\concepts/module-5/function-returns.md:65
+msgid ""
+"# The real power: we can combine the results from our function.\n"
+"# Let's make a platter!\n"
+msgstr ""
+
+#: src\concepts/module-5/function-returns.md:69
+msgid "\"Enjoy your beautiful platter:\""
+msgstr ""
+
+#: src\concepts/module-5/function-returns.md:84
+msgid ""
+"// This function takes an ingredient and a number,\n"
+"// then returns a new string.\n"
+msgstr ""
+
+#: src\concepts/module-5/function-returns.md:87
+msgid "// In JavaScript, you can multiply a string by using .repeat() method.\n"
+msgstr ""
+
+#: src\concepts/module-5/function-returns.md:91
+msgid ""
+"// 1. Call the function and store its result in a variable.\n"
+"//    The function returns \"🍣🍣🍣\", which gets saved in 'tunaRoll'.\n"
+msgstr ""
+
+#: src\concepts/module-5/function-returns.md:95
+msgid ""
+"// 2. Call it again to make a different roll.\n"
+"//    This time, it returns \"🥒🥒🥒🥒🥒\", saved in 'cucumberRoll'.\n"
+msgstr ""
+
+#: src\concepts/module-5/function-returns.md:99
+msgid "// 3. Now we can use our returned values!\n"
+msgstr ""
+
+#: src\concepts/module-5/function-returns.md:101
+msgid "\"Here is your tuna roll: \""
+msgstr ""
+
+#: src\concepts/module-5/function-returns.md:102
+msgid "\"And your cucumber roll: \""
+msgstr ""
+
+#: src\concepts/module-5/function-returns.md:103
+msgid ""
+"// The real power: we can combine the results from our function.\n"
+"// Let's make a platter!\n"
+msgstr ""
+
+#: src\concepts/module-5/function-returns.md:107
+msgid "\"Enjoy your beautiful platter: \""
+msgstr ""
+
+#: src\concepts/module-5/function-returns.md:113
+msgid ""
+"Notice the key difference: a function with `print` just displays something "
+"on the screen. A function with `return` gives you a value back that you can "
+"store in a variable and use to make further decisions or calculations. This "
+"is the primary way that different parts of a program communicate with each "
+"other."
+msgstr ""
+
+#: src\concepts/module-5/imports.md:22
+msgid "Kitchen Gadgets (Imports)"
+msgstr ""
+
+#: src\concepts/module-5/imports.md:24
+msgid ""
+"A great chef doesn't make every single tool from scratch. They use pre-made "
+"kitchen gadgets—like a stand mixer or a food processor—to do complex jobs "
+"easily."
+msgstr ""
+
+#: src\concepts/module-5/imports.md:26
+msgid ""
+"In programming, this is done by **importing libraries** or **modules**. A "
+"library is a collection of pre-written functions and tools that you can use "
+"in your own code. You don't need to know _how_ the stand mixer works "
+"internally; you just need to know how to turn it on."
+msgstr ""
+
+#: src\concepts/module-5/imports.md:28
+msgid ""
+"A common example of a \"gadget\" you'll use is one that generates random "
+"numbers. This is essential for building games, simulations, or anything with "
+"an element of unpredictability."
+msgstr ""
+
+#: src\concepts/module-5/imports.md:30
+msgid "Let's see how to import and use a random number generator."
+msgstr ""
+
+#: src\concepts/module-5/imports.md:45
+msgid ""
+"# In Python, we use the 'import' keyword to bring in the 'random' library.\n"
+msgstr ""
+
+#: src\concepts/module-5/imports.md:47
+msgid ""
+"# Now we can use functions from that library.\n"
+"# random.randint(a, b) gives us a random whole number between a and b "
+"(inclusive).\n"
+msgstr ""
+
+#: src\concepts/module-5/imports.md:52 src\concepts/module-5/imports.md:74
+msgid "\"Here is a random number between 1 and 10:\""
+msgstr ""
+
+#: src\concepts/module-5/imports.md:67
+msgid ""
+"// JavaScript has a built-in Math object that can do this without an "
+"import.\n"
+"// Math.random() gives a random decimal between 0 and 0.99...\n"
+"// So, we use a common formula to get a whole number in a specific range.\n"
+msgstr ""
+
+#: src\concepts/module-5/imports.md:70
+msgid "// This formula gives us a random whole number between 1 and 10.\n"
+msgstr ""
+
+#: src\concepts/module-5/imports.md:80
+msgid "Another example."
+msgstr ""
+
+#: src\concepts/module-5/imports.md:82
+msgid ""
+"Let's tackle a common task: you buy a carton of fresh milk, and you know it "
+"expires in 7 days. You want your program to calculate that future date and "
+"print it in a simple, readable format like \"Month Day, Year\"."
+msgstr ""
+
+#: src\concepts/module-5/imports.md:84
+msgid ""
+"This sounds easy, but formatting dates can be surprisingly tricky with the "
+"basic built-in tools. This is a perfect job for a specialized "
+"\"date-gadget\"."
+msgstr ""
+
+#: src\concepts/module-5/imports.md:86
+msgid "To solve this, we will:"
+msgstr ""
+
+#: src\concepts/module-5/imports.md:87
+msgid "**Import** a specialized library for handling dates."
+msgstr ""
+
+#: src\concepts/module-5/imports.md:88
+msgid "Get the current date."
+msgstr ""
+
+#: src\concepts/module-5/imports.md:89
+msgid "Add 7 days to it."
+msgstr ""
+
+#: src\concepts/module-5/imports.md:90
+msgid "Format the new date into a clean string."
+msgstr ""
+
+#: src\concepts/module-5/imports.md:92
+msgid ""
+"Notice how both languages need to `import` a tool to get this done "
+"effectively."
+msgstr ""
+
+#: src\concepts/module-5/imports.md:107
+msgid ""
+"# We must import tools from Python's built-in 'datetime' library.\n"
+"# We are specifically importing the 'date' tool and the 'timedelta' tool.\n"
+msgstr ""
+
+#: src\concepts/module-5/imports.md:110
+msgid "# 1. Get today's date.\n"
+msgstr ""
+
+#: src\concepts/module-5/imports.md:113
+msgid "# 2. Create a \"time duration\" of 7 days.\n"
+msgstr ""
+
+#: src\concepts/module-5/imports.md:116
+msgid "# 3. Add the duration to today's date to get the future date.\n"
+msgstr ""
+
+#: src\concepts/module-5/imports.md:119
+msgid ""
+"# 4. Format both dates into a readable string (e.g., \"Oct 28, 2025\").\n"
+"# The codes %b, %d, %Y are formatting codes for Month, Day, Year.\n"
+msgstr ""
+
+#: src\concepts/module-5/imports.md:122 src\concepts/module-5/imports.md:123
+msgid "\"%b %d, %Y\""
+msgstr ""
+
+#: src\concepts/module-5/imports.md:125
+msgid "\"Today's date is:\""
+msgstr ""
+
+#: src\concepts/module-5/imports.md:126
+msgid "\"The milk will expire on:\""
+msgstr ""
+
+#: src\concepts/module-5/imports.md:141
+msgid ""
+"// JavaScript's built-in Date object can handle this, though it can be\n"
+"// a bit more verbose than using a dedicated library.\n"
+msgstr ""
+
+#: src\concepts/module-5/imports.md:143
+msgid ""
+"// No import is needed for this, but if we were using a library like\n"
+"// date-fns, it would look like this:\n"
+"// import { format, addDays } from 'date-fns';\n"
+msgstr ""
+
+#: src\concepts/module-5/imports.md:147
+msgid "// 1. Get today's date.\n"
+msgstr ""
+
+#: src\concepts/module-5/imports.md:150
+msgid "// 2. Create a \"time duration\" of 7 days.\n"
+msgstr ""
+
+#: src\concepts/module-5/imports.md:152
+msgid "// 7 days in milliseconds\n"
+msgstr ""
+
+#: src\concepts/module-5/imports.md:153
+msgid "// 3. Add the duration to today's date to get the future date.\n"
+msgstr ""
+
+#: src\concepts/module-5/imports.md:156
+msgid ""
+"// 4. Format both dates into a readable string (e.g., \"Oct 28, 2025\").\n"
+msgstr ""
+
+#: src\concepts/module-5/imports.md:158
+msgid "'short'"
+msgstr ""
+
+#: src\concepts/module-5/imports.md:158
+msgid "'numeric'"
+msgstr ""
+
+#: src\concepts/module-5/imports.md:159 src\concepts/module-5/imports.md:160
+msgid "'en-US'"
+msgstr ""
+
+#: src\concepts/module-5/imports.md:162
+msgid "\"Today's date is: \""
+msgstr ""
+
+#: src\concepts/module-5/imports.md:163
+msgid "\"The milk will expire on: \""
+msgstr ""
+
+#: src\concepts/module-5/imports.md:169
+msgid ""
+"By using external code, you can stand on the shoulders of giants. You can "
+"add powerful features like randomness, web requests, or complex math to your "
+"programs without having to write them all yourself. It's the key to building "
+"bigger and better things, faster."
+msgstr ""
+
+#: src\project/number-guesser.md:3
+msgid ""
+"You've learned the core concepts, from setting up your kitchen with "
+"`variables` to following a recipe with `loops` and `if/else` statements. Now "
+"it's time to put it all together and create your first real program!"
+msgstr ""
+
+#: src\project/number-guesser.md:5
+msgid ""
+"This is your final project for the Core Concepts section. The goal is not "
+"just to get the right answer, but to practice thinking like a programmer: "
+"breaking a big problem down into small, manageable steps."
+msgstr ""
+
+#: src\project/number-guesser.md:7
+msgid "The Scenario"
+msgstr ""
+
+#: src\project/number-guesser.md:9
+msgid ""
+"You are a master baker who has just discovered a new, secret ingredient. It "
+"promises to make the world's most delicious cake!"
+msgstr ""
+
+#: src\project/number-guesser.md:11
+msgid ""
+"The problem? This ingredient is very sensitive to heat. You need to find the "
+"**optimal baking temperature** to create the perfect cake. If it's too cold, "
+"the cake will be a gooey mess. If it's too hot, it will burn to a crisp."
+msgstr ""
+
+#: src\project/number-guesser.md:13
+msgid ""
+"You only have enough of the secret ingredient for a few attempts before you "
+"run out!"
+msgstr ""
+
+#: src\project/number-guesser.md:15
+msgid "Your Goal: The Program's Recipe"
+msgstr ""
+
+#: src\project/number-guesser.md:17
+msgid ""
+"Your challenge is to write a program that simulates this baking experiment. "
+"Think of the list below as the recipe card you need to follow. Your code "
+"should perform these steps:"
+msgstr ""
+
+#: src\project/number-guesser.md:19
+msgid ""
+"**Set the Secret Temperature:** The computer needs to pick a secret whole "
+"number between 300 and 400. This will be the `optimal_temperature` that the "
+"player is trying to guess."
+msgstr ""
+
+#: src\project/number-guesser.md:20
+msgid "_Hint: You'll need a way to generate a random number._"
+msgstr ""
+
+#: src\project/number-guesser.md:22
+msgid ""
+"**Set the Number of Tries:** You only have enough ingredients for 7 "
+"attempts. You'll need a variable to keep track of this."
+msgstr ""
+
+#: src\project/number-guesser.md:24
+msgid ""
+"**Create a Welcome Message:** Print a few lines to the screen to welcome the "
+"player and explain the rules of the challenge."
+msgstr ""
+
+#: src\project/number-guesser.md:26
+msgid ""
+"**Loop Through the Attempts:** The core of your program will be a loop that "
+"repeats for each attempt the player has."
+msgstr ""
+
+#: src\project/number-guesser.md:28
+msgid ""
+"**Get the Player's Guess:** Inside the loop, you must ask the player to "
+"enter their guess and store their answer in a variable."
+msgstr ""
+
+#: src\project/number-guesser.md:29
+msgid ""
+"_Hint: Remember that user input is text. You'll need to convert it to a "
+"number._"
+msgstr ""
+
+#: src\project/number-guesser.md:31
+msgid ""
+"**Check the Guess:** Using `if/else` logic, compare the player's guess to "
+"the secret temperature and give them feedback:"
+msgstr ""
+
+#: src\project/number-guesser.md:32
+msgid ""
+"If their guess is too low, print a message like: \"Too cold! The cake is "
+"gooey. Try a higher temperature.\""
+msgstr ""
+
+#: src\project/number-guesser.md:33
+msgid ""
+"If their guess is too high, print a message like: \"Too hot! The cake is "
+"burnt. Try a lower temperature.\""
+msgstr ""
+
+#: src\project/number-guesser.md:34
+msgid "If they guess correctly, print a success message and end the game."
+msgstr ""
+
+#: src\project/number-guesser.md:35
+msgid "_Hint: If the player wins, you'll need a way to stop the loop early._"
+msgstr ""
+
+#: src\project/number-guesser.md:37
+msgid ""
+"**Handle the \"Game Over\" Case:** If the loop finishes and the player has "
+"not guessed the correct number, the game is over. You should print a final "
+"message telling them they've run out of the ingredient and what the correct "
+"temperature was."
+msgstr ""
+
+#: src\project/number-guesser.md:39
+msgid "Your Turn to Cook!"
+msgstr ""
+
+#: src\project/number-guesser.md:41
+msgid ""
+"You now have all the \"ingredients\" (the concepts) you need to complete "
+"this challenge. Before you look at the solution on the next page, open up "
+"your favorite code editor (or even a simple text file) and try to write this "
+"program yourself."
+msgstr ""
+
+#: src\project/number-guesser.md:43
+msgid ""
+"Don't worry about getting it perfect on the first try! The real learning "
+"happens when you're trying to figure things out."
+msgstr ""
+
+#: src\project/number-guesser.md:45
+msgid "**Stuck on a step? Review these concepts:**"
+msgstr ""
+
+#: src\project/number-guesser.md:47
+msgid ""
+"Need to store the secret number or the number of tries? Review "
+"**[Variables](../concepts/module-1/variables.md)**."
+msgstr ""
+
+#: src\project/number-guesser.md:48
+msgid ""
+"Need to repeat the guessing process? A **[For "
+"Loop](../concepts/module-4/for-loops.md)** is your best tool."
+msgstr ""
+
+#: src\project/number-guesser.md:49
+msgid ""
+"Need to check if the guess is too high or low? You'll need "
+"**[Comparisons](../concepts/module-3/comparisons.md)** and **[If/Else "
+"Statements](../concepts/module-3/if-else.md)**."
+msgstr ""
+
+#: src\project/number-guesser.md:51
+msgid ""
+"Give it your best shot! When you're ready, or if you get really stuck, head "
+"to the next page to see our completed recipe and a full breakdown of the "
+"code."
+msgstr ""
+
+#: src\project/number-guesser.md:53
+msgid "**\\[Proceed to the Solution -->\\]**"
+msgstr ""
+
+#: src\project/solution.md:24
+msgid "This is just possible solution."
+msgstr ""
+
+#: src\project/solution.md:26
+msgid ""
+"Don't be intimidated by the full block of code. We'll break it down piece by "
+"piece right after. This is what the finished recipe looks like."
+msgstr ""
+
+#: src\project/solution.md:41
+msgid "# We need this library to generate a random number\n"
+msgstr ""
+
+#: src\project/solution.md:43
+msgid ""
+"# --- 1. The Setup (Mise en Place) ---\n"
+"# The computer chooses a secret temperature between 300 and 400.\n"
+msgstr ""
+
+#: src\project/solution.md:49 src\project/solution.md:98
+msgid "\"You've discovered a secret ingredient!\""
+msgstr ""
+
+#: src\project/solution.md:50 src\project/solution.md:99
+msgid "\"Let's find the perfect temperature to bake the cake.\""
+msgstr ""
+
+#: src\project/solution.md:51
+msgid "\"You have "
+msgstr ""
+
+#: src\project/solution.md:51
+msgid " attempts. Good luck!\""
+msgstr ""
+
+#: src\project/solution.md:52 src\project/solution.md:101
+msgid "\"------------------------------------------\""
+msgstr ""
+
+#: src\project/solution.md:54
+msgid ""
+"# --- 2. The Baking Loop ---\n"
+"# This loop will run for the number of attempts we have.\n"
+msgstr ""
+
+#: src\project/solution.md:58
+msgid ""
+"# --- 3. Get the User's Guess ---\n"
+"    # We ask for input and convert it to an integer (a whole number).\n"
+msgstr ""
+
+#: src\project/solution.md:60
+msgid "\"Attempt #"
+msgstr ""
+
+#: src\project/solution.md:60
+msgid ": Enter your guess (300-400): \""
+msgstr ""
+
+#: src\project/solution.md:62
+msgid "# --- 4. The Logic (Check the Result) ---\n"
+msgstr ""
+
+#: src\project/solution.md:64 src\project/solution.md:66
+msgid "\"Your guess of "
+msgstr ""
+
+#: src\project/solution.md:64
+msgid ""
+"°F is too cold! The cake is gooey and undercooked. Try a higher "
+"temperature.\""
+msgstr ""
+
+#: src\project/solution.md:66
+msgid "°F is too hot! The cake is burnt to a crisp! Try a lower temperature.\""
+msgstr ""
+
+#: src\project/solution.md:68
+msgid "# This code runs if the guess is exactly right.\n"
+msgstr ""
+
+#: src\project/solution.md:69
+msgid "\"Perfection! "
+msgstr ""
+
+#: src\project/solution.md:69
+msgid "°F is the exact temperature. The cake is golden-brown and delicious.\""
+msgstr ""
+
+#: src\project/solution.md:70
+msgid "\"You've mastered the secret ingredient!\""
+msgstr ""
+
+#: src\project/solution.md:71
+msgid "# Exit the loop immediately since we won.\n"
+msgstr ""
+
+#: src\project/solution.md:72
+msgid ""
+"# --- 5. The \"Game Over\" Condition ---\n"
+"# This part of the code only runs if the loop finishes WITHOUT a 'break'.\n"
+"# This means the player ran out of tries.\n"
+msgstr ""
+
+#: src\project/solution.md:77
+msgid "\"\\nOh no! You've run out of the secret ingredient.\""
+msgstr ""
+
+#: src\project/solution.md:78
+msgid "\"The correct temperature was "
+msgstr ""
+
+#: src\project/solution.md:78
+msgid " degrees. Better luck next time!\""
+msgstr ""
+
+#: src\project/solution.md:93
+msgid ""
+"// --- 1. The Setup (Mise en Place) ---\n"
+"// The computer chooses a secret temperature between 300 and 400.\n"
+msgstr ""
+
+#: src\project/solution.md:95
+msgid "// Result is between 300 and 400\n"
+msgstr ""
+
+#: src\project/solution.md:100
+msgid "`You have "
+msgstr ""
+
+#: src\project/solution.md:100
+msgid " attempts. Good luck!`"
+msgstr ""
+
+#: src\project/solution.md:102
+msgid "// We'll track if the player won inside the loop\n"
+msgstr ""
+
+#: src\project/solution.md:105
+msgid ""
+"// --- 2. The Baking Loop ---\n"
+"// This loop will run for the number of attempts we have.\n"
+msgstr ""
+
+#: src\project/solution.md:109
+msgid ""
+"// --- 3. Get the User's Guess ---\n"
+"    // We ask for input and convert it to an integer (a whole number).\n"
+msgstr ""
+
+#: src\project/solution.md:111
+msgid "`Attempt #"
+msgstr ""
+
+#: src\project/solution.md:111
+msgid ": Enter your guess (300-400):`"
+msgstr ""
+
+#: src\project/solution.md:113
+msgid "// --- 4. The Logic (Check the Result) ---\n"
+msgstr ""
+
+#: src\project/solution.md:115 src\project/solution.md:117
+msgid "`Your guess of "
+msgstr ""
+
+#: src\project/solution.md:115
+msgid ""
+"°F is too cold! The cake is gooey and undercooked. Try a higher temperature.`"
+msgstr ""
+
+#: src\project/solution.md:117
+msgid "°F is too hot! The cake is burnt to a crisp! Try a lower temperature.`"
+msgstr ""
+
+#: src\project/solution.md:119
+msgid "// This code runs if the guess is exactly right.\n"
+msgstr ""
+
+#: src\project/solution.md:120
+msgid "`Perfection! "
+msgstr ""
+
+#: src\project/solution.md:120
+msgid ""
+"°F is the exact temperature. The cake is golden-brown and delicious. You've "
+"mastered the secret ingredient!`"
+msgstr ""
+
+#: src\project/solution.md:121
+msgid "// Mark that the player has won\n"
+msgstr ""
+
+#: src\project/solution.md:122
+msgid "// Exit the loop immediately since we won.\n"
+msgstr ""
+
+#: src\project/solution.md:125
+msgid ""
+"// --- 5. The \"Game Over\" Condition ---\n"
+"// After the loop finishes, we check if the player won.\n"
+"// If they didn't win, it means they ran out of tries.\n"
+msgstr ""
+
+#: src\project/solution.md:130
+msgid ""
+"`Oh no! You've run out of the secret ingredient.\\n"
+"The correct temperature was "
+msgstr ""
+
+#: src\project/solution.md:130
+msgid " degrees. Better luck next time!`"
+msgstr ""
+
+#: src\project/solution.md:137
+msgid ""
+"```admonish info title=\"Limitation of the playground\"\n"
+"Due to [limitation of the "
+"playground](https://mr-addict.github.io/mdbook-repl/limitations.html), we "
+"cannot run code with input on this site yet\n"
+"\n"
+"Try copy code to run on your computer.\n"
+"For online playground:\n"
+"- Python: [Programiz Python Online "
+"Compiler](https://www.programiz.com/online-compiler/1Hh4oeIa2LmpU)\n"
+"- JavaScript: [Programiz JavaScript Online "
+"Compiler](https://www.programiz.com/online-compiler/71ZdY4jaORiGG), or your "
+"browser (press F12 for most browser, paste the code and run)\n"
+"```"
+msgstr ""
+
+#: src\project/solution.md:146
+msgid "Breaking Down the Recipe"
+msgstr ""
+
+#: src\project/solution.md:148
+msgid "Let's look at how the code works, section by section."
+msgstr ""
+
+#: src\project/solution.md:150
+msgid "1. The Setup (Mise en Place)"
+msgstr ""
+
+#: src\project/solution.md:151
+msgid ""
+"Just like in cooking, we first prepare our ingredients. In coding, this "
+"means setting up our initial **variables**."
+msgstr ""
+
+#: src\project/solution.md:153
+msgid ""
+"`optimal_temperature`: We use a special function to get a random number. "
+"This is our goal."
+msgstr ""
+
+#: src\project/solution.md:154
+msgid ""
+"`number_of_attempts`: We store `7` in a variable so it's easy to change "
+"later if we want."
+msgstr ""
+
+#: src\project/solution.md:155
+msgid "We then print some welcome messages to set the scene for the player."
+msgstr ""
+
+#: src\project/solution.md:157
+msgid "2. The Baking Loop"
+msgstr ""
+
+#: src\project/solution.md:158
+msgid ""
+"We need to repeat the guessing process, and a **`for` loop** is the perfect "
+"tool for that. We tell it to run exactly `number_of_attempts` times. For "
+"each loop, it keeps track of the `attempt_number`."
+msgstr ""
+
+#: src\project/solution.md:160
+msgid "3. Getting the User's Guess"
+msgstr ""
+
+#: src\project/solution.md:161
+msgid ""
+"Inside the loop, we ask the user for their guess. The input from a user is "
+"always treated as text (**string**), so we have to convert it into a number "
+"(**integer**) before we can do any math or comparisons with it."
+msgstr ""
+
+#: src\project/solution.md:163
+msgid "4. The Logic (Checking the Result)"
+msgstr ""
+
+#: src\project/solution.md:164
+msgid ""
+"This is the heart of our program—a big `if/elif/else` (or `if/else if/else`) "
+"block. This is where we make decisions."
+msgstr ""
+
+#: src\project/solution.md:165
+msgid "The `if` checks if the guess is **less than** (`<`) the secret number."
+msgstr ""
+
+#: src\project/solution.md:166
+msgid ""
+"The `elif`/`else if` checks if the guess is **greater than** (`>`) the "
+"secret number."
+msgstr ""
+
+#: src\project/solution.md:167
+msgid ""
+"If neither of those is true, the only possibility left is that the guess is "
+"**equal to** the secret number, so the `else` block runs, and the player "
+"wins!"
+msgstr ""
+
+#: src\project/solution.md:169
+msgid ""
+"When the player wins, we use the `break` command to immediately stop the "
+"loop. There's no need to keep guessing."
+msgstr ""
+
+#: src\project/solution.md:171
+msgid "5. The \"Game Over\" Condition"
+msgstr ""
+
+#: src\project/solution.md:172
+msgid ""
+"What happens if the player never guesses the right number? The `for` loop "
+"will simply finish all of its cycles. The code after the loop is our \"game "
+"over\" message, which only runs if the player ran out of attempts without "
+"hitting a `break`."
+msgstr ""
+
+#: src\project/solution.md:174
+msgid ""
+"Congratulations! You've just walked through the logic for a complete, "
+"working game. You combined all the core concepts into a fun, interactive "
+"project. Now it's your turn to be the chef—try running the code and playing "
+"it yourself"
+msgstr ""
+
+#: src\project/whats-next.md:3
+msgid "Congratulations! You did it."
+msgstr ""
+
+#: src\project/whats-next.md:5
+msgid ""
+"You started with an empty kitchen, learned how to handle your ingredients "
+"(`variables`), follow a recipe (`if/else`, `loops`), and organize your "
+"workflow (`functions`). Then you put it all together to create something "
+"real: the Secret Ingredient Challenge."
+msgstr ""
+
+#: src\project/whats-next.md:7
+msgid ""
+"You are no longer just following a simple recipe; you are starting to "
+"**think like a chef.**"
+msgstr ""
+
+#: src\project/whats-next.md:9
+msgid "Take a Moment to Appreciate Your Progress"
+msgstr ""
+
+#: src\project/whats-next.md:11
+msgid ""
+"Think back to the first page of this guide. The code might have looked like "
+"a foreign language. Now, you can look at the solution to the number guesser "
+"game and understand the story it tells."
+msgstr ""
+
+#: src\project/whats-next.md:13
+msgid ""
+"You've learned the fundamental building blocks of virtually every "
+"programming language in existence:"
+msgstr ""
+
+#: src\project/whats-next.md:15
+msgid "Storing information in **variables**."
+msgstr ""
+
+#: src\project/whats-next.md:16
+msgid "Working with different **data types** like text and numbers."
+msgstr ""
+
+#: src\project/whats-next.md:17
+msgid "Making decisions with **if/else** logic."
+msgstr ""
+
+#: src\project/whats-next.md:18
+msgid "Repeating actions with **loops**."
+msgstr ""
+
+#: src\project/whats-next.md:19
+msgid "Organizing code into reusable **functions**."
+msgstr ""
+
+#: src\project/whats-next.md:21
+msgid ""
+"This is a huge accomplishment. You've built a solid foundation that will "
+"support you for the rest of your coding journey."
+msgstr ""
+
+#: src\project/whats-next.md:23
+msgid "So, What Kind of Chef Do You Want to Be?"
+msgstr ""
+
+#: src\project/whats-next.md:25
+msgid ""
+"Now that you know your way around the kitchen, you can start to think about "
+"what you want to cook. The path you take next depends on what excites you "
+"the most."
+msgstr ""
+
+#: src\project/whats-next.md:27
+msgid "Here are a few popular paths you can explore:"
+msgstr ""
+
+#: src\project/whats-next.md:29
+msgid "1. The Web Developer (The Baker and Pastry Chef)"
+msgstr ""
+
+#: src\project/whats-next.md:30
+msgid ""
+"Do you want to build things that people see and interact with every day? Web "
+"developers create the websites and applications we all use, from simple "
+"blogs to complex social networks."
+msgstr ""
+
+#: src\project/whats-next.md:32
+msgid ""
+"**Your Next Ingredients:** This is the world of **HTML** (the structure, "
+"like the flour and eggs), **CSS** (the presentation, like the frosting and "
+"decorations), and **JavaScript** (the interactivity, like making the cake "
+"pop up when you open the box)."
+msgstr ""
+
+#: src\project/whats-next.md:33
+msgid ""
+"**Starting Recipe:** Try building a simple, one-page personal portfolio "
+"website."
+msgstr ""
+
+#: src\project/whats-next.md:35
+msgid "2. The Backend & Systems Engineer (The Industrial Kitchen Designer)"
+msgstr ""
+
+#: src\project/whats-next.md:36
+msgid ""
+"Are you less interested in the final dish and more fascinated by how a "
+"massive restaurant can serve thousands of meals perfectly every night? "
+"Backend engineers build the fast, reliable, and scalable systems that power "
+"everything behind the scenes."
+msgstr ""
+
+#: src\project/whats-next.md:38
+msgid ""
+"**Your Next Ingredients:** This path is the domain of languages like **Go**. "
+"You'll learn to build **APIs** (the menu and ordering system the waiters use "
+"to talk to the kitchen), manage **databases** (the pantry), and master "
+"**concurrency** (designing a kitchen where dozens of chefs can work at once "
+"without chaos)."
+msgstr ""
+
+#: src\project/whats-next.md:39
+msgid ""
+"**Starting Recipe:** Build a simple \"To-Do List\" API. It won't have a user "
+"interface, but it will be the powerful engine that could run a to-do list "
+"application."
+msgstr ""
+
+#: src\project/whats-next.md:41
+msgid "3. The Data Scientist / AI Specialist (The Molecular Gastronomist)"
+msgstr ""
+
+#: src\project/whats-next.md:42
+msgid ""
+"Are you fascinated by finding hidden patterns and making predictions? Data "
+"scientists use code to analyze vast amounts of information to answer complex "
+"questions, while AI specialists build the tools that power the creative "
+"assistants you've read about."
+msgstr ""
+
+#: src\project/whats-next.md:44
+msgid ""
+"**Your Next Ingredients:** This path leans heavily on **Python** and its "
+"powerful libraries (your specialized kitchen gadgets) like **Pandas** (for "
+"organizing data) and **Matplotlib** (for creating charts)."
+msgstr ""
+
+#: src\project/whats-next.md:45
+msgid ""
+"**Starting Recipe:** Find a simple public dataset (like your city's weather "
+"data) and use code to answer a question, such as \"What was the average "
+"temperature last month?\""
+msgstr ""
+
+#: src\project/whats-next.md:47
+msgid "4. The Game Developer (The Creative Confectioner)"
+msgstr ""
+
+#: src\project/whats-next.md:48
+msgid ""
+"Do you love creating interactive worlds and fun experiences? Game developers "
+"use code to bring characters to life, design game mechanics, and build the "
+"immersive environments that players explore."
+msgstr ""
+
+#: src\project/whats-next.md:50
+msgid ""
+"**Your Next Ingredients:** This often involves learning a game engine like "
+"**Unity** (using **C#**) or **Godot** (which has its own Python-like "
+"language). These engines provide the kitchen where you can assemble your "
+"game."
+msgstr ""
+
+#: src\project/whats-next.md:51
+msgid ""
+"**Starting Recipe:** Try making a clone of a very simple classic game, like "
+"_Pong_ or a text-based adventure."
+msgstr ""
+
+#: src\project/whats-next.md:53
+msgid ""
+"Of course. Here is the new section for Rust, designed to fit seamlessly with "
+"the other career paths."
+msgstr ""
+
+#: src\project/whats-next.md:55
+msgid "5. The Systems Programmer (The Master Toolsmith)"
+msgstr ""
+
+#: src\project/whats-next.md:56
+msgid ""
+"Do you find yourself fascinated not just by the recipe, but by the oven "
+"itself? Do you want to build the fastest, safest, most efficient kitchen "
+"tools from the ground up? Systems programmers create the foundational "
+"software that everything else runs on—from operating systems and web "
+"browsers to game engines."
+msgstr ""
+
+#: src\project/whats-next.md:58
+msgid ""
+"**Your Next Ingredients:** This is the realm of **Rust**. You'll learn about "
+"its famous **Ownership** model and **Borrow Checker** (think of a "
+"hyper-vigilant kitchen inspector that _prevents_ you from making mistakes "
+"before you even start cooking). Your focus will be on performance, memory "
+"safety, and creating rock-solid, reliable code."
+msgstr ""
+
+#: src\project/whats-next.md:59
+msgid ""
+"**Starting Recipe:** Build a high-performance command-line tool. A great "
+"first project is to create your own version of `grep`, a program that can "
+"search for text within files, showing you how Rust excels at I/O and speed."
+msgstr ""
+
+#: src\project/whats-next.md:61
+msgid "Three Essential Habits for Every Chef"
+msgstr ""
+
+#: src\project/whats-next.md:63
+msgid ""
+"No matter which path you choose, the following habits will help you grow "
+"from a home cook into a master chef."
+msgstr ""
+
+#: src\project/whats-next.md:65
+msgid ""
+"**Keep Your Knives Sharp (Practice Consistently):** Coding is a practical "
+"skill. You must use it to keep it. Don't wait for the perfect project idea. "
+"Tinker. Modify the number guesser game. Can you add a difficulty setting? "
+"Can you give the user more or fewer attempts?"
+msgstr ""
+
+#: src\project/whats-next.md:66
+msgid ""
+"**Read Other Chefs' Cookbooks (Read Code):** One of the best ways to learn "
+"is to read code written by others. Look at the solutions to simple coding "
+"challenges online. You'll discover new techniques and ways of thinking you "
+"hadn't considered."
+msgstr ""
+
+#: src\project/whats-next.md:67
+msgid ""
+"**Don't Be Afraid to Make a Mess (Embrace Errors):** Your code will break. "
+"You will get error messages. This is not failure; it's feedback. Every "
+"programmer, from beginner to expert, spends a huge amount of their time "
+"debugging. See every error as a puzzle to be solved."
+msgstr ""
+
+#: src\project/whats-next.md:69
+msgid ""
+"The journey of a thousand programs begins with a single line of code. You've "
+"already written many more than that. You have the tools, you have the "
+"knowledge, and you have a solid foundation to build whatever you can imagine."
+msgstr ""
+
+#: src\project/whats-next.md:71
+msgid "**Now, go cook something amazing.**"
+msgstr ""
+
+#: src\language-guide/language-table.md:3
+msgid "Language"
+msgstr ""
+
+#: src\language-guide/language-table.md:3
+msgid "Best for Beginners interested in..."
+msgstr ""
+
+#: src\language-guide/language-table.md:3
+msgid "Key Strength"
+msgstr ""
+
+#: src\language-guide/language-table.md:3
+msgid "Analogy"
+msgstr ""
+
+#: src\language-guide/language-table.md:5
+msgid "**Python**"
+msgstr ""
+
+#: src\language-guide/language-table.md:5
+msgid "General programming, data science, AI, web backends"
+msgstr ""
+
+#: src\language-guide/language-table.md:5
+msgid "Readability and a vast library ecosystem"
+msgstr ""
+
+#: src\language-guide/language-table.md:5
+msgid "The All-Purpose Kitchen"
+msgstr ""
+
+#: src\language-guide/language-table.md:6
+msgid "**JavaScript**"
+msgstr ""
+
+#: src\language-guide/language-table.md:6
+msgid "Building interactive websites and web applications"
+msgstr ""
+
+#: src\language-guide/language-table.md:6
+msgid "Running everywhere (browser, server, mobile)"
+msgstr ""
+
+#: src\language-guide/language-table.md:6
+msgid "The Language of the Web"
+msgstr ""
+
+#: src\language-guide/language-table.md:7
+msgid "**Go**"
+msgstr ""
+
+#: src\language-guide/language-table.md:7
+msgid "Building fast and efficient cloud services and CLIs"
+msgstr ""
+
+#: src\language-guide/language-table.md:7
+msgid "Simplicity, speed, and concurrency"
+msgstr ""
+
+#: src\language-guide/language-table.md:7
+msgid "The Speedy & Efficient Kitchen"
+msgstr ""
+
+#: src\language-guide/language-table.md:8
+msgid "**C#**"
+msgstr ""
+
+#: src\language-guide/language-table.md:8
+msgid "Game development (with Unity), enterprise applications"
+msgstr ""
+
+#: src\language-guide/language-table.md:8
+msgid "Performance and excellent tooling"
+msgstr ""
+
+#: src\language-guide/language-table.md:8
+msgid "The Professional Kitchen"
+msgstr ""
+
+#: src\language-guide/language-table.md:9
+msgid "**PHP**"
+msgstr ""
+
+#: src\language-guide/language-table.md:9
+msgid "Powering websites and content management systems like WordPress"
+msgstr ""
+
+#: src\language-guide/language-table.md:9
+msgid "Ease of deployment and a massive web ecosystem"
+msgstr ""
+
+#: src\language-guide/language-table.md:9
+msgid "The Web's Kitchen Workhorse"
+msgstr ""
+
+#: src\language-guide/language-table.md:10
+msgid "**Rust**"
+msgstr ""
+
+#: src\language-guide/language-table.md:10
+msgid "Performance-critical applications where safety is paramount"
+msgstr ""
+
+#: src\language-guide/language-table.md:10
+msgid "Memory safety without a garbage collector"
+msgstr ""
+
+#: src\language-guide/language-table.md:10
+msgid "The High-Performance Forge"
+msgstr ""
+
+#: src\language-guide/python.md:22
+msgid "Python: The All-Purpose Kitchen"
+msgstr ""
+
+#: src\language-guide/python.md:24
+msgid ""
+"Welcome to the Python language guide! If programming languages were cooking "
+"styles, Python would be the versatile, all-purpose kitchen that can handle "
+"everything from a quick weekday meal to an elaborate multi-course feast."
+msgstr ""
+
+#: src\language-guide/python.md:26
+msgid "What is Python?"
+msgstr ""
+
+#: src\language-guide/python.md:28
+msgid ""
+"Python is a high-level, general-purpose programming language known for its "
+"simple, readable syntax. Its design philosophy emphasizes code readability, "
+"which is why its syntax looks clean and is often compared to plain English. "
+"This makes it one of the most recommended languages for beginners."
+msgstr ""
+
+#: src\language-guide/python.md:30 src\language-guide/javascript.md:30
+#: src\language-guide/go.md:9 src\language-guide/csharp.md:9
+#: src\language-guide/php.md:9 src\language-guide/rust.md:9
+msgid "What is it Used For?"
+msgstr ""
+
+#: src\language-guide/python.md:32
+msgid ""
+"Python is incredibly versatile and is a top choice in several major fields:"
+msgstr ""
+
+#: src\language-guide/python.md:34
+msgid ""
+"**Data Science & AI:** Analyzing data, training machine learning models, and "
+"building neural networks."
+msgstr ""
+
+#: src\language-guide/python.md:35
+msgid ""
+"**Web Development:** Creating the backend logic for websites and web "
+"applications."
+msgstr ""
+
+#: src\language-guide/python.md:36
+msgid ""
+"**Automation & Scripting:** Writing small programs to automate repetitive "
+"tasks, like organizing files or scraping data from websites."
+msgstr ""
+
+#: src\language-guide/python.md:37
+msgid ""
+"**Software Development:** Building desktop applications and developer tools."
+msgstr ""
+
+#: src\language-guide/python.md:39
+msgid "Why You Might Like Python"
+msgstr ""
+
+#: src\language-guide/python.md:41
+msgid ""
+"**Beginner-Friendly:** The simple syntax means you can focus on learning "
+"programming concepts rather than getting stuck on complex rules."
+msgstr ""
+
+#: src\language-guide/python.md:42
+msgid ""
+"**Huge \"Pantry\" of Libraries:** Python has a massive ecosystem of "
+"pre-built code (libraries) that you can import, saving you from having to "
+"build everything from scratch."
+msgstr ""
+
+#: src\language-guide/python.md:43
+msgid ""
+"**Massive Community:** A large and active community means that if you ever "
+"get stuck, an answer is likely just a quick search away."
+msgstr ""
+
+#: src\language-guide/python.md:44
+msgid ""
+"**Highly in Demand:** It is one of the most popular and widely used "
+"programming languages in the world."
+msgstr ""
+
+#: src\language-guide/python.md:46 src\language-guide/javascript.md:47
+#: src\language-guide/go.md:26 src\language-guide/csharp.md:25
+#: src\language-guide/php.md:26 src\language-guide/rust.md:26
+msgid "Keep in Mind"
+msgstr ""
+
+#: src\language-guide/python.md:48
+msgid ""
+"Because Python is dynamically typed, some errors might not be caught until "
+"your program is running, which requires diligent testing."
+msgstr ""
+
+#: src\language-guide/python.md:50
+msgid "A Taste of Python Syntax"
+msgstr ""
+
+#: src\language-guide/python.md:52
+msgid ""
+"Here’s a taste of what Python code looks like. As you can see, it's clean "
+"and straight to the point."
+msgstr ""
+
+#: src\language-guide/python.md:65
+msgid "# === Python: A Day at The Coder's Cafe ==="
+msgstr ""
+
+#: src\language-guide/python.md:66
+msgid "# --- Module 1: Greeting the Customer (The Basics) ---"
+msgstr ""
+
+#: src\language-guide/python.md:68 src\language-guide/javascript.md:69
+#: src\language-guide/go.md:63 src\language-guide/rust.md:67
+msgid "\"Welcome to The Coder's Cafe!\""
+msgstr ""
+
+#: src\language-guide/python.md:68
+msgid "# Taking an order is like getting user input."
+msgstr ""
+
+#: src\language-guide/python.md:70
+msgid "\"Ada\"  # In a real app: input(\"May I have your name? \")"
+msgstr ""
+
+#: src\language-guide/python.md:70
+msgid "# This is a note for the chef (a comment)"
+msgstr ""
+
+#: src\language-guide/python.md:72
+msgid "# --- Module 2: Prepping the Ingredients (Data) ---"
+msgstr ""
+
+#: src\language-guide/python.md:74
+msgid "\"Pixel Perfect Pizza\"    # String"
+msgstr ""
+
+#: src\language-guide/python.md:75
+msgid "# Integer"
+msgstr ""
+
+#: src\language-guide/python.md:76
+msgid "# Float"
+msgstr ""
+
+#: src\language-guide/python.md:77
+msgid "# Boolean"
+msgstr ""
+
+#: src\language-guide/python.md:78 src\language-guide/python.md:107
+msgid "\""
+msgstr ""
+
+#: src\language-guide/python.md:78 src\language-guide/javascript.md:79
+msgid "x "
+msgstr ""
+
+#: src\language-guide/python.md:78
+msgid "\" # String Formatting"
+msgstr ""
+
+#: src\language-guide/python.md:79
+msgid "# --- Module 3: In the Kitchen (Logic & Flow) ---"
+msgstr ""
+
+#: src\language-guide/python.md:81
+msgid "\"Pizza\""
+msgstr ""
+
+#: src\language-guide/python.md:82 src\language-guide/python.md:84
+msgid "\"Cooking "
+msgstr ""
+
+#: src\language-guide/python.md:82
+msgid " in the brick oven.\""
+msgstr ""
+
+#: src\language-guide/python.md:84
+msgid " on the stove.\""
+msgstr ""
+
+#: src\language-guide/python.md:85
+msgid "# --- Module 4: Handling the Full Order (Collections & Loops) ---"
+msgstr ""
+
+#: src\language-guide/python.md:86
+msgid "# A customer's complete order (List)"
+msgstr ""
+
+#: src\language-guide/python.md:88
+msgid "\"Pixel Perfect Pizza\""
+msgstr ""
+
+#: src\language-guide/python.md:88
+msgid "\"Data-driven Drink\""
+msgstr ""
+
+#: src\language-guide/python.md:89 src\language-guide/javascript.md:91
+#: src\language-guide/go.md:83 src\language-guide/rust.md:89
+msgid "\"Processing full order:\""
+msgstr ""
+
+#: src\language-guide/python.md:91
+msgid "\"- Adding "
+msgstr ""
+
+#: src\language-guide/python.md:91
+msgid " to the ticket.\""
+msgstr ""
+
+#: src\language-guide/python.md:92
+msgid "# A process that repeats until a condition is met (While Loop)"
+msgstr ""
+
+#: src\language-guide/python.md:96
+msgid "\"Heating soup... now at "
+msgstr ""
+
+#: src\language-guide/python.md:96
+msgid "°C\""
+msgstr ""
+
+#: src\language-guide/python.md:97
+msgid "# Increase temperature by 10"
+msgstr ""
+
+#: src\language-guide/python.md:98 src\language-guide/javascript.md:102
+#: src\language-guide/go.md:94 src\language-guide/rust.md:100
+msgid "\"Soup is ready!\""
+msgstr ""
+
+#: src\language-guide/python.md:99
+msgid ""
+"# --- Module 5: The Final Bill & A Special Offer (Functions & Imports) ---"
+msgstr ""
+
+#: src\language-guide/python.md:101
+msgid "# For our special promotion"
+msgstr ""
+
+#: src\language-guide/python.md:102
+msgid "# A standard procedure (Function)"
+msgstr ""
+
+#: src\language-guide/python.md:105
+msgid "\"\\n--- Bill for "
+msgstr ""
+
+#: src\language-guide/python.md:105
+msgid " ---\""
+msgstr ""
+
+#: src\language-guide/python.md:107
+msgid "\"  - "
+msgstr ""
+
+#: src\language-guide/python.md:109
+msgid "# Let's add a random promotional discount!"
+msgstr ""
+
+#: src\language-guide/python.md:110
+msgid "# 5% to 20% off"
+msgstr ""
+
+#: src\language-guide/python.md:111
+msgid "\"Applying a special "
+msgstr ""
+
+#: src\language-guide/python.md:111
+msgid "% discount!\""
+msgstr ""
+
+#: src\language-guide/python.md:113
+msgid "# Return the calculated value"
+msgstr ""
+
+#: src\language-guide/python.md:114
+msgid "# A bill represented as a Dictionary (Key-Value pairs)"
+msgstr ""
+
+#: src\language-guide/python.md:117 src\language-guide/python.md:123
+#: src\language-guide/go.md:99 src\language-guide/go.md:106
+#: src\language-guide/php.md:92 src\language-guide/php.md:99
+msgid "\"customer\""
+msgstr ""
+
+#: src\language-guide/python.md:118 src\language-guide/python.md:123
+#: src\language-guide/go.md:100 src\language-guide/go.md:107
+#: src\language-guide/php.md:93 src\language-guide/php.md:100
+msgid "\"items\""
+msgstr ""
+
+#: src\language-guide/python.md:119 src\language-guide/python.md:123
+#: src\language-guide/go.md:101 src\language-guide/go.md:108
+#: src\language-guide/php.md:94 src\language-guide/php.md:101
+msgid "\"total\""
+msgstr ""
+
+#: src\language-guide/python.md:121
+msgid "# Call the function to get the final result"
+msgstr ""
+
+#: src\language-guide/python.md:125
+msgid "\"Your final bill is $"
+msgstr ""
+
+#: src\language-guide/python.md:125
+msgid ".\""
+msgstr ""
+
+#: src\language-guide/python.md:126
+msgid "\"Thank you for dining with us, "
+msgstr ""
+
+#: src\language-guide/python.md:126
+msgid "!\""
+msgstr ""
+
+#: src\language-guide/python.md:130
+msgid "Start Coding in Python"
+msgstr ""
+
+#: src\language-guide/python.md:132 src\language-guide/javascript.md:136
+#: src\language-guide/go.md:118 src\language-guide/csharp.md:111
+#: src\language-guide/php.md:111 src\language-guide/rust.md:121
+msgid ""
+"Here are the simplest ways to start, from the easiest method to the most "
+"common one."
+msgstr ""
+
+#: src\language-guide/python.md:134 src\language-guide/javascript.md:138
+#: src\language-guide/go.md:120 src\language-guide/csharp.md:113
+#: src\language-guide/php.md:113 src\language-guide/rust.md:123
+msgid "1. In Your Browser (The Easiest Start)"
+msgstr ""
+
+#: src\language-guide/python.md:136
+msgid ""
+"This method requires **no installation**. You just write and run your code "
+"on a website."
+msgstr ""
+
+#: src\language-guide/python.md:138
+msgid "**What to use:** [Google Colab](https://colab.research.google.com/)"
+msgstr ""
+
+#: src\language-guide/python.md:139
+msgid ""
+"**How it works:** It’s a free \"notebook\" that runs in the cloud. You can "
+"write Python code, add notes, and run it all from your browser."
+msgstr ""
+
+#: src\language-guide/python.md:140
+msgid "**Best for:** Learning Python, data analysis, and AI projects."
+msgstr ""
+
+#: src\language-guide/python.md:141
+msgid ""
+"**Modern alternative:** [molab](https://molab.marimo.io/) if you want to use "
+"[marimo](https://marimo.io/)"
+msgstr ""
+
+#: src\language-guide/python.md:143 src\language-guide/javascript.md:148
+#: src\language-guide/go.md:128 src\language-guide/csharp.md:121
+#: src\language-guide/php.md:121 src\language-guide/rust.md:131
+msgid "2. On Your Computer (The Standard Way)"
+msgstr ""
+
+#: src\language-guide/python.md:145
+msgid ""
+"This is how most developers work. You must [**install "
+"Python**](https://www.python.org/downloads/) on your computer first."
+msgstr ""
+
+#: src\language-guide/python.md:147
+msgid "The Python Shell (For Quick Tests)"
+msgstr ""
+
+#: src\language-guide/python.md:149
+msgid "REPL (Read-Eval-Print Loop)"
+msgstr ""
+
+#: src\language-guide/python.md:151 src\language-guide/python.md:160
+#: src\language-guide/javascript.md:156 src\language-guide/javascript.md:164
+#: src\language-guide/go.md:136 src\language-guide/csharp.md:129
+#: src\language-guide/rust.md:146
+msgid "**How to use:**"
+msgstr ""
+
+#: src\language-guide/python.md:152 src\language-guide/go.md:138
+#: src\language-guide/csharp.md:130
+msgid "Open your computer's \"Terminal\" or \"Command Prompt\"."
+msgstr ""
+
+#: src\language-guide/python.md:153
+msgid "Type `python` (or `python3`) and press Enter."
+msgstr ""
+
+#: src\language-guide/python.md:154
+msgid "**Best for:** Testing a single line of code or doing quick math."
+msgstr ""
+
+#: src\language-guide/python.md:156
+msgid "Running Script Files (The Main Way)"
+msgstr ""
+
+#: src\language-guide/python.md:158
+msgid "This is the most common way to build a program."
+msgstr ""
+
+#: src\language-guide/python.md:161
+msgid ""
+"Write your code in a text editor (like [VS "
+"Code](https://code.visualstudio.com/), [Sublime "
+"Text](https://www.sublimetext.com/), or even Notepad)."
+msgstr ""
+
+#: src\language-guide/python.md:162
+msgid "Save the file with a `.py` ending (e.g., `my_script.py`)."
+msgstr ""
+
+#: src\language-guide/python.md:163
+msgid ""
+"In your terminal, navigate to the file's folder and type `python "
+"my_script.py` to run it."
+msgstr ""
+
+#: src\language-guide/python.md:164
+msgid "**Best for:** Building any kind of app, script, or project."
+msgstr ""
+
+#: src\language-guide/python.md:166 src\language-guide/go.md:146
+#: src\language-guide/csharp.md:136 src\language-guide/rust.md:151
+msgid "Using an IDE for a Better Workflow"
+msgstr ""
+
+#: src\language-guide/python.md:168 src\language-guide/go.md:148
+#: src\language-guide/php.md:139
+msgid ""
+"An \"IDE\" (Integrated Development Environment) is a powerful editor with "
+"extra features that help you write better code, faster."
+msgstr ""
+
+#: src\language-guide/python.md:170
+msgid ""
+"**What to use:** [VS Code (with the Python "
+"extension)](https://code.visualstudio.com/docs/languages/python), "
+"[Zed](https://zed.dev/) or [PyCharm](https://www.jetbrains.com/pycharm/)."
+msgstr ""
+
+#: src\language-guide/python.md:171
+msgid ""
+"**How it works:** These tools check your code for errors, auto-complete what "
+"you type, and help you manage all the files in a large project."
+msgstr ""
+
+#: src\language-guide/python.md:172
+msgid ""
+"**Essential Tooling (Linters & Formatters):** To keep your code clean and "
+"consistent, developers use tools like **Ruff** and **Black**. These tools "
+"automatically format your code and check for common errors. Most IDEs can "
+"integrate them to format your code every time you save."
+msgstr ""
+
+#: src\language-guide/python.md:174
+msgid "Managing Project Dependencies with `uv`"
+msgstr ""
+
+#: src\language-guide/python.md:176
+msgid "This is a crucial step for building projects that rely on external code."
+msgstr ""
+
+#: src\language-guide/python.md:178
+msgid ""
+"**What is a dependency?** Most Python projects use \"libraries\" or "
+"\"packages,\" which are collections of pre-written code that solve common "
+"problems. You can find these on the **Python Package Index (PyPI)**, a giant "
+"online repository of Python software."
+msgstr ""
+
+#: src\language-guide/python.md:179
+msgid "**What tool to use:** [**uv**](https://docs.astral.sh/uv/)"
+msgstr ""
+
+#: src\language-guide/python.md:180
+msgid ""
+"**How it works:** `uv` is a very fast tool that creates isolated \"virtual "
+"environments\" for each project. This means Project A can use one version of "
+"a library, and Project B can use a different version without them "
+"conflicting. You use `uv` to install, remove, and manage these libraries "
+"from PyPI."
+msgstr ""
+
+#: src\language-guide/python.md:181 src\language-guide/go.md:163
+msgid "**Examples of Key Libraries you can install:**"
+msgstr ""
+
+#: src\language-guide/python.md:182
+msgid ""
+"**Web Development:** [Flask](https://flask.palletsprojects.com/en/stable/), "
+"[FastAPI](https://fastapi.tiangolo.com/), "
+"[Django](https://www.djangoproject.com/)."
+msgstr ""
+
+#: src\language-guide/python.md:183
+msgid ""
+"**Data Science:** [Pandas](https://pandas.pydata.org/), "
+"[NumPy](https://numpy.org/), [Matplotlib](https://matplotlib.org/)."
+msgstr ""
+
+#: src\language-guide/python.md:184
+msgid ""
+"**Automation:** [Playwright](https://playwright.dev/python/), "
+"[Scrapy](https://www.scrapy.org/)."
+msgstr ""
+
+#: src\language-guide/javascript.md:22
+msgid "JavaScript: The Language of the Web"
+msgstr ""
+
+#: src\language-guide/javascript.md:24
+msgid ""
+"Welcome to the JavaScript language guide! If programming were about "
+"building, JavaScript would be the ultimate multi-tool—essential for making "
+"interactive websites, powerful servers, and even mobile apps."
+msgstr ""
+
+#: src\language-guide/javascript.md:26
+msgid "What is JavaScript?"
+msgstr ""
+
+#: src\language-guide/javascript.md:28
+msgid ""
+"JavaScript (often shortened to JS) is a high-level, dynamic programming "
+"language that is one of the core technologies of the World Wide Web, "
+"alongside HTML and CSS. While it started as a language for web browsers, it "
+"has since evolved to run on servers, in mobile devices, and on the desktop, "
+"making it one of the most versatile languages in the world."
+msgstr ""
+
+#: src\language-guide/javascript.md:32
+msgid "JavaScript's flexibility allows it to be used in many different areas:"
+msgstr ""
+
+#: src\language-guide/javascript.md:34
+msgid ""
+"**Frontend Web Development:** Making websites interactive, creating "
+"animations, and building rich user interfaces with frameworks like "
+"**React**, **Vue**, and **Angular**."
+msgstr ""
+
+#: src\language-guide/javascript.md:35
+msgid ""
+"**Backend Development:** Running servers and building APIs using the "
+"**Node.js** runtime, often with frameworks like **Express**."
+msgstr ""
+
+#: src\language-guide/javascript.md:36
+msgid ""
+"**Mobile App Development:** Creating cross-platform mobile apps with "
+"frameworks like **React Native**."
+msgstr ""
+
+#: src\language-guide/javascript.md:37
+msgid ""
+"**Desktop App Development:** Building desktop applications with tools like "
+"**Electron**."
+msgstr ""
+
+#: src\language-guide/javascript.md:38
+msgid ""
+"**Game Development:** Creating browser-based games and interactive "
+"experiences."
+msgstr ""
+
+#: src\language-guide/javascript.md:40
+msgid "Why You Might Like JavaScript"
+msgstr ""
+
+#: src\language-guide/javascript.md:42
+msgid ""
+"**Runs Everywhere:** JavaScript is the only language that can run natively "
+"in the browser, on a server, and on mobile devices."
+msgstr ""
+
+#: src\language-guide/javascript.md:43
+msgid ""
+"**Huge Ecosystem:** **npm** (Node Package Manager) is the largest software "
+"registry in the world, offering millions of pre-built code libraries for "
+"nearly any task."
+msgstr ""
+
+#: src\language-guide/javascript.md:44
+msgid ""
+"**Massive Community:** A vast and active community means endless tutorials, "
+"forums, and libraries. If you have a problem, someone has likely already "
+"solved it."
+msgstr ""
+
+#: src\language-guide/javascript.md:45
+msgid ""
+"**Versatile and Flexible:** You can build a full application—from the user "
+"interface to the server logic—using only JavaScript."
+msgstr ""
+
+#: src\language-guide/javascript.md:49
+msgid ""
+"Its flexibility can sometimes lead to writing less organized code if you're "
+"not careful. The vast ecosystem can also be overwhelming for newcomers."
+msgstr ""
+
+#: src\language-guide/javascript.md:51
+msgid "A Taste of JavaScript Syntax"
+msgstr ""
+
+#: src\language-guide/javascript.md:53
+msgid ""
+"Here’s a taste of what JavaScript code looks like. The syntax is flexible "
+"and powerful, borrowing ideas from several other languages."
+msgstr ""
+
+#: src\language-guide/javascript.md:66
+msgid "// === JavaScript: A Day at The Coder's Cafe ===\n"
+msgstr ""
+
+#: src\language-guide/javascript.md:67 src\language-guide/go.md:62
+#: src\language-guide/php.md:37 src\language-guide/rust.md:66
+msgid "// --- Module 1: Greeting the Customer ---\n"
+msgstr ""
+
+#: src\language-guide/javascript.md:69 src\language-guide/php.md:39
+msgid "// Taking an order is like getting user input.\n"
+msgstr ""
+
+#: src\language-guide/javascript.md:71
+msgid "\"Grace\""
+msgstr ""
+
+#: src\language-guide/javascript.md:71
+msgid ""
+"// In a browser: prompt(\"May I have your name? \");\n"
+"// This is a note for the chef (a comment)\n"
+msgstr ""
+
+#: src\language-guide/javascript.md:73 src\language-guide/go.md:66
+#: src\language-guide/php.md:42 src\language-guide/rust.md:71
+msgid "// --- Module 2: Prepping the Ingredients (Data) ---\n"
+msgstr ""
+
+#: src\language-guide/javascript.md:75 src\language-guide/javascript.md:90
+msgid "\"Async Avocado Toast\""
+msgstr ""
+
+#: src\language-guide/javascript.md:75 src\language-guide/php.md:44
+msgid "// String\n"
+msgstr ""
+
+#: src\language-guide/javascript.md:76
+msgid "// Number\n"
+msgstr ""
+
+#: src\language-guide/javascript.md:77
+msgid "// Number (Float)\n"
+msgstr ""
+
+#: src\language-guide/javascript.md:78 src\language-guide/php.md:47
+msgid "// Boolean\n"
+msgstr ""
+
+#: src\language-guide/javascript.md:79 src\language-guide/javascript.md:110
+msgid "`"
+msgstr ""
+
+#: src\language-guide/javascript.md:79
+msgid "// String Templating\n"
+msgstr ""
+
+#: src\language-guide/javascript.md:80 src\language-guide/go.md:74
+#: src\language-guide/php.md:49 src\language-guide/rust.md:78
+msgid "// --- Module 3: In the Kitchen (Logic) ---\n"
+msgstr ""
+
+#: src\language-guide/javascript.md:82
+msgid "\"Toast\""
+msgstr ""
+
+#: src\language-guide/javascript.md:83 src\language-guide/javascript.md:85
+msgid "`Cooking "
+msgstr ""
+
+#: src\language-guide/javascript.md:83
+msgid " in the toaster.`"
+msgstr ""
+
+#: src\language-guide/javascript.md:85
+msgid " on the stove.`"
+msgstr ""
+
+#: src\language-guide/javascript.md:87 src\language-guide/php.md:56
+msgid ""
+"// --- Module 4: Handling the Full Order (Collections & Loops) ---\n"
+"// A customer's complete order (Array)\n"
+msgstr ""
+
+#: src\language-guide/javascript.md:90
+msgid "\"Callback Coffee\""
+msgstr ""
+
+#: src\language-guide/javascript.md:93
+msgid "`- Adding "
+msgstr ""
+
+#: src\language-guide/javascript.md:93
+msgid " to the ticket.`"
+msgstr ""
+
+#: src\language-guide/javascript.md:95 src\language-guide/php.md:64
+#: src\language-guide/rust.md:94
+msgid "// A process that repeats until a condition is met (While Loop)\n"
+msgstr ""
+
+#: src\language-guide/javascript.md:99
+msgid "`Heating soup... now at "
+msgstr ""
+
+#: src\language-guide/javascript.md:99
+msgid "°C`"
+msgstr ""
+
+#: src\language-guide/javascript.md:103
+msgid ""
+"// --- Module 5: The Final Bill & A Special Offer (Functions & Imports) ---\n"
+"// JavaScript's Math object is built-in, no import needed for random.\n"
+msgstr ""
+
+#: src\language-guide/javascript.md:106 src\language-guide/php.md:75
+msgid "// A standard procedure (Function)\n"
+msgstr ""
+
+#: src\language-guide/javascript.md:109
+msgid "`\\n--- Bill for "
+msgstr ""
+
+#: src\language-guide/javascript.md:109
+msgid " ---`"
+msgstr ""
+
+#: src\language-guide/javascript.md:110
+msgid "`  - "
+msgstr ""
+
+#: src\language-guide/javascript.md:112 src\language-guide/go.md:53
+#: src\language-guide/php.md:83 src\language-guide/rust.md:55
+msgid "// Let's add a random promotional discount!\n"
+msgstr ""
+
+#: src\language-guide/javascript.md:113 src\language-guide/go.md:55
+msgid "// 5 to 20%\n"
+msgstr ""
+
+#: src\language-guide/javascript.md:114
+msgid "`Applying a special "
+msgstr ""
+
+#: src\language-guide/javascript.md:114
+msgid "% discount!`"
+msgstr ""
+
+#: src\language-guide/javascript.md:116 src\language-guide/go.md:58
+#: src\language-guide/php.md:87 src\language-guide/rust.md:62
+msgid "// Return the calculated value\n"
+msgstr ""
+
+#: src\language-guide/javascript.md:118
+msgid "// A bill represented as an Object (Key-Value pairs)\n"
+msgstr ""
+
+#: src\language-guide/javascript.md:125 src\language-guide/php.md:96
+msgid "// Call the function to get the final result\n"
+msgstr ""
+
+#: src\language-guide/javascript.md:129
+msgid "`Your final bill is $"
+msgstr ""
+
+#: src\language-guide/javascript.md:129
+msgid ".`"
+msgstr ""
+
+#: src\language-guide/javascript.md:130
+msgid "`Thank you for dining with us, "
+msgstr ""
+
+#: src\language-guide/javascript.md:130
+msgid "!`"
+msgstr ""
+
+#: src\language-guide/javascript.md:134
+msgid "Start Coding in JavaScript"
+msgstr ""
+
+#: src\language-guide/javascript.md:140
+msgid ""
+"This method requires **no installation**. You already have all the tools you "
+"need in your web browser."
+msgstr ""
+
+#: src\language-guide/javascript.md:142
+msgid ""
+"**What to use:** The **Browser Console** or online playgrounds like "
+"**CodePen**, **JSFiddle**, or **Replit**."
+msgstr ""
+
+#: src\language-guide/javascript.md:143 src\language-guide/go.md:159
+#: src\language-guide/php.md:130 src\language-guide/rust.md:165
+msgid "**How it works:**"
+msgstr ""
+
+#: src\language-guide/javascript.md:144
+msgid ""
+"To open the console, press **F12** in your browser and click the \"Console\" "
+"tab. You can type and run JS code directly."
+msgstr ""
+
+#: src\language-guide/javascript.md:145
+msgid ""
+"Online playgrounds let you write HTML, CSS, and JS in the browser and see "
+"the results live."
+msgstr ""
+
+#: src\language-guide/javascript.md:146
+msgid ""
+"**Best for:** Quick experiments, learning web development, and sharing small "
+"projects."
+msgstr ""
+
+#: src\language-guide/javascript.md:150
+msgid ""
+"This is how most developers build projects. You will need a code editor like "
+"[VS Code](https://code.visualstudio.com/) and, for backend development, you "
+"must [**install Node.js**](https://nodejs.org/)."
+msgstr ""
+
+#: src\language-guide/javascript.md:152
+msgid "A. In a Web Page (Frontend)"
+msgstr ""
+
+#: src\language-guide/javascript.md:154
+msgid "This is how you make websites interactive."
+msgstr ""
+
+#: src\language-guide/javascript.md:157
+msgid "Create two files: `index.html` and `script.js`."
+msgstr ""
+
+#: src\language-guide/javascript.md:158
+msgid ""
+"In `index.html`, link your script near the end of the `<body>`: `<script "
+"src=\"script.js\"></script>`."
+msgstr ""
+
+#: src\language-guide/javascript.md:159
+msgid "Open the `index.html` file in your browser to run the code."
+msgstr ""
+
+#: src\language-guide/javascript.md:160
+msgid ""
+"**Best for:** Making websites interactive, creating animations, or building "
+"web games."
+msgstr ""
+
+#: src\language-guide/javascript.md:162
+msgid "B. On a Server (Backend with Node.js)"
+msgstr ""
+
+#: src\language-guide/javascript.md:165
+msgid "After installing Node.js, write your code in a file like `app.js`."
+msgstr ""
+
+#: src\language-guide/javascript.md:166
+msgid ""
+"Open your computer's terminal, navigate to the folder, and run `node app.js`."
+msgstr ""
+
+#: src\language-guide/javascript.md:167
+msgid "**Best for:** Building servers, APIs, and automation scripts."
+msgstr ""
+
+#: src\language-guide/javascript.md:169
+msgid "C. Using an IDE for a Better Workflow"
+msgstr ""
+
+#: src\language-guide/javascript.md:171
+msgid ""
+"An \"IDE\" (Integrated Development Environment) is a powerful editor that "
+"improves your workflow."
+msgstr ""
+
+#: src\language-guide/javascript.md:173
+msgid ""
+"**What to use:** **VS Code** (the most popular choice), **Zed**, or "
+"**WebStorm**."
+msgstr ""
+
+#: src\language-guide/javascript.md:174
+msgid ""
+"**How it works:** These tools check your code for errors, auto-complete what "
+"you type, and help manage large projects."
+msgstr ""
+
+#: src\language-guide/javascript.md:175
+msgid ""
+"**Essential Tooling (Linters & Formatters):** To keep code clean and "
+"error-free, developers use **ESLint** and **Prettier**. They automatically "
+"check for issues and format your code to maintain a consistent style, and "
+"most IDEs can run them every time you save."
+msgstr ""
+
+#: src\language-guide/javascript.md:177
+msgid "D. Managing Project Dependencies with npm"
+msgstr ""
+
+#: src\language-guide/javascript.md:179
+msgid "This is a critical part of modern JavaScript development."
+msgstr ""
+
+#: src\language-guide/javascript.md:181
+msgid ""
+"**What is a dependency?** Most projects rely on external \"packages\" "
+"(libraries of pre-written code). These are hosted on the **npm registry**, a "
+"massive repository of open-source code."
+msgstr ""
+
+#: src\language-guide/javascript.md:182
+msgid ""
+"**What tool to use:** **npm** (Node Package Manager), which is **included "
+"when you install Node.js**."
+msgstr ""
+
+#: src\language-guide/javascript.md:183
+msgid ""
+"**How it works:** You use `npm` in your terminal to install, update, and "
+"manage the packages your project needs. It tracks these dependencies in a "
+"file called `package.json`."
+msgstr ""
+
+#: src\language-guide/javascript.md:184
+msgid "**Examples of Key Packages you can install:**"
+msgstr ""
+
+#: src\language-guide/javascript.md:185
+msgid "**Frontend:** `react`, `vue`, `tailwindcss`."
+msgstr ""
+
+#: src\language-guide/javascript.md:186
+msgid "**Backend:** `express`, `lodash`, `axios`."
+msgstr ""
+
+#: src\language-guide/javascript.md:187
+msgid "**Testing:** `jest`, `vitest`, `playwright`."
+msgstr ""
+
+#: src\language-guide/go.md:1
+msgid "Go: The Speedy & Efficient Kitchen"
+msgstr ""
+
+#: src\language-guide/go.md:3
+msgid ""
+"Welcome to the Go language guide! If programming languages were kitchens, Go "
+"would be the clean, modern, and incredibly efficient professional kitchen "
+"designed for speed and consistency. It’s built to handle massive scale, like "
+"a restaurant chain serving thousands of customers at once."
+msgstr ""
+
+#: src\language-guide/go.md:5
+msgid "What is Go?"
+msgstr ""
+
+#: src\language-guide/go.md:7
+msgid ""
+"Go (often called Golang) is a statically typed, compiled programming "
+"language designed at Google. It is known for its simplicity, efficiency, and "
+"strong support for **concurrency**—the ability to run multiple tasks at the "
+"same time. Its syntax is clean and minimal, making it easy to learn and read."
+msgstr ""
+
+#: src\language-guide/go.md:11
+msgid ""
+"Go is a top choice for building the \"engine\" of modern software, "
+"especially in the cloud."
+msgstr ""
+
+#: src\language-guide/go.md:13
+msgid ""
+"**Cloud & Backend Services:** Building fast and scalable APIs, "
+"microservices, and network applications. Most of the tools that power the "
+"modern cloud (like Docker and Kubernetes) are written in Go."
+msgstr ""
+
+#: src\language-guide/go.md:14
+msgid ""
+"**DevOps & Command-Line Tools:** Creating fast and efficient command-line "
+"interfaces (CLIs) and automation tools."
+msgstr ""
+
+#: src\language-guide/go.md:15
+msgid ""
+"**Distributed Systems:** Building complex systems that run across multiple "
+"machines."
+msgstr ""
+
+#: src\language-guide/go.md:16
+msgid ""
+"**Web Development:** Creating high-performance web servers that can handle a "
+"huge number of connections simultaneously."
+msgstr ""
+
+#: src\language-guide/go.md:18
+msgid "Why You Might Like Go"
+msgstr ""
+
+#: src\language-guide/go.md:20
+msgid ""
+"**Extremely Fast:** Go compiles directly to machine code, making it "
+"incredibly fast."
+msgstr ""
+
+#: src\language-guide/go.md:21
+msgid ""
+"**Simple & Clean Syntax:** The language has a small, simple set of features, "
+"which makes the code easy to read and maintain."
+msgstr ""
+
+#: src\language-guide/go.md:22
+msgid ""
+"**Built-in Concurrency:** Go makes it famously easy to write code that does "
+"multiple things at once using \"goroutines,\" which are like lightweight "
+"threads."
+msgstr ""
+
+#: src\language-guide/go.md:23
+msgid ""
+"**Single Executable File:** When you build a Go project, it compiles "
+"everything into a single file with no dependencies, making it extremely easy "
+"to deploy."
+msgstr ""
+
+#: src\language-guide/go.md:24
+msgid ""
+"**Backed by Google:** It was created and is heavily used by Google, ensuring "
+"its long-term stability and development."
+msgstr ""
+
+#: src\language-guide/go.md:28
+msgid ""
+"Go's intentional simplicity means it lacks some of the syntactic sugar and "
+"features found in other modern languages, which can sometimes make certain "
+"tasks feel more verbose."
+msgstr ""
+
+#: src\language-guide/go.md:30
+msgid "A Taste of Go Syntax"
+msgstr ""
+
+#: src\language-guide/go.md:32
+msgid ""
+"Here’s a taste of what Go code looks like. Notice how it's structured and "
+"clear."
+msgstr ""
+
+#: src\language-guide/go.md:38
+msgid "\"fmt\""
+msgstr ""
+
+#: src\language-guide/go.md:39
+msgid "\"math/rand\""
+msgstr ""
+
+#: src\language-guide/go.md:40
+msgid "\"strings\""
+msgstr ""
+
+#: src\language-guide/go.md:41
+msgid "\"time\""
+msgstr ""
+
+#: src\language-guide/go.md:43
+msgid ""
+"// === Go: A Day at The Coder's Cafe ===\n"
+"\n"
+"// A standard procedure (Function)\n"
+msgstr ""
+
+#: src\language-guide/go.md:48
+msgid "\"\\n--- Bill for %s ---\\n\""
+msgstr ""
+
+#: src\language-guide/go.md:50
+msgid "\"  - %s\\n\""
+msgstr ""
+
+#: src\language-guide/go.md:56
+msgid "\"Applying a special %d%% discount!\\n\""
+msgstr ""
+
+#: src\language-guide/go.md:64
+msgid "\"Ken\" // This is a note for the chef\n"
+msgstr ""
+
+#: src\language-guide/go.md:67
+msgid "\"Go-pher Burger\" // string\n"
+msgstr ""
+
+#: src\language-guide/go.md:68
+msgid "// int\n"
+msgstr ""
+
+#: src\language-guide/go.md:69
+msgid "// float64\n"
+msgstr ""
+
+#: src\language-guide/go.md:70
+msgid "// bool\n"
+msgstr ""
+
+#: src\language-guide/go.md:71
+msgid "// (use variable to avoid compiler error)\n"
+msgstr ""
+
+#: src\language-guide/go.md:72
+msgid "\"%dx %s\""
+msgstr ""
+
+#: src\language-guide/go.md:75
+msgid "\"Burger\""
+msgstr ""
+
+#: src\language-guide/go.md:76
+msgid "\"Cooking %s on the grill.\\n\""
+msgstr ""
+
+#: src\language-guide/go.md:78
+msgid "\"Cooking %s on the stove.\\n\""
+msgstr ""
+
+#: src\language-guide/go.md:81
+msgid "// --- Module 4: Handling the Full Order (Collections & Loops) ---\n"
+msgstr ""
+
+#: src\language-guide/go.md:82
+msgid "\"Go-pher Burger\""
+msgstr ""
+
+#: src\language-guide/go.md:82
+msgid "\"Concurrency Cola\""
+msgstr ""
+
+#: src\language-guide/go.md:82
+msgid "// Slice\n"
+msgstr ""
+
+#: src\language-guide/go.md:85
+msgid "\"- Adding %s to the ticket.\\n\""
+msgstr ""
+
+#: src\language-guide/go.md:88
+msgid "// Go uses 'for' for while-loops too\n"
+msgstr ""
+
+#: src\language-guide/go.md:91
+msgid "\"Heating soup... now at %d°C\\n\""
+msgstr ""
+
+#: src\language-guide/go.md:96
+msgid ""
+"// --- Module 5: The Final Bill & A Special Offer ---\n"
+"\t// A bill represented as a Map (Key-Value pairs)\n"
+msgstr ""
+
+#: src\language-guide/go.md:104
+msgid "// Call the function from above\n"
+msgstr ""
+
+#: src\language-guide/go.md:111
+msgid "\"Your final bill is $%.2f.\\n\""
+msgstr ""
+
+#: src\language-guide/go.md:112
+msgid "\"Thank you for dining with us, %s!\\n\""
+msgstr ""
+
+#: src\language-guide/go.md:116
+msgid "Start Coding in Go"
+msgstr ""
+
+#: src\language-guide/go.md:122
+msgid ""
+"This method requires **no installation**. You can write and run Go code "
+"immediately on a special website."
+msgstr ""
+
+#: src\language-guide/go.md:124
+msgid "**What to use:** [**The Go Playground**](https://go.dev/play/)"
+msgstr ""
+
+#: src\language-guide/go.md:125
+msgid ""
+"**How it works:** It’s a simple, free website run by the Go team. You write "
+"your code in a text box, click the \"Run\" button, and see the output."
+msgstr ""
+
+#: src\language-guide/go.md:126
+msgid ""
+"**Best for:** Learning the Go syntax, testing a small piece of code, or "
+"sharing code examples."
+msgstr ""
+
+#: src\language-guide/go.md:130
+msgid ""
+"This is how all developers build real applications with Go. This method "
+"requires you to [**install Go**](https://go.dev/doc/install) from the "
+"official website."
+msgstr ""
+
+#: src\language-guide/go.md:132
+msgid "Running Your Code (The Main Way)"
+msgstr ""
+
+#: src\language-guide/go.md:134
+msgid ""
+"Go is a **compiled** language, which means you build your code into an "
+"executable file (`.exe` on Windows, or just `myapp` on Mac/Linux)."
+msgstr ""
+
+#: src\language-guide/go.md:137
+msgid ""
+"Write your code in a text editor (like **VS Code**) and save it (e.g., "
+"`main.go`)."
+msgstr ""
+
+#: src\language-guide/go.md:139
+msgid "Navigate to your file's folder."
+msgstr ""
+
+#: src\language-guide/go.md:140
+msgid "**To quickly test your file:**"
+msgstr ""
+
+#: src\language-guide/go.md:141
+msgid "Type `go run main.go`. This compiles and runs your code in one step."
+msgstr ""
+
+#: src\language-guide/go.md:142
+msgid "**To build your final app:**"
+msgstr ""
+
+#: src\language-guide/go.md:143
+msgid ""
+"Type `go build`. This creates a single executable file (e.g., `main.exe` or "
+"`main`) that you can run directly."
+msgstr ""
+
+#: src\language-guide/go.md:144
+msgid ""
+"**Best for:** Building any real application, from web servers to "
+"command-line tools."
+msgstr ""
+
+#: src\language-guide/go.md:150
+msgid ""
+"**What to use:** **VS Code** with the **Go extension** is the most popular, "
+"free choice. Other great options include **GoLand** (by JetBrains) and "
+"**Zed**."
+msgstr ""
+
+#: src\language-guide/go.md:151
+msgid ""
+"**How it works:** It auto-completes your code, checks for errors as you "
+"type, and helps you manage all your files."
+msgstr ""
+
+#: src\language-guide/go.md:152
+msgid ""
+"**Essential Tooling:** The Go extension for VS Code will automatically "
+"prompt you to install helpful tools like `gopls` (the Go language server) "
+"and `staticcheck` (a linter to find errors). These make development much "
+"smoother."
+msgstr ""
+
+#: src\language-guide/go.md:154
+msgid "Managing Project Dependencies with Go Modules"
+msgstr ""
+
+#: src\language-guide/go.md:156 src\language-guide/csharp.md:148
+msgid ""
+"This is how you add \"packages\" (other people's code libraries) to your "
+"project."
+msgstr ""
+
+#: src\language-guide/go.md:158
+msgid ""
+"**What to use:** **Go Modules** (this is built directly into the `go` "
+"command)."
+msgstr ""
+
+#: src\language-guide/go.md:160
+msgid ""
+"In your project's folder, you run a one-time command: `go mod init "
+"my-project-name`."
+msgstr ""
+
+#: src\language-guide/go.md:161
+msgid ""
+"When you need a new library, you just `import` it in your code. Go will "
+"automatically download and manage it when you run `go build` or `go run`."
+msgstr ""
+
+#: src\language-guide/go.md:162
+msgid ""
+"**Best for:** All projects that use external libraries (which is almost "
+"every real-world project)."
+msgstr ""
+
+#: src\language-guide/go.md:164
+msgid ""
+"**Web Frameworks:** [Gin](https://gin-gonic.com/), "
+"[Echo](https://echo.labstack.com/)."
+msgstr ""
+
+#: src\language-guide/go.md:165
+msgid ""
+"**Database Drivers:** [pgx](https://github.com/jackc/pgx) (for PostgreSQL), "
+"[go-sqlite3](https://github.com/mattn/go-sqlite3)."
+msgstr ""
+
+#: src\language-guide/csharp.md:1
+msgid "C#: The Professional Kitchen"
+msgstr ""
+
+#: src\language-guide/csharp.md:3
+msgid ""
+"Welcome to the C# language guide! If programming languages were kitchens, C# "
+"would be the clean, organized, and high-performance professional kitchen "
+"designed for building robust and scalable applications."
+msgstr ""
+
+#: src\language-guide/csharp.md:5
+msgid "What is C#?"
+msgstr ""
+
+#: src\language-guide/csharp.md:7
+msgid ""
+"C# (pronounced \"C-sharp\") is a modern, object-oriented, and type-safe "
+"programming language developed by Microsoft. It runs on the .NET platform, "
+"which allows it to be used for building a wide variety of applications, from "
+"web APIs and desktop apps to powerful video games."
+msgstr ""
+
+#: src\language-guide/csharp.md:11
+msgid ""
+"C# is a versatile workhorse, particularly popular in the enterprise world "
+"and game development:"
+msgstr ""
+
+#: src\language-guide/csharp.md:13
+msgid ""
+"**Web Development:** Building high-performance backend services and web APIs "
+"with ASP.NET Core."
+msgstr ""
+
+#: src\language-guide/csharp.md:14
+msgid ""
+"**Game Development:** It is the primary language used for the **Unity "
+"engine**, which powers a huge number of games on all platforms."
+msgstr ""
+
+#: src\language-guide/csharp.md:15
+msgid ""
+"**Enterprise Software:** Creating robust, scalable applications for "
+"businesses."
+msgstr ""
+
+#: src\language-guide/csharp.md:16
+msgid ""
+"**Windows Desktop Apps:** Building native applications for the Windows "
+"desktop."
+msgstr ""
+
+#: src\language-guide/csharp.md:18
+msgid "Why You Might Like C\\#"
+msgstr ""
+
+#: src\language-guide/csharp.md:20
+msgid ""
+"**Strongly Typed:** C# checks your code for errors before it runs, which "
+"helps you catch bugs early and write more reliable software."
+msgstr ""
+
+#: src\language-guide/csharp.md:21
+msgid ""
+"**Performance:** As a compiled language, C# offers excellent performance "
+"suitable for demanding applications like games and backend services."
+msgstr ""
+
+#: src\language-guide/csharp.md:22
+msgid ""
+"**Amazing Tooling:** The development experience with tools like **Visual "
+"Studio** and **VS Code with C# Dev Kit** is considered best-in-class, "
+"offering powerful debugging, code completion, and project management."
+msgstr ""
+
+#: src\language-guide/csharp.md:23
+msgid ""
+"**Backed by Microsoft:** With the backing of a major tech company, C# has a "
+"rich ecosystem, long-term support, and a vibrant community."
+msgstr ""
+
+#: src\language-guide/csharp.md:27
+msgid ""
+"While powerful, it is most at home within the .NET ecosystem, which can feel "
+"like a large world to learn at first."
+msgstr ""
+
+#: src\language-guide/csharp.md:29
+msgid "A Taste of C# Syntax"
+msgstr ""
+
+#: src\language-guide/csharp.md:31
+msgid ""
+"Here’s a taste of what C# code looks like. It's structured and clear, "
+"designed for building maintainable applications."
+msgstr ""
+
+#: src\language-guide/csharp.md:33
+msgid ""
+"```csharp\n"
+"// === C#: A Day at The Coder's Cafe ===\n"
+"using System;\n"
+"using System.Collections.Generic;\n"
+"\n"
+"// --- Module 1: Greeting the Customer ---\n"
+"Console.WriteLine(\"Welcome to The Coder's Cafe!\");\n"
+"// This is a note for the chef (a comment)\n"
+"string customerName = \"Anders\";\n"
+"\n"
+"// --- Module 2: Prepping the Ingredients (Data) ---\n"
+"string dishName = \".NET Noodle Soup\";     // string\n"
+"int quantity = 1;                         // int\n"
+"double pricePerDish = 16.00;              // double\n"
+"bool isOrderReady = false;                // bool\n"
+"string orderSummary = $\"{quantity}x {dishName}\"; // String Interpolation\n"
+"\n"
+"// --- Module 3: In the Kitchen (Logic) ---\n"
+"if (dishName.Contains(\"Soup\")) {\n"
+"    Console.WriteLine($\"Cooking {orderSummary} in the large pot.\");\n"
+"} else {\n"
+"    Console.WriteLine($\"Cooking {orderSummary} on the stove.\");\n"
+"}\n"
+"\n"
+"// --- Module 4: Handling the Full Order (Collections & Loops) ---\n"
+"// A customer's complete order (List)\n"
+"var customerOrderList = new List<string> { \".NET Noodle Soup\", \"Generic "
+"Grape Juice\" };\n"
+"Console.WriteLine(\"Processing full order:\");\n"
+"foreach (var item in customerOrderList) {\n"
+"    Console.WriteLine($\"- Adding {item} to the ticket.\");\n"
+"}\n"
+"\n"
+"// A process that repeats until a condition is met (While Loop)\n"
+"int soupTemp = 80;\n"
+"while (soupTemp < 100) {\n"
+"    Console.WriteLine($\"Heating soup... now at {soupTemp}°C\");\n"
+"    soupTemp += 10;\n"
+"}\n"
+"Console.WriteLine(\"Soup is ready!\");\n"
+"\n"
+"// --- Module 5: The Final Bill & A Special Offer (Functions & Imports) ---\n"
+"// The Random class is part of the System library, imported above.\n"
+"var random = new Random();\n"
+"\n"
+"// A standard procedure (Method/Function)\n"
+"double CalculateBill(string customer, List<string> items, double totalPrice) "
+"{\n"
+"    Console.WriteLine($\"\\n"
+"--- Bill for {customer} ---\");\n"
+"    foreach (var item in items) {\n"
+"        Console.WriteLine($\"  - {item}\");\n"
+"    }\n"
+"\n"
+"    // Let's add a random promotional discount!\n"
+"    int discount = random.Next(5, 21); // 5 to 20%\n"
+"    Console.WriteLine($\"Applying a special {discount}% discount!\");\n"
+"    double finalPrice = totalPrice * (1 - discount / 100.0);\n"
+"    return finalPrice; // Return the calculated value\n"
+"}\n"
+"\n"
+"// A bill represented as a Dictionary (Key-Value pairs)\n"
+"var orderBill = new Dictionary<string, object> {\n"
+"    { \"customer\", customerName },\n"
+"    { \"items\", customerOrderList },\n"
+"    { \"total\", pricePerDish * quantity }\n"
+"};\n"
+"\n"
+"// Call the function to get the final result\n"
+"double finalAmount = CalculateBill(\n"
+"    (string)orderBill[\"customer\"],\n"
+"    (List<string>)orderBill[\"items\"],\n"
+"    (double)orderBill[\"total\"]\n"
+");\n"
+"\n"
+"Console.WriteLine($\"Your final bill is {finalAmount:C}.\"); // :C formats "
+"as currency\n"
+"Console.WriteLine($\"Thank you for dining with us, {customerName}!\");\n"
+"```"
+msgstr ""
+
+#: src\language-guide/csharp.md:109
+msgid "Start Coding in C\\#"
+msgstr ""
+
+#: src\language-guide/csharp.md:115
+msgid ""
+"This method requires **no installation**. You can write and run small C# "
+"programs immediately on a website."
+msgstr ""
+
+#: src\language-guide/csharp.md:117
+msgid ""
+"**What to use:** [**.NET Fiddle**](https://dotnetfiddle.net/) or **Replit**."
+msgstr ""
+
+#: src\language-guide/csharp.md:118
+msgid ""
+"**How it works:** It’s a free website with a text box. You write your C# "
+"code, click the \"Run\" button, and see your program's output right in the "
+"browser."
+msgstr ""
+
+#: src\language-guide/csharp.md:119
+msgid ""
+"**Best for:** Learning the C# syntax, testing a small piece of code, or "
+"sharing code examples."
+msgstr ""
+
+#: src\language-guide/csharp.md:123
+msgid ""
+"This is how all developers build real applications with C#. This method "
+"requires you to **install the .NET SDK** (Software Development Kit) from "
+"Microsoft's website (`dot.net`)."
+msgstr ""
+
+#: src\language-guide/csharp.md:125
+msgid "Running a Simple App (The Main Way)"
+msgstr ""
+
+#: src\language-guide/csharp.md:127
+msgid ""
+"C# is project-based. The `dotnet` command (which you get from the .NET SDK) "
+"creates all the files you need for a \"Hello World\" app."
+msgstr ""
+
+#: src\language-guide/csharp.md:131
+msgid ""
+"Type `dotnet new console -n MyFirstApp` to create a new project in a folder "
+"named `MyFirstApp`."
+msgstr ""
+
+#: src\language-guide/csharp.md:132
+msgid "Go into that folder: `cd MyFirstApp`."
+msgstr ""
+
+#: src\language-guide/csharp.md:133
+msgid "Type `dotnet run`. This will compile and run your project."
+msgstr ""
+
+#: src\language-guide/csharp.md:134
+msgid ""
+"**Best for:** Building any real application, from command-line tools to web "
+"APIs."
+msgstr ""
+
+#: src\language-guide/csharp.md:138
+msgid ""
+"An \"IDE\" (Integrated Development Environment) is a powerful editor with "
+"extra features that are almost essential for C#."
+msgstr ""
+
+#: src\language-guide/csharp.md:140
+msgid "**What to use:**"
+msgstr ""
+
+#: src\language-guide/csharp.md:141
+msgid ""
+"**VS Code** with the **C# Dev Kit** extension (Modern, lightweight, and "
+"works on Mac, Linux, and Windows)."
+msgstr ""
+
+#: src\language-guide/csharp.md:142
+msgid ""
+"**Visual Studio** (A full-featured \"powerhouse\" IDE from Microsoft. It's "
+"the standard for professional Windows development and game development with "
+"Unity)."
+msgstr ""
+
+#: src\language-guide/csharp.md:143
+msgid ""
+"**How it works:** These tools check your code for errors, auto-complete what "
+"you type, and let you run and debug your code with the click of a button."
+msgstr ""
+
+#: src\language-guide/csharp.md:144
+msgid "**Best for:** Building any serious project (web, desktop, or games)."
+msgstr ""
+
+#: src\language-guide/csharp.md:146
+msgid "Managing Project Dependencies with NuGet"
+msgstr ""
+
+#: src\language-guide/csharp.md:150
+msgid ""
+"**What is a dependency?** Most C# projects use \"packages\" from **NuGet**, "
+"which is a giant online repository of .NET libraries. These are collections "
+"of pre-written code that solve common problems."
+msgstr ""
+
+#: src\language-guide/csharp.md:151
+msgid ""
+"**What tool to use:** The `dotnet` command has built-in support for NuGet."
+msgstr ""
+
+#: src\language-guide/csharp.md:152
+msgid ""
+"**How it works:** You use a simple terminal command to add a new library to "
+"your project. For example: `dotnet add package Newtonsoft.Json` (a very "
+"popular library for working with JSON)."
+msgstr ""
+
+#: src\language-guide/csharp.md:153
+msgid ""
+"**Best for:** All projects that use external libraries, especially for web "
+"development."
+msgstr ""
+
+#: src\language-guide/php.md:1
+msgid "PHP: The Web's Kitchen Workhorse"
+msgstr ""
+
+#: src\language-guide/php.md:3
+msgid ""
+"Welcome to the PHP language guide! If programming languages were kitchens, "
+"PHP would be the bustling, reliable kitchen that powers a huge portion of "
+"the web's restaurants, from small cafes to massive food chains."
+msgstr ""
+
+#: src\language-guide/php.md:5
+msgid "What is PHP?"
+msgstr ""
+
+#: src\language-guide/php.md:7
+msgid ""
+"PHP (a recursive acronym for \"PHP: Hypertext Preprocessor\") is a "
+"server-side scripting language designed specifically for web development. "
+"\"Server-side\" means it runs on the web server (the \"kitchen\"), not in "
+"the user's browser. It processes requests, interacts with databases, and "
+"generates HTML to send back to the customer's screen."
+msgstr ""
+
+#: src\language-guide/php.md:11
+msgid "PHP is a dominant force on the web. Its primary uses include:"
+msgstr ""
+
+#: src\language-guide/php.md:13
+msgid ""
+"**Building Dynamic Websites:** Creating interactive and data-driven web "
+"pages."
+msgstr ""
+
+#: src\language-guide/php.md:14
+msgid ""
+"**Powering Content Management Systems (CMS):** It's the engine behind giants "
+"like **WordPress**, **Drupal**, and **Joomla**, which together run a massive "
+"percentage of all websites."
+msgstr ""
+
+#: src\language-guide/php.md:15
+msgid ""
+"**E-commerce Platforms:** Powering online stores like Magento and "
+"WooCommerce."
+msgstr ""
+
+#: src\language-guide/php.md:16
+msgid ""
+"**Backend API Development:** Creating the backend logic for web and mobile "
+"applications."
+msgstr ""
+
+#: src\language-guide/php.md:17
+msgid "**Command-Line Scripting:** Writing scripts to automate server tasks."
+msgstr ""
+
+#: src\language-guide/php.md:19
+msgid "Why You Might Like PHP"
+msgstr ""
+
+#: src\language-guide/php.md:21
+msgid ""
+"**Built for the Web:** Its features are tailored for building websites, "
+"making common web tasks straightforward."
+msgstr ""
+
+#: src\language-guide/php.md:22
+msgid ""
+"**Gentle Learning Curve:** The syntax is flexible and forgiving, which can "
+"make it easier for beginners to get started and see results quickly."
+msgstr ""
+
+#: src\language-guide/php.md:23
+msgid ""
+"**Massive Ecosystem:** Because it has been around for a long time, there is "
+"a vast amount of documentation, tutorials, and libraries available."
+msgstr ""
+
+#: src\language-guide/php.md:24
+msgid ""
+"**Easy to Deploy:** Most web hosting providers support PHP out of the box, "
+"making it simple to get your project online."
+msgstr ""
+
+#: src\language-guide/php.md:28
+msgid ""
+"While modern PHP is robust, it has a legacy of older code and tutorials "
+"online, so it's important to ensure you're learning the latest best "
+"practices."
+msgstr ""
+
+#: src\language-guide/php.md:30
+msgid "A Taste of PHP Syntax"
+msgstr ""
+
+#: src\language-guide/php.md:32
+msgid ""
+"Here’s a taste of what PHP code looks like. It's often mixed directly with "
+"HTML, like a recipe card with instructions written right on it."
+msgstr ""
+
+#: src\language-guide/php.md:35
+msgid "// === PHP: A Day at The Coder's Cafe ===\n"
+msgstr ""
+
+#: src\language-guide/php.md:39
+msgid "\"Welcome to The Coder's Cafe!\\n\""
+msgstr ""
+
+#: src\language-guide/php.md:41
+msgid "\"Rasmus\""
+msgstr ""
+
+#: src\language-guide/php.md:41 src\language-guide/rust.md:68
+msgid "// This is a note for the chef (a comment)\n"
+msgstr ""
+
+#: src\language-guide/php.md:44 src\language-guide/php.md:59
+msgid "\"PHP Hypertext Pancakes\""
+msgstr ""
+
+#: src\language-guide/php.md:45
+msgid "// Integer\n"
+msgstr ""
+
+#: src\language-guide/php.md:46
+msgid "// Float\n"
+msgstr ""
+
+#: src\language-guide/php.md:48
+msgid "\"{$quantity}x {$dish_name}\""
+msgstr ""
+
+#: src\language-guide/php.md:48
+msgid "// String Interpolation\n"
+msgstr ""
+
+#: src\language-guide/php.md:51
+msgid "\"Pancakes\""
+msgstr ""
+
+#: src\language-guide/php.md:52
+msgid "\"Cooking {$order_summary} on the griddle.\\n\""
+msgstr ""
+
+#: src\language-guide/php.md:54
+msgid "\"Cooking {$order_summary} on the stove.\\n\""
+msgstr ""
+
+#: src\language-guide/php.md:59
+msgid "\"Server-Side Smoothie\""
+msgstr ""
+
+#: src\language-guide/php.md:60
+msgid "\"Processing full order:\\n\""
+msgstr ""
+
+#: src\language-guide/php.md:62
+msgid "\"- Adding {$item} to the ticket.\\n\""
+msgstr ""
+
+#: src\language-guide/php.md:68
+msgid "\"Heating soup... now at {$soup_temp}°C\\n\""
+msgstr ""
+
+#: src\language-guide/php.md:71
+msgid "\"Soup is ready!\\n\""
+msgstr ""
+
+#: src\language-guide/php.md:72
+msgid ""
+"// --- Module 5: The Final Bill & A Special Offer (Functions & Imports) ---\n"
+"// The rand() function is built-in, no import needed.\n"
+msgstr ""
+
+#: src\language-guide/php.md:78
+msgid "\"\\n--- Bill for {$customer} ---\\n\""
+msgstr ""
+
+#: src\language-guide/php.md:80
+msgid "\"  - {$item}\\n\""
+msgstr ""
+
+#: src\language-guide/php.md:84
+msgid "// 5% to 20% off\n"
+msgstr ""
+
+#: src\language-guide/php.md:85
+msgid "\"Applying a special {$discount}% discount!\\n\""
+msgstr ""
+
+#: src\language-guide/php.md:89
+msgid "// A bill represented as an Associative Array (Key-Value pairs)\n"
+msgstr ""
+
+#: src\language-guide/php.md:104
+msgid "\"Your final bill is $\""
+msgstr ""
+
+#: src\language-guide/php.md:104
+msgid "\".\\n\""
+msgstr ""
+
+#: src\language-guide/php.md:105
+msgid "\"Thank you for dining with us, {$customer_name}!\\n\""
+msgstr ""
+
+#: src\language-guide/php.md:109
+msgid "Start Coding in PHP"
+msgstr ""
+
+#: src\language-guide/php.md:115
+msgid ""
+"This method requires **no installation**. You can write and run small PHP "
+"scripts immediately on a website."
+msgstr ""
+
+#: src\language-guide/php.md:117
+msgid ""
+"**What to use:** any \"PHP Sandbox\" website: [PHP "
+"Sandbox](https://onlinephp.io/), [php-playground](https://php-play.dev/)"
+msgstr ""
+
+#: src\language-guide/php.md:118
+msgid ""
+"**How it works:** You type your PHP code (e.g., `<?php echo \"Hello "
+"World!\"; ?>`) in a text box, click the \"Run\" button, and see the output."
+msgstr ""
+
+#: src\language-guide/php.md:119
+msgid "**Best for:** Learning the PHP syntax and testing a small piece of code."
+msgstr ""
+
+#: src\language-guide/php.md:123
+msgid ""
+"PHP is a \"server-side\" language, which means it almost always runs on a "
+"\"web server\" to generate an HTML page that is then sent to your browser."
+msgstr ""
+
+#: src\language-guide/php.md:125
+msgid "A. The \"All-in-One\" Method (Easiest Local Setup)"
+msgstr ""
+
+#: src\language-guide/php.md:127
+msgid ""
+"This is the most common way for beginners to set up a complete local "
+"development environment."
+msgstr ""
+
+#: src\language-guide/php.md:129
+msgid ""
+"**What to use:** [**XAMPP**](https://www.apachefriends.org/) (for "
+"Windows/Mac/Linux)"
+msgstr ""
+
+#: src\language-guide/php.md:131
+msgid ""
+"You install **XAMPP**. This one program gives you Apache (a web server), "
+"PHP, and a database (MariaDB)."
+msgstr ""
+
+#: src\language-guide/php.md:132
+msgid "You start the \"Apache\" server from the XAMPP control panel."
+msgstr ""
+
+#: src\language-guide/php.md:133
+msgid ""
+"You place your `.php` files in a special folder (e.g., `C:\\xampp\\htdocs`)."
+msgstr ""
+
+#: src\language-guide/php.md:134
+msgid ""
+"You view your work by visiting `http://localhost/your-file-name.php` in your "
+"web browser."
+msgstr ""
+
+#: src\language-guide/php.md:135
+msgid ""
+"**Best for:** Beginners, learning how PHP builds web pages, and working with "
+"databases."
+msgstr ""
+
+#: src\language-guide/php.md:137
+msgid "B. Using an IDE for a Better Workflow"
+msgstr ""
+
+#: src\language-guide/php.md:141
+msgid ""
+"**What to use:** [**VS Code** (with extensions like \"PHP "
+"Intelephense\")](https://code.visualstudio.com/docs/languages/php), [Zed "
+"(with PHP extension)](https://zed.dev/)  or **PhpStorm** (a professional, "
+"paid IDE)."
+msgstr ""
+
+#: src\language-guide/php.md:142
+msgid ""
+"**How it works:** These tools check your code for errors, auto-complete what "
+"you type, and help you manage all the files in your project. They provide a "
+"much better experience than a simple text editor."
+msgstr ""
+
+#: src\language-guide/php.md:144
+msgid "C. Managing Project Dependencies with Composer"
+msgstr ""
+
+#: src\language-guide/php.md:146
+msgid "This is the modern, standard way to build any serious PHP application."
+msgstr ""
+
+#: src\language-guide/php.md:148
+msgid ""
+"**What is a dependency?** Most PHP projects use \"packages\" (or libraries), "
+"which are collections of pre-written code that solve common problems. You "
+"can find these on [**Packagist**](https://packagist.org/), the main online "
+"repository for PHP packages."
+msgstr ""
+
+#: src\language-guide/php.md:149
+msgid "**What tool to use:** [**Composer**](https://getcomposer.org/)"
+msgstr ""
+
+#: src\language-guide/php.md:150
+msgid ""
+"**How it works:** **Composer** is PHP's dependency manager. You declare the "
+"libraries your project needs in a `composer.json` file. Composer then "
+"downloads and manages them for you. This is the foundation for all modern "
+"PHP frameworks."
+msgstr ""
+
+#: src\language-guide/php.md:151
+msgid "**Examples of Key Packages/Frameworks you can install:**"
+msgstr ""
+
+#: src\language-guide/php.md:152
+msgid ""
+"**Frameworks:** [Laravel](https://laravel.com/), "
+"[Symfony](https://symfony.com/)."
+msgstr ""
+
+#: src\language-guide/php.md:153
+msgid ""
+"**CMS:** [WordPress](https://wordpress.org/), "
+"[Drupal](https://www.drupal.org/)."
+msgstr ""
+
+#: src\language-guide/php.md:154
+msgid ""
+"**Helpers:** [Monolog](https://github.com/Seldaek/monolog) (for logging), "
+"[Guzzle](https://github.com/guzzle/guzzle) (for making HTTP requests)."
+msgstr ""
+
+#: src\language-guide/rust.md:1
+msgid "Rust: The High-Performance Forge"
+msgstr ""
+
+#: src\language-guide/rust.md:3
+msgid ""
+"Welcome to the Rust language guide! If programming languages were kitchens, "
+"Rust would be the master forge—a high-tech workshop designed for crafting "
+"incredibly fast, reliable, and efficient tools from the ground up."
+msgstr ""
+
+#: src\language-guide/rust.md:5
+msgid "What is Rust?"
+msgstr ""
+
+#: src\language-guide/rust.md:7
+msgid ""
+"Rust is a systems programming language focused on three things: **safety, "
+"speed, and concurrency.** Its superpower is guaranteeing memory "
+"safety—preventing common bugs like null pointer dereferences and data "
+"races—at compile time. This means the compiler acts as a strict but helpful "
+"inspector who catches critical errors before your code ever runs."
+msgstr ""
+
+#: src\language-guide/rust.md:11
+msgid ""
+"Rust's performance and safety make it ideal for building foundational "
+"software that other applications rely on:"
+msgstr ""
+
+#: src\language-guide/rust.md:13
+msgid ""
+"**Systems Programming:** Writing operating systems, file systems, and "
+"browser components."
+msgstr ""
+
+#: src\language-guide/rust.md:14
+msgid ""
+"**Backend Services:** Building high-performance web servers and "
+"microservices that can handle massive loads."
+msgstr ""
+
+#: src\language-guide/rust.md:15
+msgid ""
+"**Game Development:** Crafting custom game engines and performance-critical "
+"game logic."
+msgstr ""
+
+#: src\language-guide/rust.md:16
+msgid ""
+"**WebAssembly:** Compiling code that can run in a web browser at near-native "
+"speeds."
+msgstr ""
+
+#: src\language-guide/rust.md:17
+msgid ""
+"**Developer Tools:** Creating compilers, command-line interfaces, and other "
+"essential tools."
+msgstr ""
+
+#: src\language-guide/rust.md:19
+msgid "Why You Might Like Rust"
+msgstr ""
+
+#: src\language-guide/rust.md:21
+msgid ""
+"**Incredible Performance:** Rust is as fast as C and C++ but with modern "
+"language features and safety guarantees."
+msgstr ""
+
+#: src\language-guide/rust.md:22
+msgid ""
+"**Memory Safety without a Garbage Collector:** The \"borrow checker\" is "
+"Rust's secret weapon. It's a compile-time feature that ensures your code "
+"manages memory correctly, eliminating a whole class of bugs without the "
+"performance overhead of a garbage collector."
+msgstr ""
+
+#: src\language-guide/rust.md:23
+msgid ""
+"**World-Class Tooling:** The Rust ecosystem comes with `cargo`, an "
+"exceptional build tool and package manager that handles compiling, testing, "
+"and managing dependencies seamlessly."
+msgstr ""
+
+#: src\language-guide/rust.md:24
+msgid ""
+"**A Helpful Compiler:** The Rust compiler is famous for its clear and "
+"helpful error messages, which often guide you directly to the solution. This "
+"turns frustrating bugs into a learning experience."
+msgstr ""
+
+#: src\language-guide/rust.md:28
+msgid ""
+"The 'borrow checker,' which ensures memory safety, has a steep learning "
+"curve but becomes a powerful ally once understood."
+msgstr ""
+
+#: src\language-guide/rust.md:30
+msgid "A Taste of Rust Syntax"
+msgstr ""
+
+#: src\language-guide/rust.md:32
+msgid ""
+"Here’s a taste of what Rust code looks like. It's explicit and structured "
+"for safety and performance."
+msgstr ""
+
+#: src\language-guide/rust.md:35
+msgid "// This line is required for Rust playground\n"
+msgstr ""
+
+#: src\language-guide/rust.md:38
+msgid ""
+"// --- Struct Definition ---\n"
+"// We define this \"template\" for our bill.\n"
+msgstr ""
+
+#: src\language-guide/rust.md:46
+msgid ""
+"// --- Module 5: Part 1 - A Standard Procedure (Function) ---\n"
+"// The function now takes one argument: a reference to our Bill struct\n"
+msgstr ""
+
+#: src\language-guide/rust.md:50
+msgid "\"\\n--- Bill for {} ---\""
+msgstr ""
+
+#: src\language-guide/rust.md:51
+msgid "// Access items via bill.items\n"
+msgstr ""
+
+#: src\language-guide/rust.md:52
+msgid "\"  - {}\""
+msgstr ""
+
+#: src\language-guide/rust.md:58
+msgid "\"Applying a special {}% discount!\""
+msgstr ""
+
+#: src\language-guide/rust.md:60
+msgid "// Access total_price via bill.total_price\n"
+msgstr ""
+
+#: src\language-guide/rust.md:69
+msgid "\"Graydon\""
+msgstr ""
+
+#: src\language-guide/rust.md:72 src\language-guide/rust.md:88
+msgid "\"Borrow-Checked Bagel\""
+msgstr ""
+
+#: src\language-guide/rust.md:72
+msgid "// string slice\n"
+msgstr ""
+
+#: src\language-guide/rust.md:73
+msgid "// 32-bit integer\n"
+msgstr ""
+
+#: src\language-guide/rust.md:74
+msgid "// 64-bit float\n"
+msgstr ""
+
+#: src\language-guide/rust.md:75
+msgid "// boolean (mutable)\n"
+msgstr ""
+
+#: src\language-guide/rust.md:76
+msgid "\"{}x {}\""
+msgstr ""
+
+#: src\language-guide/rust.md:79
+msgid "\"Bagel\""
+msgstr ""
+
+#: src\language-guide/rust.md:80
+msgid "\"Cooking {} in the conveyor toaster.\""
+msgstr ""
+
+#: src\language-guide/rust.md:82
+msgid "\"Cooking {} on the stove.\""
+msgstr ""
+
+#: src\language-guide/rust.md:84
+msgid "// Update the order status\n"
+msgstr ""
+
+#: src\language-guide/rust.md:86
+msgid ""
+"// --- Module 4: Handling the Full Order (Collections & Loops) ---\n"
+"        // A customer's complete order (Vector)\n"
+msgstr ""
+
+#: src\language-guide/rust.md:88
+msgid "\"Ownership Orange Juice\""
+msgstr ""
+
+#: src\language-guide/rust.md:91
+msgid "\"- Adding {} to the ticket.\""
+msgstr ""
+
+#: src\language-guide/rust.md:97
+msgid "\"Heating soup... now at {}°C\""
+msgstr ""
+
+#: src\language-guide/rust.md:102
+msgid "// --- Module 5: Part 2 - The Final Bill & A Special Offer ---\n"
+msgstr ""
+
+#: src\language-guide/rust.md:111
+msgid "// Call the function and pass the single struct instance\n"
+msgstr ""
+
+#: src\language-guide/rust.md:114
+msgid "\"Your final bill is ${:.2}.\""
+msgstr ""
+
+#: src\language-guide/rust.md:115
+msgid "\"Thank you for dining with us, {}!\""
+msgstr ""
+
+#: src\language-guide/rust.md:119
+msgid "Start Coding in Rust"
+msgstr ""
+
+#: src\language-guide/rust.md:125
+msgid ""
+"This method requires **no installation** and is the fastest way to try Rust."
+msgstr ""
+
+#: src\language-guide/rust.md:127
+msgid "**What to use:** [The Rust Playground](https://play.rust-lang.org/)"
+msgstr ""
+
+#: src\language-guide/rust.md:128
+msgid ""
+"**How it works:** It’s a simple, free website. You write your Rust code in a "
+"text box, click \"Run,\" and see the output."
+msgstr ""
+
+#: src\language-guide/rust.md:129
+msgid ""
+"**Best for:** Learning the Rust syntax, testing small pieces of code, and "
+"sharing examples."
+msgstr ""
+
+#: src\language-guide/rust.md:133
+msgid ""
+"This is how all developers build real applications. It involves installing "
+"Rust's powerful toolchain."
+msgstr ""
+
+#: src\language-guide/rust.md:135
+msgid "Installation with `rustup`"
+msgstr ""
+
+#: src\language-guide/rust.md:137
+msgid "**What to use:** **`rustup`**"
+msgstr ""
+
+#: src\language-guide/rust.md:138
+msgid ""
+"**How it works:** Go to the official website **`rustup.rs`** and follow the "
+"instructions. This installs the entire Rust toolchain, including:"
+msgstr ""
+
+#: src\language-guide/rust.md:139
+msgid "`rustc`: The Rust compiler."
+msgstr ""
+
+#: src\language-guide/rust.md:140
+msgid "`cargo`: Rust's all-in-one project manager and build tool."
+msgstr ""
+
+#: src\language-guide/rust.md:142
+msgid "Running Projects with `cargo` (The Main Way)"
+msgstr ""
+
+#: src\language-guide/rust.md:144
+msgid ""
+"You will use the **`cargo`** command for almost everything. It simplifies "
+"your entire workflow."
+msgstr ""
+
+#: src\language-guide/rust.md:147
+msgid ""
+"**Create a project:** Open your terminal and type `cargo new my_app`. This "
+"creates a new folder called `my_app` with a \"Hello, world!\" project."
+msgstr ""
+
+#: src\language-guide/rust.md:148
+msgid ""
+"**Run your project:** Go into the folder (`cd my_app`) and type `cargo run`. "
+"Cargo will compile and run your application."
+msgstr ""
+
+#: src\language-guide/rust.md:149
+msgid "**Best for:** Building, running, and testing _any_ Rust application."
+msgstr ""
+
+#: src\language-guide/rust.md:153
+msgid ""
+"An \"IDE\" (Integrated Development Environment) is highly recommended for "
+"learning and writing Rust."
+msgstr ""
+
+#: src\language-guide/rust.md:155
+msgid ""
+"**What to use:** **VS Code** with the **`rust-analyzer`** extension, or "
+"**Zed**."
+msgstr ""
+
+#: src\language-guide/rust.md:156
+msgid ""
+"**How it works:** `rust-analyzer` is an official extension that checks your "
+"code _as you type_. It provides excellent error messages, auto-completion, "
+"and other hints that make Rust's strictness much easier to work with."
+msgstr ""
+
+#: src\language-guide/rust.md:157
+msgid "**Best for:** All serious development."
+msgstr ""
+
+#: src\language-guide/rust.md:159
+msgid "Managing Project Dependencies with `cargo`"
+msgstr ""
+
+#: src\language-guide/rust.md:161
+msgid ""
+"This is how you add \"crates\" (Rust's name for code libraries) to your "
+"project."
+msgstr ""
+
+#: src\language-guide/rust.md:163
+msgid ""
+"**What is a dependency?** Most Rust projects use \"crates\" from the "
+"community registry, **`crates.io`**. These are collections of pre-written "
+"code that solve common problems."
+msgstr ""
+
+#: src\language-guide/rust.md:164
+msgid "**What tool to use:** **`cargo`** (again!)"
+msgstr ""
+
+#: src\language-guide/rust.md:166
+msgid ""
+"You find a crate you want on **`crates.io`** (e.g., `rand` for random "
+"numbers)."
+msgstr ""
+
+#: src\language-guide/rust.md:167
+msgid ""
+"You add one line to the `Cargo.toml` file (which `cargo new` created for "
+"you), under `[dependencies]`, like this: `rand = \"0.8\"`"
+msgstr ""
+
+#: src\language-guide/rust.md:168
+msgid ""
+"The next time you run `cargo build` or `cargo run`, Cargo will automatically "
+"download, compile, and link that library for you."
+msgstr ""
+
+#: src\language-guide/rust.md:169
+msgid "**Examples of Key Crates you can install:**"
+msgstr ""
+
+#: src\language-guide/rust.md:170
+msgid ""
+"**Web Development:** [axum](https://github.com/tokio-rs/axum), "
+"[actix-web](https://actix.rs/), [rocket](https://rocket.rs/)."
+msgstr ""
+
+#: src\language-guide/rust.md:171
+msgid "**Async Runtime:** [tokio](https://tokio.rs/)."
+msgstr ""
+
+#: src\language-guide/rust.md:172
+msgid ""
+"**Data Processing:** [serde](https://serde.rs/) (for "
+"serialization/deserialization), [polars](https://pola.rs/)."
+msgstr ""
+
+#: src\language-guide/rust.md:173
+msgid "**Command-Line Apps:** [clap](https://github.com/clap-rs/clap)."
+msgstr ""
+
+#: src\misc/about.md:3
+msgid ""
+"This guide was created with the goal of making the fundamental concepts of "
+"programming accessible to absolute beginners, regardless of their "
+"background. We focus on the \"why\" before the \"how,\" using simple "
+"analogies and interactive examples."
+msgstr ""
+
+#: src\misc/about.md:5
+msgid ""
+"The aim is not to make you a professional developer overnight, but to give "
+"you the confidence to read, understand, and start using code in your own "
+"work and life."
+msgstr ""
+
+#: src\misc/about.md:9
+msgid "Inspiration and Motivation"
+msgstr ""
+
+#: src\misc/about.md:11
+msgid ""
+"This project draws inspiration from several excellent resources. I admire "
+"the tutorial style of [Kaggle](https://www.kaggle.com/), but wanted to "
+"create something more language-agnostic and faster to get started with. The "
+"ability to run code directly in the browser, as seen in the official [Rust "
+"Lang Book](https://doc.rust-lang.org/book/), was a key feature I wanted to "
+"emulate."
+msgstr ""
+
+#: src\misc/about.md:13
+msgid ""
+"The primary motivation, however, is to create a high-quality, interactive "
+"guide for the Thai-speaking community. While some Thai tutorials exist, many "
+"rely on external tools like Google Colab. This guide aims to be a "
+"self-contained and seamless learning experience."
+msgstr ""
+
+#: src\misc/about.md:15
+msgid "How This Guide Was Built"
+msgstr ""
+
+#: src\misc/about.md:17
+msgid ""
+"This project was also a personal experiment in using modern tools to create "
+"educational content."
+msgstr ""
+
+#: src\misc/about.md:19
+msgid ""
+"**Authoring with AI:** The guide is an exploration of using AI to help "
+"generate technical tutorials. The content is first drafted in English with "
+"the help of AI assistants, then refined and prepared for translation into "
+"Thai. This process leverages the AI's strength in English as a solid "
+"foundation for high-quality content."
+msgstr ""
+
+#: src\misc/about.md:21
+msgid ""
+"**The mdBook Platform:** I chose to use "
+"[mdBook](https://rust-lang.github.io/mdBook/) to build the guide, partly out "
+"of a desire to learn the tool myself and explore its capabilities for "
+"creating clean, book-like experiences for readers. Two crucial plugins make "
+"the interactive features possible:"
+msgstr ""
+
+#: src\misc/about.md:23
+msgid ""
+"**[mdbook-repl](https://github.com/mr-addict/mdbook-repl):** This allows "
+"code snippets to be run directly in the browser, client-side."
+msgstr ""
+
+#: src\misc/about.md:24
+msgid ""
+"**[mdbook-langtabs](https://github.com/nx10/mdbook-langtabs):** This "
+"provides the language-switching tabs, which I've slightly modified to "
+"remember the user's selected language across pages."
+msgstr ""
+
+#: src\misc/about.md:26
+msgid "Project Status & Language Support"
+msgstr ""
+
+#: src\misc/about.md:28
+msgid "This tutorial is a living document and is still under development."
+msgstr ""
+
+#: src\misc/about.md:30
+msgid ""
+"Currently, the interactive code examples fully support **Python** and "
+"**JavaScript**."
+msgstr ""
+
+#: src\misc/about.md:32
+msgid ""
+"You will also find code snippets for **Go**, **C#**, and **Rust**. For now, "
+"these are _display-only_ and cannot be run in the browser. This is due to a "
+"current limitation in the `mdbook-repl` plugin that powers the interactive "
+"execution. I hope to add support for them in the future as the tooling "
+"evolves."
+msgstr ""
+
+#: src\misc/about.md:34
+msgid ""
+"You might wonder why Rust, a language often considered challenging for new "
+"programmers, is included. The simple reason is that this guide is built "
+"using mdBook, a tool written in Rust! Including it is a small nod to the "
+"technology that makes this project possible."
+msgstr ""
+
+#: src\misc/about.md:36
+msgid "License"
+msgstr ""
+
+#: src\misc/about.md:38
+msgid ""
+"\"[Coding for Everyone](https://s2p2.github.io/coding-for-everyone/)\" © "
+"2025 by [Sathianphong Phongsathian](https://github.com/S2P2) is licensed "
+"under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)."
+msgstr ""
+
+#: src\misc/about.md:40
+msgid ""
+"[![CC BY-NC-SA "
+"4.0](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)"
+msgstr ""
+
+#: src\misc/about.md:42
+msgid ""
+"You are free to share and adapt this material for non-commercial purposes, "
+"as long as you provide attribution and share your contributions under the "
+"same license."
+msgstr ""
+
+#: src\misc/about.md:44
+msgid "Feedback"
+msgstr ""
+
+#: src\misc/about.md:46
+msgid ""
+"If you have any feedback or suggestions for improvement, they are greatly "
+"appreciated!"
+msgstr ""
+
