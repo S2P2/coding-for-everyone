@@ -51,8 +51,8 @@
 
 # Resources
 
-- [Glossary of Terms]()
-- [Recommended Tools]()
+- [Glossary of Terms](resources/glossary.md)
+- [Tools & Learning Resources](resources/tools.md)
 
 ---
 
