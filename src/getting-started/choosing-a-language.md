@@ -48,4 +48,4 @@ Beyond their main purpose, languages also have different "personalities."
 
 ```
 
-This structure is the best of all worlds. It's clean, concise, and perfectly tailored to the needs of different learners using the same page.
+More detail in [language guide](../language-guide/language-table.md).
