@@ -63,6 +63,14 @@ console.log(price);
 
 <!-- langtabs-end -->
 
+```admonish note title="Numbers: Varied Implementations, Same Purpose" collapsible=true
+Numbers are fundamental for mathematical operations across all programming languages, but their implementation varies.
+
+Other programming languages offer distinct integer and floating-point types (e.g., `int32`, `f64`) with different sizes for memory optimization and precision. In contrast, Python dynamically handles integer size, and JavaScript uses a single `Number` type for both.
+
+The core idea remains: numbers are for calculations!
+```
+
 ### Booleans (True or False)
 
 A **boolean** is the simplest data type. It can only have one of two values: `true` or `false`. Think of it as a light switch—it's either on or off. There's no in-between.
