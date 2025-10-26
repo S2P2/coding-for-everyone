@@ -30,7 +30,7 @@
   - [Kitchen Stations (Functions)](concepts/module-5/functions.md)
   - [Passing Ingredients (Function Parameters)](concepts/module-5/function-parameters.md)
   - [Returning the Dish (Function Returns)](concepts/module-5/function-returns.md)
-  - [Kitchen Gadgets (Using External Code)](concepts/module-5/imports.md)
+  - [Kitchen Gadgets (Imports)](concepts/module-5/imports.md)
 
 # First Project
 
