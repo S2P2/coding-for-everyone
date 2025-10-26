@@ -5,6 +5,7 @@
 # Getting Started
 
 - [What is Programming?](getting-started/what-is-programming.md)
+- [What You'll Build?](getting-started/what-you-will-build.md)
 - [Choosing Your Kitchen: A Guide to Programming Languages](getting-started/choosing-a-language.md)
 
 # Core Concepts
