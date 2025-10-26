@@ -1,20 +1,22 @@
 # The Secret Recipe (Solution)
 
-This is just possible solution.
+This is just one possible solution.
 
 Don't be intimidated by the full block of code. We'll break it down piece by piece right after. This is what the finished recipe looks like.
 
 <!-- langtabs-start -->
 
 ```python
-# We need this library to generate a random number
+# Module 5: We need a "kitchen gadget" (library) to generate a random number.
 import random
 
 # --- 1. The Setup (Mise en Place) ---
-# The computer chooses a secret temperature between 300 and 400.
+# Module 1: The computer chooses a secret temperature and stores it in a "prep bowl" (variable).
 optimal_temperature = random.randint(300, 400)
+# Module 1: We store the number of attempts in another variable.
 number_of_attempts = 7
 
+# Module 1: We use print() to display a welcome message.
 print("You've discovered a secret ingredient!")
 print("Let's find the perfect temperature to bake the cake.")
 print(f"You have {number_of_attempts} attempts. Good luck!")
@@ -22,13 +24,14 @@ print("------------------------------------------")
 
 
 # --- 2. The Baking Loop ---
-# This loop will run for the number of attempts we have.
+# Module 4: A "for loop" is perfect for repeating a known number of times.
 for attempt_number in range(1, number_of_attempts + 1):
     # --- 3. Get the User's Guess ---
-    # We ask for input and convert it to an integer (a whole number).
+    # Module 1 & 2: We get user input (which is always text) and convert it to a number (integer).
     guess = int(input(f"Attempt #{attempt_number}: Enter your guess (300-400): "))
 
     # --- 4. The Logic (Check the Result) ---
+    # Module 3: We use "if/elif/else" to make decisions based on comparisons.
     if guess < optimal_temperature:
         print(f"Your guess of {guess}°F is too cold! The cake is gooey and undercooked. Try a higher temperature.")
     elif guess > optimal_temperature:
@@ -37,7 +40,8 @@ for attempt_number in range(1, number_of_attempts + 1):
         # This code runs if the guess is exactly right.
         print(f"Perfection! {guess}°F is the exact temperature. The cake is golden-brown and delicious.")
         print("You've mastered the secret ingredient!")
-        break # Exit the loop immediately since we won.
+        # Module 4: 'break' lets us exit the loop early since we won.
+        break
 
 # --- 5. The "Game Over" Condition ---
 # This part of the code only runs if the loop finishes WITHOUT a 'break'.
@@ -50,26 +54,30 @@ else:
 
 ```javascript
 // --- 1. The Setup (Mise en Place) ---
-// The computer chooses a secret temperature between 300 and 400.
+// Module 1: The computer chooses a secret temperature and stores it in a "prep bowl" (variable).
+// Math.random() is a built-in "kitchen gadget" from Module 5.
 const optimalTemperature = Math.floor(Math.random() * 101) + 300; // Result is between 300 and 400
+// Module 1: We store the number of attempts in another variable.
 const numberOfAttempts = 7;
 
+// Module 1: We use console.log() to display a welcome message.
 console.log("You've discovered a secret ingredient!");
 console.log("Let's find the perfect temperature to bake the cake.");
 console.log(`You have ${numberOfAttempts} attempts. Good luck!`);
 console.log("------------------------------------------");
 
-// We'll track if the player won inside the loop
+// Module 1 & 2: A boolean variable to track if the player has won.
 let hasWon = false;
 
 // --- 2. The Baking Loop ---
-// This loop will run for the number of attempts we have.
+// Module 4: A "for loop" is perfect for repeating a known number of times.
 for (let attemptNumber = 1; attemptNumber <= numberOfAttempts; attemptNumber++) {
     // --- 3. Get the User's Guess ---
-    // We ask for input and convert it to an integer (a whole number).
+    // Module 1 & 2: We get user input (which is always text) and convert it to a number (integer).
     let guess = parseInt(prompt(`Attempt #${attemptNumber}: Enter your guess (300-400):`));
 
     // --- 4. The Logic (Check the Result) ---
+    // Module 3: We use "if/else if/else" to make decisions based on comparisons.
     if (guess < optimalTemperature) {
         alert(`Your guess of ${guess}°F is too cold! The cake is gooey and undercooked. Try a higher temperature.`);
     } else if (guess > optimalTemperature) {
@@ -78,12 +86,13 @@ for (let attemptNumber = 1; attemptNumber <= numberOfAttempts; attemptNumber++) 
         // This code runs if the guess is exactly right.
         alert(`Perfection! ${guess}°F is the exact temperature. The cake is golden-brown and delicious. You've mastered the secret ingredient!`);
         hasWon = true; // Mark that the player has won
-        break; // Exit the loop immediately since we won.
+        // Module 4: 'break' lets us exit the loop early since we won.
+        break;
     }
 }
 
 // --- 5. The "Game Over" Condition ---
-// After the loop finishes, we check if the player won.
+// Module 3: After the loop, we use a final "if" statement to check if the player won.
 // If they didn't win, it means they ran out of tries.
 if (!hasWon) {
     alert(`Oh no! You've run out of the secret ingredient.\nThe correct temperature was ${optimalTemperature} degrees. Better luck next time!`);
@@ -129,4 +138,4 @@ When the player wins, we use the `break` command to immediately stop the loop. T
 ### 5. The "Game Over" Condition
 What happens if the player never guesses the right number? The `for` loop will simply finish all of its cycles. The code after the loop is our "game over" message, which only runs if the player ran out of attempts without hitting a `break`.
 
-Congratulations! You've just walked through the logic for a complete, working game. You combined all the core concepts into a fun, interactive project. Now it's your turn to be the chef—try running the code and playing it yourself
+Congratulations! You've just walked through the logic for a complete, working game. You combined all the core concepts into a fun, interactive project. Now it's your turn to be the chef—try running the code and playing it yourself!

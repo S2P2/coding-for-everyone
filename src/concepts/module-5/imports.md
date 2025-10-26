@@ -102,3 +102,11 @@ console.log("The milk will expire on: " + formattedDate);
 <!-- langtabs-end -->
 
 By using external code, you can stand on the shoulders of giants. You can add powerful features like randomness, web requests, or complex math to your programs without having to write them all yourself. It's the key to building bigger and better things, faster.
+
+### Mini-Exercise 💡
+
+1.  **Goal:** Create a function or method called `roll_d20` that simulates rolling a 20-sided die (like in Dungeons & Dragons⚔️🎲🐉).
+2.  Inside your function, use the necessary tools to generate a random integer between 1 and 20.
+3.  The function should print the result to the screen with a message like: "You rolled a [number]!"
+4.  Call your function to test it.
+5.  🔥 **Bonus:** Create a more advanced function `roll_dice(sides, count)` that accepts the number of sides on a die and how many dice to roll. For example, `roll_dice(6, 3)` should simulate rolling a 6-sided die 3 times and print each result.
