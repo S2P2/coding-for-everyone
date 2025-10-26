@@ -44,3 +44,10 @@ console.log(ovenTemperature >= 350);
 <!-- langtabs-end -->
 
 Try changing the value of `oven_temperature` and see how the output changes from `true` to `false`.
+
+### Mini-Exercise 💡
+
+1.  Create two number variables, `a` and `b`. Assign them any two different numbers.
+2.  Write code to check if `a` is greater than `b` and print the result.
+3.  Write code to check if `a` is equal to `b` and print the result.
+4.  Write code to check if `a` is not equal to `b` and print the result.

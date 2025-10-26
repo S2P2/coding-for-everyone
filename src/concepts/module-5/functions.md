@@ -48,3 +48,11 @@ prepareStation();
 <!-- langtabs-end -->
 
 Functions are the most important organizational tool in programming. They let you write code once and use it everywhere, making your programs cleaner, shorter, and much easier to manage.
+
+### Mini-Exercise 💡
+
+1. Define a function called **`greet_the_day`**.
+2. Inside the function, write the code to print a short, encouraging message, such as:
+    * "Good morning, sunshine!"
+    * "Let's make today great!"
+3. **Call the function three times** to start the day with multiple positive affirmations.

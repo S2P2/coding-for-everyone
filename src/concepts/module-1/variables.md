@@ -54,3 +54,8 @@ Across all the languages in this guide (Python, JavaScript, Go, C#, PHP, and Rus
 | **PHP** | `camelCase` | `SCREAMING_SNAKE_CASE` | Modern PHP (e.g., Laravel, Symfony) uses `camelCase`.<br>You may see `snake_case` in older code or WordPress. |
 | **Rust** | `snake_case` | `SCREAMING_SNAKE_CASE` | Follow the [Rust API naming guide](https://rust-lang.github.io/api-guidelines/naming.html). <br>The `rustc` compiler is very strict about these conventions<br>and will issue warnings if they are not followed. |
 ```
+
+### Mini-Exercise 💡
+
+1.  Declare a variable to store the name of your favorite dish.
+3.  Print that variable to the screen.

@@ -94,3 +94,26 @@ console.log(isOvenPreheated);
 ```
 
 <!-- langtabs-end -->
+
+### Mini-Exercise 💡
+
+For each of the following values, identify its data type (e.g., string, integer, float, or boolean).
+
+1.  `"Hello, World!"`
+2.  `101`
+3.  `3.14159`
+4.  `true`
+5.  `"false"`
+6.  `-50`
+
+<details>
+<summary>Answers</summary>
+
+1.  String
+2.  Integer
+3.  Float
+4.  Boolean
+5.  String (because it's in quotes!)
+6.  Integer
+
+</details>

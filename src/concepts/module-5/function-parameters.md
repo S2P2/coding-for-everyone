@@ -75,3 +75,9 @@ bake("pizza", 425);
 <!-- langtabs-end -->
 
 By using parameters, your functions transform from simple, repeatable scripts into powerful, reusable tools that can adapt to different situations. This is the key to writing efficient and intelligent code.
+
+### Mini-Exercise 💡
+
+1.  Define a function called `introduce` that takes two parameters: `name` and `age`.
+2.  Inside the function, print a message like: "Hello, my name is [name] and I am [age] years old."
+3.  Call the `introduce` function three times with different names and ages as arguments.

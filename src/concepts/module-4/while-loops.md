@@ -58,3 +58,11 @@ console.log(`Ding! The water is at ${waterTemp}°C. Time to add the pasta!`);
 <!-- langtabs-end -->
 
 The `while` loop is essential for situations where the number of iterations isn't known beforehand, like waiting for a user to type "quit", processing data until a file ends, or, in our final project, giving a player guesses until they win or run out of tries.
+
+### Mini-Exercise 💡
+
+1.  Create a variable called `countdown` and set it to `10`.
+2.  Write a `while` loop that continues as long as `countdown` is greater than `0`.
+3.  Inside the loop, print the value of `countdown`.
+4.  After printing, decrease the value of `countdown` by 1.
+5.  After the loop finishes, print the message "Blast off! 🚀".

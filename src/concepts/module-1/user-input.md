@@ -55,3 +55,9 @@ User input is almost always received as a string (text)
 If you ask for a number and want to do math with it, you'll need to convert it first!
 
 We'll see how to do that in our final project.
+
+### Mini-Exercise 💡
+
+1.  Ask the user for their favorite food.
+2.  Store their answer in a variable.
+3.  Print a message that says "Oh, you like [user's favorite food]? That sounds delicious!"

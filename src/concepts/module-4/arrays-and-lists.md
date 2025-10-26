@@ -62,5 +62,10 @@ console.log(thirdStep); // Displays "Pour into baking dish"
 
 <!-- langtabs-end -->
 
+```admonish info title="What happens if you try to access an item that doesn't exist?" collapsible=true
+If you try to access an item using an index that is outside the valid range of the list (for example, index `4` in a list that only has four items with indices `0` to `3`), you'll encounter a common error known as an "index out of range" or "index out of bounds" error.
+
+This happens because you're asking for an item at a position that doesn't exist in the list. It's like trying to find a page in a book that isn't there. The program doesn't know what to do, so it stops and reports this error to let you know that something has gone wrong with how you're trying to access the list's contents.
+```
 
 By using a list, we can keep all our related data organized in a single, ordered container. Now, how do we work with every item on this list without calling them one by one? That's where loops come in.

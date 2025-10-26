@@ -54,8 +54,6 @@ for (let step of recipe) {
 
 The combination of lists (to store your `ingredients` and `steps`) and loops (to process them) is one of the most powerful pairings in all of programming. You'll use it constantly to work with collections of `ingredients`, `menu items`, `orders`, or any other data you can imagine.
 
----
-
 ## Beyond Printing: Using Loops to Calculate
 
 The real power of loops comes from doing calculations. Imagine your recipe has multiple stages, each with a different duration. A loop can act as a calculator to find the total time.
@@ -106,3 +104,24 @@ console.log("Total cooking time: " + totalTime + " minutes");
 <!-- langtabs-end -->
 
 That's it. We didn't just read the list; we used a loop to process it and produce a single, meaningful result. This technique of aggregating data is fundamental. You'll use it to sum up sales, count users, or calculate averages—all by combining a list and a `for` loop.
+
+### Mini-Exercise 💡
+
+The `for` loop is powerful because you can change the list, and the loop code still works perfectly.
+
+1.  Start with the code from the "Beyond Printing" section that calculates `total_time`.
+2.  Add a new number to the `cooking_times` list. For example, add `5` minutes for "cooling".
+3.  Run the code again. Notice how you didn't have to change the loop at all. It automatically included the new item in its calculation.
+4.  Try adding another one!
+
+## What If You Don't Have a List?
+
+`For` loops are perfect when you have a list of items and you want to do something for *each* item. But what if you don't have a list? What if you need to repeat an action until a certain *condition* is met?
+
+-   "Keep stirring **until** the sauce is thick."
+-   "Wait **while** the oven is preheating."
+-   "Knead the dough **until** it's smooth."
+
+You don't know exactly how many stirs or how many minutes that will take. You just know the goal. For these situations, we need a different kind of loop.
+
+In the next section, we'll explore **`while` loops**, which are designed for exactly this purpose: repeating an action as long as a certain condition remains true.

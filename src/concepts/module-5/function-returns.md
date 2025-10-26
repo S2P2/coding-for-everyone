@@ -68,3 +68,11 @@ console.log("Enjoy your beautiful platter: " + sushiPlatter);
 <!-- langtabs-end -->
 
 Notice the key difference: a function with `print` just displays something on the screen. A function with `return` gives you a value back that you can store in a variable and use to make further decisions or calculations. This is the primary way that different parts of a program communicate with each other.
+
+### Mini-Exercise 💡
+
+1.  Define a function called `calculate_area` that takes two parameters: `width` and `height`.
+2.  Inside the function, calculate the area (`width * height`) and **return** the result.
+3.  Call the function with a width of `10` and a height of `5`. Store the returned value in a variable called `room_area`.
+4.  Print the `room_area`.
+5.  🔥**Bonus:** Create another function called `calculate_cost` that takes the `area` and a `price_per_sq_ft` as parameters and returns the total cost. Call this function with your `room_area` and a price of your choice.

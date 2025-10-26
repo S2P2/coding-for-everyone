@@ -78,3 +78,13 @@ if (porridgeTemp > 85) {
 <!-- langtabs-end -->
 
 With this structure, you can create clear and effective logic for any number of choices, ensuring your program always knows the right step to take.
+
+### Mini-Exercise 💡
+
+Let's modify the code to assign a letter grade based on a score.
+- A: score >= 90
+- B: 80 <= score < 90
+- C: 70 <= score < 80
+- F: score < 70
+
+Try it with a variable score = 85 and see what grade gets printed.

@@ -73,3 +73,16 @@ console.log("Difficulty: " + recipe.difficulty);
 <!-- langtabs-end -->
 
 Dictionaries are incredibly versatile. You'll use them constantly to represent anything with a set of properties: a user profile (with keys like `username`, `email`, `id`), a product in an online store (`name`, `price`, `sku`), or configuration settings for an application. They are the go-to tool whenever you need to look up a value by its name instead of its numerical position.
+
+### Mini-Exercise 💡
+
+1.  Create a dictionary (or object) to represent a pet.
+2.  Include the following keys: `name`, `animal_type` (e.g., "Dog", "Cat"), `age`, and `is_friendly` (a boolean).
+3.  Print the pet's name and age.
+4.  Update the `age` to be one year older.
+5.  Add a new key-value pair for the pet's favorite `food`.
+6.  Print the entire pet dictionary.
+
+```admonish note title="About naming convention"
+The naming conventions for these keys vary according to the style and standards of the programming language you're using, as we already mentioned in the [Summary of Naming Conventions section in Variables chapter](../../concepts/module-1/variables.html#admonition-summary-of-naming-conventions) .
+```

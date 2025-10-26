@@ -109,3 +109,11 @@ console.log(normalizedSpecial); // Displays: classic burger with fries
 <!-- langtabs-end -->
 
 These three operations—combining, checking length, and changing case—are the essential tools in your text-handling toolkit. You'll use them constantly to build dynamic, readable, and user-friendly programs.
+
+### Mini-Exercise 💡
+
+1.  Create two string variables, one for your first name and one for your last name.
+2.  Combine them to create your full name, and store it in a new variable. Make sure to include a space between the names!
+3.  Print your full name to the screen.
+4.  Print the length of your full name.
+5.  Print your full name in all uppercase letters.
