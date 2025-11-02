@@ -17,6 +17,7 @@
   - [Notes in the Margin (Comments)](concepts/module-1/comments.md)
 - [Prepping Your Ingredients (Data and Operations)](concepts/module-2/README.md)
   - [The Food Groups (Data Types)](concepts/module-2/data-types.md)
+  - [Changing Ingredients](concepts/module-2/type-conversion.md)
   - [The Kitchen Scale (Simple Math)](concepts/module-2/simple-math.md)
   - [Chopping and Combining (Working with Text)](concepts/module-2/working-with-text.md)
 - [Following the Recipe (Logic & Flow)](concepts/module-3/README.md)

@@ -9,7 +9,7 @@ cargo install mdbook mdbook-langtabs mdbook-repl mdbook-mermaid mdbook-admonish
 ## TODO List
 
 - [ ] Error handling chapter
-- [ ] Data type conversion
+- [x] Data type conversion
 - [ ] Hint, solution to mini-exercise
 - [ ] `break;` in loop chapters
 - [ ] More detail step by step in setup instructions
